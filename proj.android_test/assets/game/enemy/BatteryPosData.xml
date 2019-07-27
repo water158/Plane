@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<BatteryPos>
+	<Item plane_id="101" connon_num="1">
+		<pos id="1" x="0" y="-14"></pos>
+	</Item>
+	<Item plane_id="201" connon_num="2">
+		<pos id="1" x="0" y="-45"></pos>
+		<pos id="2" x="0" y="36"></pos>
+	</Item>
+	<Item plane_id="202" connon_num="3">
+		<pos id="1" x="56" y="-42"></pos>
+		<pos id="2" x="0" y="-22"></pos>
+		<pos id="3" x="-56" y="-42"></pos>
+	</Item>
+	<Item plane_id="203" connon_num="2">
+		<pos id="1" x="50" y="-22"></pos>
+		<pos id="2" x="-50" y="-22"></pos>
+	</Item>
+	<Item plane_id="301" connon_num="3">
+		<pos id="1" x="79" y="-5"></pos>
+		<pos id="2" x="0" y="-15"></pos>
+		<pos id="3" x="-79" y="-5"></pos>
+	</Item>
+	<Item plane_id="302" connon_num="3">
+		<pos id="1" x="114" y="11"></pos>
+		<pos id="2" x="0" y="41"></pos>
+		<pos id="3" x="-114" y="11"></pos>
+	</Item>
+	<Item plane_id="401" connon_num="5">
+		<pos id="1" x="147" y="-76"></pos>
+		<pos id="2" x="84" y="-7"></pos>
+		<pos id="3" x="0" y="10"></pos>
+		<pos id="4" x="-84" y="-7"></pos>
+		<pos id="5" x="-147" y="-76"></pos>
+	</Item>
+	<Item plane_id="402" connon_num="5">
+		<pos id="1" x="150" y="-18"></pos>
+		<pos id="2" x="80" y="-45"></pos>
+		<pos id="3" x="0" y="-74"></pos>
+		<pos id="4" x="-150" y="-45"></pos>
+		<pos id="5" x="-80" y="-18"></pos>
+	</Item>
+	<Item plane_id="403" connon_num="4">
+		<pos id="1" x="167" y="7"></pos>
+		<pos id="2" x="98" y="-36"></pos>
+		<pos id="3" x="-167" y="7"></pos>
+		<pos id="4" x="-98" y="-36"></pos>
+	</Item>
+	<Item plane_id="501" connon_num="6">
+		<pos id="1" x="227" y="41"></pos>
+		<pos id="2" x="195" y="0"></pos>
+		<pos id="3" x="98" y="-19"></pos>
+		<pos id="4" x="-227" y="41"></pos>
+		<pos id="5" x="-195" y="0"></pos>
+		<pos id="6" x="-98" y="-19"></pos>
+	</Item>
+	<Item plane_id="502" connon_num="6">
+		<pos id="1" x="236" y="-30"></pos>
+		<pos id="2" x="122" y="9"></pos>
+		<pos id="3" x="86" y="-45"></pos>
+		<pos id="4" x="-236" y="-30"></pos>
+		<pos id="5" x="-122" y="9"></pos>
+		<pos id="6" x="-86" y="-45"></pos>
+	</Item>
+</BatteryPos>

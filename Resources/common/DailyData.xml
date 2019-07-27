@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<DailyData>
+	<!-- 当日分数累积 -->
+	<DailyTotalScore>0</DailyTotalScore>
+	<!-- 一局分数累积 -->
+	<OneMissionTotalScore>0</OneMissionTotalScore>
+	<!-- 当日波数累积 -->
+	<DailyTotalWaves>0</DailyTotalWaves>
+	<!-- 一局分数累积 -->
+	<OneMissionTotalWaves>0</OneMissionTotalWaves>
+	<!-- 强化任一装备到级数 -->
+	<StrengthEquip>0</StrengthEquip>
+	<!-- 当日累积强化次数 -->
+	<DailyStrengthTimes>0</DailyStrengthTimes>
+	<!-- 当日累积获得装备 -->
+	<DailyGetEquip>0</DailyGetEquip>
+	<!-- 当日累积获得金币 -->
+	<DailyGetGold>0</DailyGetGold>
+	<!-- 一局累积获得金币 -->
+	<OneMissionGetGold>0</OneMissionGetGold>
+	<!-- 当日累积摧毁敌机 -->
+	<DailyDestoryEnemy>0</DailyDestoryEnemy>
+	<!-- 一局累积摧毁敌机 -->
+	<OneMissionDestoryEnemy>0</OneMissionDestoryEnemy>
+	<!-- 当日累积出击次数 -->
+	<DailyAttackTimes>0</DailyAttackTimes>
+	<!-- 当日抽奖 -->
+	<DailyLotteryTimes>0</DailyLotteryTimes>
+	<!-- 当日出售装备 -->
+	<DailySellEquip>0</DailySellEquip>
+	<!-- 当日分享装备 -->
+	<DailyShareEquip>0</DailyShareEquip>
+	<!-- 当日分享成就 -->
+	<DailyShareAchieve>0</DailyShareAchieve>
+	<!-- 当日分享成绩（结算界面） -->
+	<DailyShareAccount>0</DailyShareAccount>
+</DailyData>

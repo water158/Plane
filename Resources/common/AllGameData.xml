@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<AllGameData>
+	<!-- 里程 -->
+	<mileage>0</mileage>
+	<!-- 击毁 -->
+	<shatter>0</shatter>
+	<!-- 释放道具 -->
+	<useTools>0</useTools>
+	<!-- 释放道具类型 -->
+	<useToolsType>
+		<toolsType id="1">0</toolsType>
+		<toolsType id="2">0</toolsType>
+		<toolsType id="3">0</toolsType>
+		<toolsType id="4">0</toolsType>
+		<toolsType id="5">0</toolsType>
+	</useToolsType>
+	<!-- 获得优秀装备 -->
+	<getExcellentEquip>0</getExcellentEquip>
+	<!-- 获得优秀装备类型 -->
+	<getExcellentEquipType>
+		<type id="1">0</type>
+		<type id="2">0</type>
+		<type id="3">0</type>
+		<type id="4">0</type>
+		<type id="5">0</type>
+		<type id="6">0</type>
+	</getExcellentEquipType>
+	<!-- 获得精良装备 -->
+	<getSophisticateEquip>0</getSophisticateEquip>
+	<!-- 获得精良装备类型 -->
+	<getSophisticateEquipType>
+		<type id="1">0</type>
+		<type id="2">0</type>
+		<type id="3">0</type>
+		<type id="4">0</type>
+		<type id="5">0</type>
+		<type id="6">0</type>
+	</getSophisticateEquipType>
+	<!-- 获得史诗装备 -->
+	<getEpicEquip>0</getEpicEquip>
+	<!-- 获得史诗装备类型 -->
+	<getEpicEquipType>
+		<type id="1">0</type>
+		<type id="2">0</type>
+		<type id="3">0</type>
+		<type id="4">0</type>
+		<type id="5">0</type>
+		<type id="6">0</type>
+	</getEpicEquipType>
+	<!-- 获得传说装备 -->
+	<getLegendEquip>0</getLegendEquip>
+	<!-- 获得传说装备类型 -->
+	<getLegendEquipType>
+		<type id="1">0</type>
+		<type id="2">0</type>
+		<type id="3">0</type>
+		<type id="4">0</type>
+		<type id="5">0</type>
+		<type id="6">0</type>
+	</getLegendEquipType>
+	<!-- 获得橙色装备 -->
+	<getOrangeEquip>0</getOrangeEquip>
+	<!-- 抽奖次数 -->
+	<lotteryTimes>0</lotteryTimes>
+	<!-- 装备强化等级 -->
+	<strengthEquip>0</strengthEquip>
+	<!-- 充值 -->
+	<recharge>0</recharge>
+	<!-- 累积消耗钻石 -->
+	<consumeDamond>0</consumeDamond>
+	<!-- 累积出击次数 -->
+	<totalAttack>0</totalAttack>
+	<!-- 最高分数 -->
+	<bestScore>0</bestScore>
+	<!-- 累积获得金币 -->
+	<getGold>0</getGold>
+	<!-- 累积获得钻石 -->
+	<getGem>0</getGem>
+	<!-- 累积完成任务 -->
+	<finishTask>0</finishTask>
+</AllGameData>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/aipay_gray" >
+
+
+   <com.baifubao.pay.mobile.iapppaysecservice.res2jar.layout4portrait.TitleViewBar 
+        android:id="@+id/v_title_bar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tip_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/v_title_bar"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/aipay_select_value"
+        android:textColor="@color/aipay_text_black"
+        android:textSize="15sp" />
+
+	<RelativeLayout
+	    android:id="@+id/v_charge_layout"
+	    android:layout_width="fill_parent"
+	    android:layout_height="45dp"
+	    android:layout_below="@+id/tip_text"
+	    android:layout_marginLeft="11dp"
+	    android:layout_marginRight="11dp"
+	    android:layout_marginTop="20dp"
+	    android:background="@drawable/aipay_edit_text_view_bg"
+	    android:clickable="true" >
+	    <TextView
+		    android:id="@+id/tv_lable"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_centerVertical="true"
+		    android:layout_marginLeft="10dp"
+		    android:text="@string/aipay_sms_value"
+		    android:textColor="@color/aipay_text_black"
+		    android:textSize="15sp" />
+    	<TextView
+		    android:id="@+id/tv_charge_value"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_centerVertical="true"
+		    android:layout_marginLeft="20dp"
+		    android:layout_toRightOf="@+id/tv_lable"
+		    android:text="@string/ebpay_mode_surplus_assis"
+		    android:textColor="@color/aipay_text_black"
+		    android:textSize="15sp" />
+	    <ImageView
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_alignParentRight="true"
+		    android:layout_centerVertical="true"
+		    android:layout_marginRight="20dp"
+		    android:contentDescription="@string/ebpay_img"
+		    android:src="@drawable/aipay_arrow_expand_order" />
+    </RelativeLayout> 
+
+    <TextView
+        android:id="@+id/tv_predict_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/v_charge_layout"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:text="@string/aipay_sms_vbi"
+        android:textColor="@color/aipay_text_orange"
+        android:textSize="15sp" />
+
+    <Button
+        android:id="@+id/btn_submit"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:layout_below="@+id/tv_predict_value"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/aipay_bg_confrim_selector"
+        android:text="@string/aipay_comfirm_submit"
+        android:textColor="@color/aipay_white"
+        android:textSize="15sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btn_submit"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/aipay_sms_tip"
+        android:textColor="#555555"
+        android:textSize="12sp" />
+
+    <ScrollView
+        android:id="@+id/value_scroll"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/v_charge_layout"
+        android:layout_marginBottom="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/ebpay_circular_bg1"
+        android:padding="0dp"
+        android:scrollbars="none"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:id="@+id/value_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="0dp" />
+    </ScrollView>
+
+</RelativeLayout>

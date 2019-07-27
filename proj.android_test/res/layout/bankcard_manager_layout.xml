@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/aipay_gray"
+    android:orientation="vertical" >
+
+    <com.baifubao.pay.mobile.iapppaysecservice.res2jar.layout4portrait.TitleViewBar
+        android:id="@+id/v_title_bar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <ListView
+        android:id="@+id/bc_list"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:visibility="gone"
+        android:layout_weight="1" />
+
+    <RelativeLayout
+        android:id="@+id/empty_view"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:visibility="gone"
+        android:background="@color/aipay_gray" >
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:orientation="vertical" >
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:contentDescription="@null"
+                android:src="@drawable/ic_no_trans_record" />
+            <TextView
+                android:id="@+id/no_banks_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/no_trans_record"
+                android:textColor="@color/aipay_text_aaaaaa"
+                android:textSize="17sp" />
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>

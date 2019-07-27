@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp" >
+
+    <RelativeLayout
+        android:id="@+id/surplus_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="16dp" >
+
+        <TextView
+            android:id="@+id/tv_pay_type_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="@string/ebpay_pay_mode_surplus"
+            android:textColor="@color/ebpay_text_333333"
+            android:textSize="@dimen/ebpay_text_size_18" />
+
+        <TextView
+            android:id="@+id/tv_surplus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:layout_toRightOf="@+id/tv_pay_type_name"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:textColor="@color/ebpay_text_333333"
+            android:textSize="@dimen/ebpay_text_size_18" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/pass_area"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ebpay_edit_text_view_bg"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp" >
+		
+        <TextView
+            android:id="@+id/tv_lable"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/ebpay_white_line_small_height"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:text="@string/ebpay_pay_pass"
+            android:textColor="@color/ebpay_text_333333"
+            android:textSize="@dimen/ebpay_text_size_15" />
+                    
+        <com.baidu.android.pay.view.SafeEditText
+            android:id="@+id/et_pay_pass"
+            style="@style/edit_common_style"
+            android:layout_width="0dip"
+            android:layout_weight="1"
+            android:layout_height="@dimen/ebpay_white_line_small_height"
+            android:inputType="textPassword"
+            android:paddingLeft="10dp"
+            android:maxLength="20"
+            android:hint="@string/ebpay_pay_pass_bfb"
+            android:textColor="@color/ebpay_text_333333"
+            android:textSize="@dimen/ebpay_text_size_15" />
+        
+         <ImageView
+            android:id="@+id/clear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/ebpay_img"
+            android:scaleType="fitXY"
+            android:paddingLeft="@dimen/ebpay_dimen_10dp"
+            android:paddingRight="@dimen/ebpay_dimen_10dp"
+            android:src="@drawable/ebpay_bg_del_selector" />
+        
+        
+    </LinearLayout>
+    
+      <Button
+          android:id="@+id/tv_repair"
+          android:layout_width="fill_parent"
+          android:layout_height="@dimen/ebpay_bt_height"
+          android:layout_marginBottom="@dimen/ebpay_line_margin_10"
+          android:layout_marginLeft="5dip"
+          android:gravity="center"
+          android:layout_marginRight="5dip"
+          android:layout_marginTop="@dimen/ebpay_line_margin_10"
+          android:background="@drawable/ebpay_bg_confrim_selector"
+          android:text="@string/ebpay_repair_pwd"
+          android:textColor="@color/ebpay_white"
+          android:textSize="@dimen/ebpay_text_size_15" />
+    
+
+</LinearLayout>

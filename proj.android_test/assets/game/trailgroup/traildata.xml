@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<TrailGroup id="1" description="straight up 1">
+		<MoveBy id="1" bx1="0" by1="100" moveby_x="0" moveby_y="60" time="1"></MoveBy>
+		<Died id="2" ></Died>
+	</TrailGroup>
+	<TrailGroup id="2" description="straight left up 60pc pause 1">
+		<MoveBy id="1" bx="30" by="30" bx1="100" by1="100" moveby_x="10" moveby_y="10" time="1"></MoveBy>
+		<StayAt id="2" time="1"></StayAt>
+		<Repeat id="3" b_id="1" e_id="2" repeat_times="2"></Repeat>
+		<StayAt id="4" time="1"></StayAt>
+		<MoveBy id="5" bx1="100" by1="100" moveby_x="5" moveby_y="5" time="1"></MoveBy>
+		<Repeat id="6" b_id="4" e_id="5" repeat_times="2"></Repeat>
+		<StayAt id="7" time="5"></StayAt>
+		<Died id="8" ></Died>
+	</TrailGroup>
+	<TrailGroup id="3" description="straight left up 60pc pause 1">
+		<MoveArc id="1" bx="0" by="0" radius="60" angle="-180" time="0.5"/>
+		<MoveArc id="2" radius="80" angle="180" time="0.3"/>
+		<MoveArc id="3" radius="100" angle="-180" time="0.3"/>
+		<MoveArc id="4" radius="120" angle="180" time="0.2"/>
+		<MoveArc id="5" radius="140" angle="-180" time="0.2"/>
+		<MoveArc id="6" radius="160" angle="180" time="0.1"/>
+		<MoveArc id="7" radius="180" angle="-180" time="0.1"/>
+		<MoveArc id="8" radius="200" angle="180" time="0.05"/>
+		<MoveArc id="9" radius="220" angle="-180" time="0.05"/>
+	</TrailGroup>
+	<TrailGroup id="4" description="straight left up 60pc pause 1">
+		<MoveArc id="1" bx="0" by="0" radius="60" angle="180" time="0.5"/>
+		<MoveArc id="2" radius="80" angle="-180" time="0.3"/>
+		<MoveArc id="3" radius="100" angle="180" time="0.3"/>
+		<MoveArc id="4" radius="120" angle="-180" time="0.2"/>
+		<MoveArc id="5" radius="140" angle="180" time="0.2"/>
+		<MoveArc id="6" radius="160" angle="-180" time="0.1"/>
+		<MoveArc id="7" radius="180" angle="180" time="0.1"/>
+		<MoveArc id="8" radius="200" angle="-180" time="0.05"/>
+		<MoveArc id="9" radius="220" angle="180" time="0.05"/>
+	</TrailGroup>
+	
+	<TrailGroup id="5" description="straight left up 60pc pause 1">
+		<MoveBy id="1" bx1="2" by1="1" moveby_x="7.5" moveby_y="4.33" time="3.0"/>
+		<MoveArc id="2" radius="96" angle="-120" time="1.0"/>
+		<MoveArc id="3" radius="96" angle="120" time="1.0"/>
+		<MoveBy id="4" moveby_x="75" moveby_y="43.3" time="1.0"/>
+	</TrailGroup>
+	<TrailGroup id="6" description="straight left up 60pc pause 1">
+		<MoveBy id="1" bx1="7.5" by1="4.33" moveby_x="15" moveby_y="8.66" time="1.0"/>
+		<MoveArc id="2" radius="96" angle="-120" time="1.0"/>
+		<MoveArc id="3" radius="96" angle="120" time="1.0"/>
+		<MoveBy id="4" moveby_x="75" moveby_y="43.3" time="1.0"/>
+	</TrailGroup>
+	<TrailGroup id="7" description="straight left up 60pc pause 1">
+		<MoveBy id="1" bx1="0" by1="0" moveby_x="15" moveby_y="8.66" time="1.0"/>
+		<MoveArc id="2" radius="96" angle="-120" time="1.0"/>
+		<MoveArc id="3" radius="96" angle="120" time="1.0"/>
+		<MoveBy id="4" moveby_x="75" moveby_y="43.3" time="1.0"/>
+	</TrailGroup>
+	<TrailGroup id="8" description="straight left up 60pc pause 1">
+		<MoveBy id="1"  bx1="0" by1="-7.5" moveby_x="0" moveby_y="-15" time="0.2"/>
+		<MoveArc id="2" radius="3600" angle="90" time="18.0"/>
+	</TrailGroup>
+	<TrailGroup id="9" description="straight left up 60pc pause 1">
+		<MoveBy id="1"  bx1="0" by1="0" moveby_x="0" moveby_y="-25" time="0.2"/>
+		<MoveArc id="2" radius="1800" angle="90" time="14.0"/>
+	</TrailGroup>
+	<TrailGroup id="10" description="straight left up 60pc pause 1">
+		<MoveBy id="1"  bx1="0" by1="0" moveby_x="0" moveby_y="-10" time="0.1"/>
+		<MoveBy id="2"  moveby_x="0" moveby_y="-1000" time="5.0"/>
+	</TrailGroup>
+	<TrailGroup id="11" description="straight left up 60pc pause 1">
+		<MoveBy id="1"  bx1="0" by1="0" moveby_x="0" moveby_y="-25" time="0.6"/>
+		<MoveBy id="2"  moveby_x="0" moveby_y="-5" time="0.1"/>
+		<MoveBy id="3"  moveby_x="0" moveby_y="-1" time="0.03"/>
+		<MoveBy id="4"  moveby_x="0" moveby_y="-80" time="2.4"/>
+	</TrailGroup>
+	<TrailGroup id="12" description="straight left up 60pc pause 1--4.12s">
+		<MoveBy id="1"  bx1="0" by1="0" moveby_x="0" moveby_y="-30" time="0.54"/>
+		<MoveBy id="2"  moveby_x="0" moveby_y="-20" time="0.4"/>
+		<MoveBy id="3"  moveby_x="0" moveby_y="-10" time="0.25"/>
+		<MoveBy id="4"  moveby_x="0" moveby_y="-5" time="0.15"/>
+		<MoveBy id="5"  moveby_x="0" moveby_y="-5" time="0.2"/>
+		<MoveBy id="6"  moveby_x="0" moveby_y="-3" time="0.18"/>
+		<MoveBy id="7"  moveby_x="0" moveby_y="-1" time="0.08"/>
+		<MoveBy id="8"  moveby_x="0" moveby_y="1" time="0.08"/>
+		<MoveBy id="9"  moveby_x="0" moveby_y="3" time="0.18"/>
+		<MoveBy id="10"  moveby_x="0" moveby_y="5" time="0.2"/>
+		<MoveBy id="11"  moveby_x="0" moveby_y="5" time="0.15"/>
+		<MoveBy id="12"  moveby_x="0" moveby_y="10" time="0.25"/>
+		<MoveBy id="13"  moveby_x="0" moveby_y="20" time="0.4"/>
+		<MoveBy id="14"  moveby_x="0" moveby_y="30" time="0.54"/>
+		<MoveBy id="15"  moveby_x="0" moveby_y="40" time="0.6"/>
+		<MoveBy id="16"  moveby_x="0" moveby_y="100" time="1.5"/>
+	</TrailGroup>
+	
+</root>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="265dp"
+    android:layout_height="wrap_content">
+    
+    <RelativeLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="46dp"
+        android:background="@drawable/aipay_round_title_top">
+        <TextView
+            android:id="@+id/tv_dlg_title"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_centerVertical="true"
+	        android:paddingLeft="10dp"
+	        android:textColor="@color/ebpay_white"
+	        android:text="@string/aipay_tip"/>
+    </RelativeLayout>
+    
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/aipay_round_bottom">
+
+	    <LinearLayout
+	        android:id="@+id/v_content"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="vertical">
+	        
+	    </LinearLayout>
+    
+	    <LinearLayout 
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="12dp"
+	        android:layout_marginBottom="12dp"
+	        android:orientation="horizontal">
+		    <Button
+		        android:id="@+id/btn_1"
+		        android:layout_width="fill_parent"
+		        android:layout_height="43dp"
+		        android:layout_marginLeft="10dp"
+		        android:layout_marginRight="10dp"
+		        android:textSize="15sp"
+				android:textColor="@color/aipay_text_555555"
+		        android:text="@string/aipay_submit_cancle"
+		        android:background="@drawable/aipay_bt_wt_selector"
+		        android:layout_weight="1"/>
+		   	<Button
+		        android:id="@+id/btn_2"
+		        android:layout_width="fill_parent"
+		        android:layout_height="43dp"
+		        android:background="@drawable/aipay_bg_confrim_selector"
+		        android:layout_marginLeft="10dp"
+		        android:layout_marginRight="10dp"
+		        android:textSize="15sp"
+				android:textColor="@color/aipay_white"
+		        android:text="@string/aipay_subimt_sure"
+		        android:layout_weight="1"/>
+	    </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

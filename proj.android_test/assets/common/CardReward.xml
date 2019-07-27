@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<CardReward>
+		<!--tag="1"为代币类 type="1"为金币 type="2"为钻石 value=""为个数-->
+		<!--tag="2"为装备类 type="3~7"为装备白绿蓝紫橙品质 value=""为个数 img=""为装备的图标id-->
+	<RewardGroup id="1">
+		<Reward id="1" tag="1" type="1" value="300"/>
+		<Reward id="2" tag="1" type="2" value="5"/>
+		<Reward id="3" tag="1" type="1" value="500"/>
+		<Reward id="4" tag="2" type="3" value="1" img="2"/>
+		<Reward id="5" tag="2" type="3" value="1" img="4"/>
+		<Reward id="6" tag="2" type="3" value="1" img="6"/>
+	</RewardGroup>
+	<RewardGroup id="2">
+		<Reward id="1" tag="1" type="1" value="500"/>
+		<Reward id="2" tag="1" type="2" value="5"/>
+		<Reward id="3" tag="1" type="1" value="800"/>
+		<Reward id="4" tag="2" type="3" value="1" img="1"/>
+		<Reward id="5" tag="2" type="3" value="1" img="3"/>
+		<Reward id="6" tag="2" type="3" value="1" img="5"/>
+		<Reward id="7" tag="1" type="2" value="10"/>
+	</RewardGroup>
+	<RewardGroup id="3">
+		<Reward id="1" tag="1" type="1" value="500"/>
+		<Reward id="2" tag="1" type="2" value="5"/>
+		<Reward id="3" tag="1" type="1" value="800"/>
+		<Reward id="4" tag="2" type="3" value="1" img="7"/>
+		<Reward id="5" tag="2" type="3" value="1" img="9"/>
+		<Reward id="6" tag="1" type="2" value="10"/>
+		<Reward id="7" tag="1" type="1" value="1000"/>
+	</RewardGroup>
+	<RewardGroup id="4">
+		<Reward id="1" tag="1" type="1" value="800"/>
+		<Reward id="2" tag="1" type="2" value="5"/>
+		<Reward id="3" tag="1" type="1" value="1000"/>
+		<Reward id="4" tag="2" type="3" value="1" img="8"/>
+		<Reward id="5" tag="2" type="3" value="1" img="10"/>
+		<Reward id="6" tag="1" type="2" value="10"/>
+		<Reward id="7" tag="1" type="1" value="1200"/>
+	</RewardGroup>
+	<RewardGroup id="5">
+		<Reward id="1" tag="1" type="1" value="1000"/>
+		<Reward id="2" tag="1" type="2" value="10"/>
+		<Reward id="3" tag="1" type="1" value="1200"/>
+		<Reward id="4" tag="2" type="4" value="1" img="1"/>
+		<Reward id="5" tag="2" type="4" value="1" img="2"/>
+		<Reward id="6" tag="1" type="2" value="15"/>
+		<Reward id="7" tag="1" type="1" value="1500"/>
+	</RewardGroup>
+	<RewardGroup id="6">
+		<Reward id="1" tag="1" type="1" value="1000"/>
+		<Reward id="2" tag="1" type="2" value="10"/>
+		<Reward id="3" tag="1" type="1" value="1200"/>
+		<Reward id="4" tag="2" type="5" value="1" img="3"/>
+		<Reward id="5" tag="2" type="5" value="1" img="4"/>
+		<Reward id="6" tag="1" type="2" value="15"/>
+		<Reward id="7" tag="1" type="1" value="1500"/>
+	</RewardGroup>
+	<RewardGroup id="7">
+		<Reward id="1" tag="1" type="1" value="1000"/>
+		<Reward id="2" tag="1" type="2" value="10"/>
+		<Reward id="3" tag="1" type="1" value="1200"/>
+		<Reward id="4" tag="2" type="5" value="1" img="5"/>
+		<Reward id="5" tag="2" type="5" value="1" img="6"/>
+		<Reward id="6" tag="1" type="2" value="15"/>
+		<Reward id="7" tag="1" type="1" value="1500"/>
+	</RewardGroup>
+	<RewardGroup id="8">
+		<Reward id="1" tag="1" type="1" value="1000"/>
+		<Reward id="2" tag="1" type="2" value="10"/>
+		<Reward id="3" tag="1" type="1" value="1200"/>
+		<Reward id="4" tag="2" type="5" value="1" img="7"/>
+		<Reward id="5" tag="2" type="5" value="1" img="8"/>
+		<Reward id="6" tag="1" type="2" value="15"/>
+		<Reward id="7" tag="1" type="1" value="1500"/>
+	</RewardGroup>
+	<RewardGroup id="9">
+		<Reward id="1" tag="1" type="1" value="1200"/>
+		<Reward id="2" tag="1" type="2" value="10"/>
+		<Reward id="3" tag="1" type="1" value="1500"/>
+		<Reward id="4" tag="2" type="5" value="1" img="9"/>
+		<Reward id="5" tag="2" type="5" value="1" img="10"/>
+		<Reward id="6" tag="1" type="2" value="15"/>
+		<Reward id="7" tag="1" type="1" value="2000"/>
+	</RewardGroup>
+</CardReward>

@@ -1,0 +1,13 @@
+<Hero>
+	<Shapes>
+		<ShapePart id="1" name="body" is_transform="1" transform_name="plane_wing" transform_path="game/wing/plane_wing.ExportJson" x="0" y="0" z="0" scale_x="0.5" scale_y="0.5" rotation="90" ></ShapePart>
+	</Shapes>
+	<Collisions>
+        <CollisionGroup id="1" >
+            <CollisionRect id="1" x="-25" y="-40" w="50" h="80" />
+        </CollisionGroup>
+    </Collisions>
+	<Weapon>
+		<TargetGunGroup id="1" gungroup_id="120" first_delay="1" x="0" y="0" repeat_delay="0.3" harm="60"/>
+    </Weapon>
+</Hero>

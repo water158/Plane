@@ -1,0 +1,2257 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<GunGroup id="1" description="炮管组----扩散3圈" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="4" speed="0" trail_group_id="10" trail_group_angle="0"></Gun>
+		<Gun id="2" x="0" y="0"  delay="0.0" rotation="0" bullet_id="4" speed="0" trail_group_id="10" trail_group_angle="20"></Gun>
+		<Gun id="3" x="0" y="0"  delay="0.0" rotation="0" bullet_id="4" speed="0" trail_group_id="10" trail_group_angle="40"></Gun>
+		<Gun id="4" x="0" y="0"  delay="0.0" rotation="0" bullet_id="4" speed="0" trail_group_id="10" trail_group_angle="60"></Gun>
+		<Gun id="5" x="0" y="0"  delay="0.0" rotation="0" bullet_id="4" speed="0" trail_group_id="10" trail_group_angle="80"></Gun>
+		<Gun id="6" x="0" y="0"  delay="0.0" rotation="0" bullet_id="4" speed="0" trail_group_id="10" trail_group_angle="100"></Gun>
+		<Gun id="7" x="0" y="0"  delay="0.0" rotation="0" bullet_id="4" speed="0" trail_group_id="10" trail_group_angle="120"></Gun>
+		<Gun id="8" x="0" y="0"  delay="0.0" rotation="0" bullet_id="4" speed="0" trail_group_id="10" trail_group_angle="140"></Gun>
+		<Gun id="9" x="0" y="0"  delay="0.0" rotation="0" bullet_id="4" speed="0" trail_group_id="10" trail_group_angle="160"></Gun>
+		<Gun id="10" x="0" y="0"  delay="0.0" rotation="0" bullet_id="4" speed="0" trail_group_id="10" trail_group_angle="180"></Gun>
+		<Gun id="11" x="0" y="0"  delay="0.0" rotation="0" bullet_id="4" speed="0" trail_group_id="10" trail_group_angle="200"></Gun>
+		<Gun id="12" x="0" y="0"  delay="0.0" rotation="0" bullet_id="4" speed="0" trail_group_id="10" trail_group_angle="220"></Gun>
+		<Gun id="13" x="0" y="0"  delay="0.0" rotation="0" bullet_id="4" speed="0" trail_group_id="10" trail_group_angle="240"></Gun>
+		<Gun id="14" x="0" y="0"  delay="0.0" rotation="0" bullet_id="4" speed="0" trail_group_id="10" trail_group_angle="260"></Gun>
+		<Gun id="15" x="0" y="0"  delay="0.0" rotation="0" bullet_id="4" speed="0" trail_group_id="10" trail_group_angle="280"></Gun>
+		<Gun id="16" x="0" y="0"  delay="0.0" rotation="0" bullet_id="4" speed="0" trail_group_id="10" trail_group_angle="300"></Gun>
+		<Gun id="17" x="0" y="0"  delay="0.0" rotation="0" bullet_id="4" speed="0" trail_group_id="10" trail_group_angle="320"></Gun>
+		<Gun id="18" x="0" y="0"  delay="0.0" rotation="0" bullet_id="4" speed="0" trail_group_id="10" trail_group_angle="340"></Gun>
+	</GunGroup>
+	<GunGroup id="2" description="炮管组----三发360顺时针旋转散射" >
+		<Gun id="1" x="0" y="0" delay="0.1" rotation="0" bullet_id="4" speed="250"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.2" rotation="20" bullet_id="4" speed="250"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.3" rotation="40" bullet_id="4" speed="250"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.4" rotation="60" bullet_id="4" speed="250"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.5" rotation="80" bullet_id="4" speed="250"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.6" rotation="100" bullet_id="4" speed="250"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.7" rotation="120" bullet_id="4" speed="250"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.8" rotation="140" bullet_id="4" speed="250"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.9" rotation="160" bullet_id="4" speed="250"></Gun>
+		<Gun id="10" x="0" y="0" delay="1.0" rotation="180" bullet_id="4" speed="250"></Gun>
+		<Gun id="11" x="0" y="0" delay="1.1" rotation="200" bullet_id="4" speed="250"></Gun>
+		<Gun id="12" x="0" y="0" delay="1.2" rotation="220" bullet_id="4" speed="250"></Gun>
+		<Gun id="13" x="0" y="0" delay="1.3" rotation="240" bullet_id="4" speed="250"></Gun>
+		<Gun id="14" x="0" y="0" delay="1.4" rotation="260" bullet_id="4" speed="250"></Gun>
+		<Gun id="15" x="0" y="0" delay="1.5" rotation="280" bullet_id="4" speed="250"></Gun>
+		<Gun id="16" x="0" y="0" delay="1.6" rotation="300" bullet_id="4" speed="250"></Gun>
+		<Gun id="17" x="0" y="0" delay="1.7" rotation="320" bullet_id="4" speed="250"></Gun>
+		<Gun id="18" x="0" y="0" delay="1.8" rotation="340" bullet_id="4" speed="250"></Gun>	
+
+		<Gun id="1" x="0" y="0" delay="0.1" rotation="120" bullet_id="4" speed="250"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.2" rotation="140" bullet_id="4" speed="250"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.3" rotation="160" bullet_id="4" speed="250"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.4" rotation="180" bullet_id="4" speed="250"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.5" rotation="200" bullet_id="4" speed="250"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.6" rotation="220" bullet_id="4" speed="250"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.7" rotation="240" bullet_id="4" speed="250"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.8" rotation="260" bullet_id="4" speed="250"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.9" rotation="280" bullet_id="4" speed="250"></Gun>
+		<Gun id="10" x="0" y="0" delay="1.0" rotation="300" bullet_id="4" speed="250"></Gun>
+		<Gun id="11" x="0" y="0" delay="1.1" rotation="320" bullet_id="4" speed="250"></Gun>
+		<Gun id="12" x="0" y="0" delay="1.2" rotation="340" bullet_id="4" speed="250"></Gun>
+		<Gun id="13" x="0" y="0" delay="1.3" rotation="0" bullet_id="4" speed="250"></Gun>
+		<Gun id="14" x="0" y="0" delay="1.4" rotation="20" bullet_id="4" speed="250"></Gun>
+		<Gun id="15" x="0" y="0" delay="1.5" rotation="40" bullet_id="4" speed="250"></Gun>
+		<Gun id="16" x="0" y="0" delay="1.6" rotation="60" bullet_id="4" speed="250"></Gun>
+		<Gun id="17" x="0" y="0" delay="1.7" rotation="80" bullet_id="4" speed="250"></Gun>
+		<Gun id="18" x="0" y="0" delay="1.8" rotation="100" bullet_id="4" speed="250"></Gun>
+
+		<Gun id="1" x="0" y="0" delay="0.1" rotation="240" bullet_id="4" speed="250"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.2" rotation="260" bullet_id="4" speed="250"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.3" rotation="280" bullet_id="4" speed="250"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.4" rotation="300" bullet_id="4" speed="250"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.5" rotation="320" bullet_id="4" speed="250"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.6" rotation="340" bullet_id="4" speed="250"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.7" rotation="0" bullet_id="4" speed="250"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.8" rotation="20" bullet_id="4" speed="250"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.9" rotation="40" bullet_id="4" speed="250"></Gun>
+		<Gun id="10" x="0" y="0" delay="1.0" rotation="60" bullet_id="4" speed="250"></Gun>
+		<Gun id="11" x="0" y="0" delay="1.1" rotation="80" bullet_id="4" speed="250"></Gun>
+		<Gun id="12" x="0" y="0" delay="1.2" rotation="100" bullet_id="4" speed="250"></Gun>
+		<Gun id="13" x="0" y="0" delay="1.3" rotation="120" bullet_id="4" speed="250"></Gun>
+		<Gun id="14" x="0" y="0" delay="1.4" rotation="140" bullet_id="4" speed="250"></Gun>
+		<Gun id="15" x="0" y="0" delay="1.5" rotation="160" bullet_id="4" speed="250"></Gun>
+		<Gun id="16" x="0" y="0" delay="1.6" rotation="180" bullet_id="4" speed="250"></Gun>
+		<Gun id="17" x="0" y="0" delay="1.7" rotation="200" bullet_id="4" speed="250"></Gun>
+		<Gun id="18" x="0" y="0" delay="1.8" rotation="220" bullet_id="4" speed="250"></Gun>
+	</GunGroup>
+	<GunGroup id="3" description="炮管组----360°" >
+		<Gun id="1" x="0" y="0" delay="0.1" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.2" rotation="0.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.3" rotation="1.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.4" rotation="3" bullet_id="4" speed="200"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.5" rotation="5" bullet_id="4" speed="200"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.6" rotation="7.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.7" rotation="10.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.8" rotation="14" bullet_id="4" speed="200"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.9" rotation="18" bullet_id="4" speed="200"></Gun>
+		<Gun id="10" x="0" y="0" delay="1.0" rotation="22.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="11" x="0" y="0" delay="1.1" rotation="27.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="12" x="0" y="0" delay="1.2" rotation="32" bullet_id="4" speed="200"></Gun>
+		<Gun id="13" x="0" y="0" delay="1.3" rotation="36" bullet_id="4" speed="200"></Gun>
+		<Gun id="14" x="0" y="0" delay="1.4" rotation="39.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="15" x="0" y="0" delay="1.5" rotation="42.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="16" x="0" y="0" delay="1.6" rotation="45" bullet_id="4" speed="200"></Gun>
+		<Gun id="17" x="0" y="0" delay="1.7" rotation="47" bullet_id="4" speed="200"></Gun>
+		<Gun id="18" x="0" y="0" delay="1.8" rotation="48.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="19" x="0" y="0" delay="1.9" rotation="49" bullet_id="4" speed="200"></Gun>
+		<Gun id="20" x="0" y="0" delay="2.0" rotation="49.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="21" x="0" y="0" delay="2.1" rotation="49" bullet_id="4" speed="200"></Gun>
+		<Gun id="22" x="0" y="0" delay="2.2" rotation="48.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="23" x="0" y="0" delay="2.3" rotation="47" bullet_id="4" speed="200"></Gun>
+		<Gun id="24" x="0" y="0" delay="2.4" rotation="45" bullet_id="4" speed="200"></Gun>
+		<Gun id="25" x="0" y="0" delay="2.5" rotation="42.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="26" x="0" y="0" delay="2.6" rotation="39.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="27" x="0" y="0" delay="2.7" rotation="36" bullet_id="4" speed="200"></Gun>
+		<Gun id="28" x="0" y="0" delay="2.8" rotation="32" bullet_id="4" speed="200"></Gun>
+		<Gun id="29" x="0" y="0" delay="2.9" rotation="27.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="30" x="0" y="0" delay="3.0" rotation="22.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="31" x="0" y="0" delay="3.1" rotation="18" bullet_id="4" speed="200"></Gun>
+		<Gun id="32" x="0" y="0" delay="3.2" rotation="14" bullet_id="4" speed="200"></Gun>
+		<Gun id="33" x="0" y="0" delay="3.3" rotation="10.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="34" x="0" y="0" delay="3.4" rotation="7.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="35" x="0" y="0" delay="3.5" rotation="5" bullet_id="4" speed="200"></Gun>
+		<Gun id="36" x="0" y="0" delay="3.6" rotation="3" bullet_id="4" speed="200"></Gun>
+		<Gun id="37" x="0" y="0" delay="3.7" rotation="1.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="38" x="0" y="0" delay="3.8" rotation="0.5" bullet_id="4" speed="200"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.1" rotation="60" bullet_id="4" speed="200"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.2" rotation="60.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.3" rotation="61.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.4" rotation="63" bullet_id="4" speed="200"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.5" rotation="65" bullet_id="4" speed="200"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.6" rotation="67.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.7" rotation="70.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.8" rotation="74" bullet_id="4" speed="200"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.9" rotation="78" bullet_id="4" speed="200"></Gun>
+		<Gun id="10" x="0" y="0" delay="1.0" rotation="82.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="11" x="0" y="0" delay="1.1" rotation="87.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="12" x="0" y="0" delay="1.2" rotation="92" bullet_id="4" speed="200"></Gun>
+		<Gun id="13" x="0" y="0" delay="1.3" rotation="96" bullet_id="4" speed="200"></Gun>
+		<Gun id="14" x="0" y="0" delay="1.4" rotation="99.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="15" x="0" y="0" delay="1.5" rotation="102.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="16" x="0" y="0" delay="1.6" rotation="105" bullet_id="4" speed="200"></Gun>
+		<Gun id="17" x="0" y="0" delay="1.7" rotation="107" bullet_id="4" speed="200"></Gun>
+		<Gun id="18" x="0" y="0" delay="1.8" rotation="108.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="19" x="0" y="0" delay="1.9" rotation="109" bullet_id="4" speed="200"></Gun>
+		<Gun id="20" x="0" y="0" delay="2.0" rotation="109.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="21" x="0" y="0" delay="2.1" rotation="109" bullet_id="4" speed="200"></Gun>
+		<Gun id="22" x="0" y="0" delay="2.2" rotation="108.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="23" x="0" y="0" delay="2.3" rotation="107" bullet_id="4" speed="200"></Gun>
+		<Gun id="24" x="0" y="0" delay="2.4" rotation="105" bullet_id="4" speed="200"></Gun>
+		<Gun id="25" x="0" y="0" delay="2.5" rotation="102.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="26" x="0" y="0" delay="2.6" rotation="99.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="27" x="0" y="0" delay="2.7" rotation="96" bullet_id="4" speed="200"></Gun>
+		<Gun id="28" x="0" y="0" delay="2.8" rotation="92" bullet_id="4" speed="200"></Gun>
+		<Gun id="29" x="0" y="0" delay="2.9" rotation="87.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="30" x="0" y="0" delay="3.0" rotation="82.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="31" x="0" y="0" delay="3.1" rotation="78" bullet_id="4" speed="200"></Gun>
+		<Gun id="32" x="0" y="0" delay="3.2" rotation="74" bullet_id="4" speed="200"></Gun>
+		<Gun id="33" x="0" y="0" delay="3.3" rotation="70.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="34" x="0" y="0" delay="3.4" rotation="67.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="35" x="0" y="0" delay="3.5" rotation="65" bullet_id="4" speed="200"></Gun>
+		<Gun id="36" x="0" y="0" delay="3.6" rotation="63" bullet_id="4" speed="200"></Gun>
+		<Gun id="37" x="0" y="0" delay="3.7" rotation="61.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="38" x="0" y="0" delay="3.8" rotation="60.5" bullet_id="4" speed="200"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.1" rotation="120" bullet_id="4" speed="200"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.2" rotation="120.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.3" rotation="121.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.4" rotation="123" bullet_id="4" speed="200"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.5" rotation="125" bullet_id="4" speed="200"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.6" rotation="127.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.7" rotation="130.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.8" rotation="134" bullet_id="4" speed="200"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.9" rotation="138" bullet_id="4" speed="200"></Gun>
+		<Gun id="10" x="0" y="0" delay="1.0" rotation="142.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="11" x="0" y="0" delay="1.1" rotation="147.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="12" x="0" y="0" delay="1.2" rotation="152" bullet_id="4" speed="200"></Gun>
+		<Gun id="13" x="0" y="0" delay="1.3" rotation="156" bullet_id="4" speed="200"></Gun>
+		<Gun id="14" x="0" y="0" delay="1.4" rotation="159.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="15" x="0" y="0" delay="1.5" rotation="162.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="16" x="0" y="0" delay="1.6" rotation="165" bullet_id="4" speed="200"></Gun>
+		<Gun id="17" x="0" y="0" delay="1.7" rotation="167" bullet_id="4" speed="200"></Gun>
+		<Gun id="18" x="0" y="0" delay="1.8" rotation="168.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="19" x="0" y="0" delay="1.9" rotation="169" bullet_id="4" speed="200"></Gun>
+		<Gun id="20" x="0" y="0" delay="2.0" rotation="169.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="21" x="0" y="0" delay="2.1" rotation="169" bullet_id="4" speed="200"></Gun>
+		<Gun id="22" x="0" y="0" delay="2.2" rotation="168.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="23" x="0" y="0" delay="2.3" rotation="167" bullet_id="4" speed="200"></Gun>
+		<Gun id="24" x="0" y="0" delay="2.4" rotation="165" bullet_id="4" speed="200"></Gun>
+		<Gun id="25" x="0" y="0" delay="2.5" rotation="162.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="26" x="0" y="0" delay="2.6" rotation="159.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="27" x="0" y="0" delay="2.7" rotation="156" bullet_id="4" speed="200"></Gun>
+		<Gun id="28" x="0" y="0" delay="2.8" rotation="152" bullet_id="4" speed="200"></Gun>
+		<Gun id="29" x="0" y="0" delay="2.9" rotation="147.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="30" x="0" y="0" delay="3.0" rotation="142.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="31" x="0" y="0" delay="3.1" rotation="138" bullet_id="4" speed="200"></Gun>
+		<Gun id="32" x="0" y="0" delay="3.2" rotation="134" bullet_id="4" speed="200"></Gun>
+		<Gun id="33" x="0" y="0" delay="3.3" rotation="130.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="34" x="0" y="0" delay="3.4" rotation="127.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="35" x="0" y="0" delay="3.5" rotation="125" bullet_id="4" speed="200"></Gun>
+		<Gun id="36" x="0" y="0" delay="3.6" rotation="123" bullet_id="4" speed="200"></Gun>
+		<Gun id="37" x="0" y="0" delay="3.7" rotation="121.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="38" x="0" y="0" delay="3.8" rotation="120.5" bullet_id="4" speed="200"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.1" rotation="180" bullet_id="4" speed="200"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.2" rotation="180.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.3" rotation="181.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.4" rotation="183" bullet_id="4" speed="200"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.5" rotation="185" bullet_id="4" speed="200"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.6" rotation="187.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.7" rotation="190.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.8" rotation="194" bullet_id="4" speed="200"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.9" rotation="198" bullet_id="4" speed="200"></Gun>
+		<Gun id="10" x="0" y="0" delay="1.0" rotation="202.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="11" x="0" y="0" delay="1.1" rotation="207.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="12" x="0" y="0" delay="1.2" rotation="212" bullet_id="4" speed="200"></Gun>
+		<Gun id="13" x="0" y="0" delay="1.3" rotation="216" bullet_id="4" speed="200"></Gun>
+		<Gun id="14" x="0" y="0" delay="1.4" rotation="219.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="15" x="0" y="0" delay="1.5" rotation="222.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="16" x="0" y="0" delay="1.6" rotation="225" bullet_id="4" speed="200"></Gun>
+		<Gun id="17" x="0" y="0" delay="1.7" rotation="227" bullet_id="4" speed="200"></Gun>
+		<Gun id="18" x="0" y="0" delay="1.8" rotation="228.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="19" x="0" y="0" delay="1.9" rotation="229" bullet_id="4" speed="200"></Gun>
+		<Gun id="20" x="0" y="0" delay="2.0" rotation="229.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="21" x="0" y="0" delay="2.1" rotation="229" bullet_id="4" speed="200"></Gun>
+		<Gun id="22" x="0" y="0" delay="2.2" rotation="228.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="23" x="0" y="0" delay="2.3" rotation="227" bullet_id="4" speed="200"></Gun>
+		<Gun id="24" x="0" y="0" delay="2.4" rotation="225" bullet_id="4" speed="200"></Gun>
+		<Gun id="25" x="0" y="0" delay="2.5" rotation="222.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="26" x="0" y="0" delay="2.6" rotation="219.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="27" x="0" y="0" delay="2.7" rotation="216" bullet_id="4" speed="200"></Gun>
+		<Gun id="28" x="0" y="0" delay="2.8" rotation="212" bullet_id="4" speed="200"></Gun>
+		<Gun id="29" x="0" y="0" delay="2.9" rotation="207.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="30" x="0" y="0" delay="3.0" rotation="202.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="31" x="0" y="0" delay="3.1" rotation="198" bullet_id="4" speed="200"></Gun>
+		<Gun id="32" x="0" y="0" delay="3.2" rotation="194" bullet_id="4" speed="200"></Gun>
+		<Gun id="33" x="0" y="0" delay="3.3" rotation="190.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="34" x="0" y="0" delay="3.4" rotation="187.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="35" x="0" y="0" delay="3.5" rotation="185" bullet_id="4" speed="200"></Gun>
+		<Gun id="36" x="0" y="0" delay="3.6" rotation="183" bullet_id="4" speed="200"></Gun>
+		<Gun id="37" x="0" y="0" delay="3.7" rotation="181.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="38" x="0" y="0" delay="3.8" rotation="180.5" bullet_id="4" speed="200"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.1" rotation="240" bullet_id="4" speed="200"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.2" rotation="240.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.3" rotation="241.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.4" rotation="243" bullet_id="4" speed="200"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.5" rotation="245" bullet_id="4" speed="200"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.6" rotation="247.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.7" rotation="250.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.8" rotation="254" bullet_id="4" speed="200"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.9" rotation="258" bullet_id="4" speed="200"></Gun>
+		<Gun id="10" x="0" y="0" delay="1.0" rotation="262.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="11" x="0" y="0" delay="1.1" rotation="267.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="12" x="0" y="0" delay="1.2" rotation="272" bullet_id="4" speed="200"></Gun>
+		<Gun id="13" x="0" y="0" delay="1.3" rotation="276" bullet_id="4" speed="200"></Gun>
+		<Gun id="14" x="0" y="0" delay="1.4" rotation="279.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="15" x="0" y="0" delay="1.5" rotation="282.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="16" x="0" y="0" delay="1.6" rotation="285" bullet_id="4" speed="200"></Gun>
+		<Gun id="17" x="0" y="0" delay="1.7" rotation="287" bullet_id="4" speed="200"></Gun>
+		<Gun id="18" x="0" y="0" delay="1.8" rotation="288.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="19" x="0" y="0" delay="1.9" rotation="289" bullet_id="4" speed="200"></Gun>
+		<Gun id="20" x="0" y="0" delay="2.0" rotation="289.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="21" x="0" y="0" delay="2.1" rotation="289" bullet_id="4" speed="200"></Gun>
+		<Gun id="22" x="0" y="0" delay="2.2" rotation="288.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="23" x="0" y="0" delay="2.3" rotation="287" bullet_id="4" speed="200"></Gun>
+		<Gun id="24" x="0" y="0" delay="2.4" rotation="285" bullet_id="4" speed="200"></Gun>
+		<Gun id="25" x="0" y="0" delay="2.5" rotation="282.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="26" x="0" y="0" delay="2.6" rotation="279.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="27" x="0" y="0" delay="2.7" rotation="276" bullet_id="4" speed="200"></Gun>
+		<Gun id="28" x="0" y="0" delay="2.8" rotation="272" bullet_id="4" speed="200"></Gun>
+		<Gun id="29" x="0" y="0" delay="2.9" rotation="267.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="30" x="0" y="0" delay="3.0" rotation="262.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="31" x="0" y="0" delay="3.1" rotation="258" bullet_id="4" speed="200"></Gun>
+		<Gun id="32" x="0" y="0" delay="3.2" rotation="254" bullet_id="4" speed="200"></Gun>
+		<Gun id="33" x="0" y="0" delay="3.3" rotation="250.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="34" x="0" y="0" delay="3.4" rotation="247.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="35" x="0" y="0" delay="3.5" rotation="245" bullet_id="4" speed="200"></Gun>
+		<Gun id="36" x="0" y="0" delay="3.6" rotation="243" bullet_id="4" speed="200"></Gun>
+		<Gun id="37" x="0" y="0" delay="3.7" rotation="241.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="38" x="0" y="0" delay="3.8" rotation="240.5" bullet_id="4" speed="200"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.1" rotation="300" bullet_id="4" speed="200"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.2" rotation="300.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.3" rotation="301.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.4" rotation="303" bullet_id="4" speed="200"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.5" rotation="305" bullet_id="4" speed="200"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.6" rotation="307.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.7" rotation="310.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.8" rotation="314" bullet_id="4" speed="200"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.9" rotation="318" bullet_id="4" speed="200"></Gun>
+		<Gun id="10" x="0" y="0" delay="1.0" rotation="322.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="11" x="0" y="0" delay="1.1" rotation="327.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="12" x="0" y="0" delay="1.2" rotation="332" bullet_id="4" speed="200"></Gun>
+		<Gun id="13" x="0" y="0" delay="1.3" rotation="336" bullet_id="4" speed="200"></Gun>
+		<Gun id="14" x="0" y="0" delay="1.4" rotation="339.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="15" x="0" y="0" delay="1.5" rotation="342.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="16" x="0" y="0" delay="1.6" rotation="345" bullet_id="4" speed="200"></Gun>
+		<Gun id="17" x="0" y="0" delay="1.7" rotation="347" bullet_id="4" speed="200"></Gun>
+		<Gun id="18" x="0" y="0" delay="1.8" rotation="348.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="19" x="0" y="0" delay="1.9" rotation="349" bullet_id="4" speed="200"></Gun>
+		<Gun id="20" x="0" y="0" delay="2.0" rotation="349.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="21" x="0" y="0" delay="2.1" rotation="349" bullet_id="4" speed="200"></Gun>
+		<Gun id="22" x="0" y="0" delay="2.2" rotation="348.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="23" x="0" y="0" delay="2.3" rotation="347" bullet_id="4" speed="200"></Gun>
+		<Gun id="24" x="0" y="0" delay="2.4" rotation="345" bullet_id="4" speed="200"></Gun>
+		<Gun id="25" x="0" y="0" delay="2.5" rotation="342.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="26" x="0" y="0" delay="2.6" rotation="339.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="27" x="0" y="0" delay="2.7" rotation="336" bullet_id="4" speed="200"></Gun>
+		<Gun id="28" x="0" y="0" delay="2.8" rotation="332" bullet_id="4" speed="200"></Gun>
+		<Gun id="29" x="0" y="0" delay="2.9" rotation="327.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="30" x="0" y="0" delay="3.0" rotation="322.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="31" x="0" y="0" delay="3.1" rotation="318" bullet_id="4" speed="200"></Gun>
+		<Gun id="32" x="0" y="0" delay="3.2" rotation="314" bullet_id="4" speed="200"></Gun>
+		<Gun id="33" x="0" y="0" delay="3.3" rotation="310.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="34" x="0" y="0" delay="3.4" rotation="307.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="35" x="0" y="0" delay="3.5" rotation="305" bullet_id="4" speed="200"></Gun>
+		<Gun id="36" x="0" y="0" delay="3.6" rotation="303" bullet_id="4" speed="200"></Gun>
+		<Gun id="37" x="0" y="0" delay="3.7" rotation="301.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="38" x="0" y="0" delay="3.8" rotation="300.5" bullet_id="4" speed="200"></Gun>
+	</GunGroup>
+	<GunGroup id="4" description="炮管组----单排" >
+		<Gun id="1" x="-144" y="0" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="2" x="-108" y="0" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="3" x="-72" y="0" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="4" x="-36" y="0" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+	</GunGroup>
+	<GunGroup id="5" description="炮管组----5圈交叉扩散" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="4" speed="150"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.0" rotation="10" bullet_id="4" speed="150"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.0" rotation="20" bullet_id="4" speed="150"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.0" rotation="30" bullet_id="4" speed="150"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.0" rotation="40" bullet_id="4" speed="150"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.0" rotation="50" bullet_id="4" speed="150"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.0" rotation="60" bullet_id="4" speed="150"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.0" rotation="70" bullet_id="4" speed="150"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.0" rotation="80" bullet_id="4" speed="150"></Gun>
+		<Gun id="10" x="0" y="0" delay="0.0" rotation="90" bullet_id="4" speed="150"></Gun>
+		<Gun id="11" x="0" y="0" delay="0.0" rotation="100" bullet_id="4" speed="150"></Gun>
+		<Gun id="12" x="0" y="0" delay="0.0" rotation="110" bullet_id="4" speed="150"></Gun>
+		<Gun id="13" x="0" y="0" delay="0.0" rotation="120" bullet_id="4" speed="150"></Gun>
+		<Gun id="14" x="0" y="0" delay="0.0" rotation="130" bullet_id="4" speed="150"></Gun>
+		<Gun id="15" x="0" y="0" delay="0.0" rotation="140" bullet_id="4" speed="150"></Gun>
+		<Gun id="16" x="0" y="0" delay="0.0" rotation="150" bullet_id="4" speed="150"></Gun>
+		<Gun id="17" x="0" y="0" delay="0.0" rotation="160" bullet_id="4" speed="150"></Gun>
+		<Gun id="18" x="0" y="0" delay="0.0" rotation="170" bullet_id="4" speed="150"></Gun>
+		<Gun id="19" x="0" y="0" delay="0.0" rotation="180" bullet_id="4" speed="150"></Gun>
+		<Gun id="20" x="0" y="0" delay="0.0" rotation="190" bullet_id="4" speed="150"></Gun>
+		<Gun id="21" x="0" y="0" delay="0.0" rotation="200" bullet_id="4" speed="150"></Gun>
+		<Gun id="22" x="0" y="0" delay="0.0" rotation="210" bullet_id="4" speed="150"></Gun>
+		<Gun id="23" x="0" y="0" delay="0.0" rotation="220" bullet_id="4" speed="150"></Gun>
+		<Gun id="24" x="0" y="0" delay="0.0" rotation="230" bullet_id="4" speed="150"></Gun>
+		<Gun id="25" x="0" y="0" delay="0.0" rotation="240" bullet_id="4" speed="150"></Gun>
+		<Gun id="26" x="0" y="0" delay="0.0" rotation="250" bullet_id="4" speed="150"></Gun>
+		<Gun id="27" x="0" y="0" delay="0.0" rotation="260" bullet_id="4" speed="150"></Gun>
+		<Gun id="28" x="0" y="0" delay="0.0" rotation="270" bullet_id="4" speed="150"></Gun>
+		<Gun id="29" x="0" y="0" delay="0.0" rotation="280" bullet_id="4" speed="150"></Gun>
+		<Gun id="30" x="0" y="0" delay="0.0" rotation="290" bullet_id="4" speed="150"></Gun>
+		<Gun id="31" x="0" y="0" delay="0.0" rotation="300" bullet_id="4" speed="150"></Gun>
+		<Gun id="32" x="0" y="0" delay="0.0" rotation="310" bullet_id="4" speed="150"></Gun>
+		<Gun id="33" x="0" y="0" delay="0.0" rotation="320" bullet_id="4" speed="150"></Gun>
+		<Gun id="34" x="0" y="0" delay="0.0" rotation="330" bullet_id="4" speed="150"></Gun>
+		<Gun id="35" x="0" y="0" delay="0.0" rotation="340" bullet_id="4" speed="150"></Gun>
+		<Gun id="36" x="0" y="0" delay="0.0" rotation="350" bullet_id="4" speed="150"></Gun>
+		
+		<Gun id="37" x="0" y="0" delay="0.2" rotation="5" bullet_id="4" speed="150"></Gun>
+		<Gun id="38" x="0" y="0" delay="0.2" rotation="15" bullet_id="4" speed="150"></Gun>
+		<Gun id="39" x="0" y="0" delay="0.2" rotation="25" bullet_id="4" speed="150"></Gun>
+		<Gun id="40" x="0" y="0" delay="0.2" rotation="35" bullet_id="4" speed="150"></Gun>
+		<Gun id="41" x="0" y="0" delay="0.2" rotation="45" bullet_id="4" speed="150"></Gun>
+		<Gun id="42" x="0" y="0" delay="0.2" rotation="55" bullet_id="4" speed="150"></Gun>
+		<Gun id="43" x="0" y="0" delay="0.2" rotation="65" bullet_id="4" speed="150"></Gun>
+		<Gun id="44" x="0" y="0" delay="0.2" rotation="75" bullet_id="4" speed="150"></Gun>
+		<Gun id="45" x="0" y="0" delay="0.2" rotation="85" bullet_id="4" speed="150"></Gun>
+		<Gun id="46" x="0" y="0" delay="0.2" rotation="95" bullet_id="4" speed="150"></Gun>
+		<Gun id="47" x="0" y="0" delay="0.2" rotation="105" bullet_id="4" speed="150"></Gun>
+		<Gun id="48" x="0" y="0" delay="0.2" rotation="115" bullet_id="4" speed="150"></Gun>
+		<Gun id="49" x="0" y="0" delay="0.2" rotation="125" bullet_id="4" speed="150"></Gun>
+		<Gun id="50" x="0" y="0" delay="0.2" rotation="135" bullet_id="4" speed="150"></Gun>
+		<Gun id="51" x="0" y="0" delay="0.2" rotation="145" bullet_id="4" speed="150"></Gun>
+		<Gun id="52" x="0" y="0" delay="0.2" rotation="155" bullet_id="4" speed="150"></Gun>
+		<Gun id="53" x="0" y="0" delay="0.2" rotation="165" bullet_id="4" speed="150"></Gun>
+		<Gun id="54" x="0" y="0" delay="0.2" rotation="175" bullet_id="4" speed="150"></Gun>
+		<Gun id="55" x="0" y="0" delay="0.2" rotation="185" bullet_id="4" speed="150"></Gun>
+		<Gun id="56" x="0" y="0" delay="0.2" rotation="195" bullet_id="4" speed="150"></Gun>
+		<Gun id="57" x="0" y="0" delay="0.2" rotation="205" bullet_id="4" speed="150"></Gun>
+		<Gun id="58" x="0" y="0" delay="0.2" rotation="215" bullet_id="4" speed="150"></Gun>
+		<Gun id="59" x="0" y="0" delay="0.2" rotation="225" bullet_id="4" speed="150"></Gun>
+		<Gun id="60" x="0" y="0" delay="0.2" rotation="235" bullet_id="4" speed="150"></Gun>
+		<Gun id="61" x="0" y="0" delay="0.2" rotation="245" bullet_id="4" speed="150"></Gun>
+		<Gun id="62" x="0" y="0" delay="0.2" rotation="255" bullet_id="4" speed="150"></Gun>
+		<Gun id="63" x="0" y="0" delay="0.2" rotation="265" bullet_id="4" speed="150"></Gun>
+		<Gun id="64" x="0" y="0" delay="0.2" rotation="275" bullet_id="4" speed="150"></Gun>
+		<Gun id="65" x="0" y="0" delay="0.2" rotation="285" bullet_id="4" speed="150"></Gun>
+		<Gun id="66" x="0" y="0" delay="0.2" rotation="295" bullet_id="4" speed="150"></Gun>
+		<Gun id="67" x="0" y="0" delay="0.2" rotation="305" bullet_id="4" speed="150"></Gun>
+		<Gun id="68" x="0" y="0" delay="0.2" rotation="315" bullet_id="4" speed="150"></Gun>
+		<Gun id="69" x="0" y="0" delay="0.2" rotation="325" bullet_id="4" speed="150"></Gun>
+		<Gun id="70" x="0" y="0" delay="0.2" rotation="335" bullet_id="4" speed="150"></Gun>
+		<Gun id="71" x="0" y="0" delay="0.2" rotation="345" bullet_id="4" speed="150"></Gun>
+		<Gun id="72" x="0" y="0" delay="0.2" rotation="355" bullet_id="4" speed="150"></Gun>
+		
+		<Gun id="73" x="0" y="0" delay="0.4" rotation="0" bullet_id="4" speed="150"></Gun>
+		<Gun id="74" x="0" y="0" delay="0.4" rotation="10" bullet_id="4" speed="150"></Gun>
+		<Gun id="75" x="0" y="0" delay="0.4" rotation="20" bullet_id="4" speed="150"></Gun>
+		<Gun id="76" x="0" y="0" delay="0.4" rotation="30" bullet_id="4" speed="150"></Gun>
+		<Gun id="77" x="0" y="0" delay="0.4" rotation="40" bullet_id="4" speed="150"></Gun>
+		<Gun id="78" x="0" y="0" delay="0.4" rotation="50" bullet_id="4" speed="150"></Gun>
+		<Gun id="79" x="0" y="0" delay="0.4" rotation="60" bullet_id="4" speed="150"></Gun>
+		<Gun id="80" x="0" y="0" delay="0.4" rotation="70" bullet_id="4" speed="150"></Gun>
+		<Gun id="81" x="0" y="0" delay="0.4" rotation="80" bullet_id="4" speed="150"></Gun>
+		<Gun id="82" x="0" y="0" delay="0.4" rotation="90" bullet_id="4" speed="150"></Gun>
+		<Gun id="83" x="0" y="0" delay="0.4" rotation="100" bullet_id="4" speed="150"></Gun>
+		<Gun id="84" x="0" y="0" delay="0.4" rotation="110" bullet_id="4" speed="150"></Gun>
+		<Gun id="85" x="0" y="0" delay="0.4" rotation="120" bullet_id="4" speed="150"></Gun>
+		<Gun id="86" x="0" y="0" delay="0.4" rotation="130" bullet_id="4" speed="150"></Gun>
+		<Gun id="87" x="0" y="0" delay="0.4" rotation="140" bullet_id="4" speed="150"></Gun>
+		<Gun id="88" x="0" y="0" delay="0.4" rotation="150" bullet_id="4" speed="150"></Gun>
+		<Gun id="89" x="0" y="0" delay="0.4" rotation="160" bullet_id="4" speed="150"></Gun>
+		<Gun id="90" x="0" y="0" delay="0.4" rotation="170" bullet_id="4" speed="150"></Gun>
+		<Gun id="91" x="0" y="0" delay="0.4" rotation="180" bullet_id="4" speed="150"></Gun>
+		<Gun id="92" x="0" y="0" delay="0.4" rotation="190" bullet_id="4" speed="150"></Gun>
+		<Gun id="93" x="0" y="0" delay="0.4" rotation="200" bullet_id="4" speed="150"></Gun>
+		<Gun id="94" x="0" y="0" delay="0.4" rotation="210" bullet_id="4" speed="150"></Gun>
+		<Gun id="95" x="0" y="0" delay="0.4" rotation="220" bullet_id="4" speed="150"></Gun>
+		<Gun id="96" x="0" y="0" delay="0.4" rotation="230" bullet_id="4" speed="150"></Gun>
+		<Gun id="97" x="0" y="0" delay="0.4" rotation="240" bullet_id="4" speed="150"></Gun>
+		<Gun id="98" x="0" y="0" delay="0.4" rotation="250" bullet_id="4" speed="150"></Gun>
+		<Gun id="99" x="0" y="0" delay="0.4" rotation="260" bullet_id="4" speed="150"></Gun>
+		<Gun id="100" x="0" y="0" delay="0.4" rotation="270" bullet_id="4" speed="150"></Gun>
+		<Gun id="101" x="0" y="0" delay="0.4" rotation="280" bullet_id="4" speed="150"></Gun>
+		<Gun id="102" x="0" y="0" delay="0.4" rotation="290" bullet_id="4" speed="150"></Gun>
+		<Gun id="103" x="0" y="0" delay="0.4" rotation="300" bullet_id="4" speed="150"></Gun>
+		<Gun id="104" x="0" y="0" delay="0.4" rotation="310" bullet_id="4" speed="150"></Gun>
+		<Gun id="105" x="0" y="0" delay="0.4" rotation="320" bullet_id="4" speed="150"></Gun>
+		<Gun id="106" x="0" y="0" delay="0.4" rotation="330" bullet_id="4" speed="150"></Gun>
+		<Gun id="107" x="0" y="0" delay="0.4" rotation="340" bullet_id="4" speed="150"></Gun>
+		<Gun id="108" x="0" y="0" delay="0.4" rotation="350" bullet_id="4" speed="150"></Gun>
+		
+		<Gun id="109" x="0" y="0" delay="0.6" rotation="5" bullet_id="4" speed="150"></Gun>
+		<Gun id="110" x="0" y="0" delay="0.6" rotation="15" bullet_id="4" speed="150"></Gun>
+		<Gun id="111" x="0" y="0" delay="0.6" rotation="25" bullet_id="4" speed="150"></Gun>
+		<Gun id="112" x="0" y="0" delay="0.6" rotation="35" bullet_id="4" speed="150"></Gun>
+		<Gun id="113" x="0" y="0" delay="0.6" rotation="45" bullet_id="4" speed="150"></Gun>
+		<Gun id="114" x="0" y="0" delay="0.6" rotation="55" bullet_id="4" speed="150"></Gun>
+		<Gun id="115" x="0" y="0" delay="0.6" rotation="65" bullet_id="4" speed="150"></Gun>
+		<Gun id="116" x="0" y="0" delay="0.6" rotation="75" bullet_id="4" speed="150"></Gun>
+		<Gun id="117" x="0" y="0" delay="0.6" rotation="85" bullet_id="4" speed="150"></Gun>
+		<Gun id="118" x="0" y="0" delay="0.6" rotation="95" bullet_id="4" speed="150"></Gun>
+		<Gun id="119" x="0" y="0" delay="0.6" rotation="105" bullet_id="4" speed="150"></Gun>
+		<Gun id="120" x="0" y="0" delay="0.6" rotation="115" bullet_id="4" speed="150"></Gun>
+		<Gun id="121" x="0" y="0" delay="0.6" rotation="125" bullet_id="4" speed="150"></Gun>
+		<Gun id="122" x="0" y="0" delay="0.6" rotation="135" bullet_id="4" speed="150"></Gun>
+		<Gun id="123" x="0" y="0" delay="0.6" rotation="145" bullet_id="4" speed="150"></Gun>
+		<Gun id="124" x="0" y="0" delay="0.6" rotation="155" bullet_id="4" speed="150"></Gun>
+		<Gun id="125" x="0" y="0" delay="0.6" rotation="165" bullet_id="4" speed="150"></Gun>
+		<Gun id="126" x="0" y="0" delay="0.6" rotation="175" bullet_id="4" speed="150"></Gun>
+		<Gun id="127" x="0" y="0" delay="0.6" rotation="185" bullet_id="4" speed="150"></Gun>
+		<Gun id="128" x="0" y="0" delay="0.6" rotation="195" bullet_id="4" speed="150"></Gun>
+		<Gun id="129" x="0" y="0" delay="0.6" rotation="205" bullet_id="4" speed="150"></Gun>
+		<Gun id="130" x="0" y="0" delay="0.6" rotation="215" bullet_id="4" speed="150"></Gun>
+		<Gun id="131" x="0" y="0" delay="0.6" rotation="225" bullet_id="4" speed="150"></Gun>
+		<Gun id="132" x="0" y="0" delay="0.6" rotation="235" bullet_id="4" speed="150"></Gun>
+		<Gun id="133" x="0" y="0" delay="0.6" rotation="245" bullet_id="4" speed="150"></Gun>
+		<Gun id="134" x="0" y="0" delay="0.6" rotation="255" bullet_id="4" speed="150"></Gun>
+		<Gun id="135" x="0" y="0" delay="0.6" rotation="265" bullet_id="4" speed="150"></Gun>
+		<Gun id="136" x="0" y="0" delay="0.6" rotation="275" bullet_id="4" speed="150"></Gun>
+		<Gun id="137" x="0" y="0" delay="0.6" rotation="285" bullet_id="4" speed="150"></Gun>
+		<Gun id="138" x="0" y="0" delay="0.6" rotation="295" bullet_id="4" speed="150"></Gun>
+		<Gun id="139" x="0" y="0" delay="0.6" rotation="305" bullet_id="4" speed="150"></Gun>
+		<Gun id="140" x="0" y="0" delay="0.6" rotation="315" bullet_id="4" speed="150"></Gun>
+		<Gun id="141" x="0" y="0" delay="0.6" rotation="325" bullet_id="4" speed="150"></Gun>
+		<Gun id="142" x="0" y="0" delay="0.6" rotation="335" bullet_id="4" speed="150"></Gun>
+		<Gun id="143" x="0" y="0" delay="0.6" rotation="345" bullet_id="4" speed="150"></Gun>
+		<Gun id="144" x="0" y="0" delay="0.6" rotation="355" bullet_id="4" speed="150"></Gun>
+		
+		<Gun id="145" x="0" y="0" delay="0.8" rotation="0" bullet_id="4" speed="150"></Gun>
+		<Gun id="146" x="0" y="0" delay="0.8" rotation="10" bullet_id="4" speed="150"></Gun>
+		<Gun id="147" x="0" y="0" delay="0.8" rotation="20" bullet_id="4" speed="150"></Gun>
+		<Gun id="148" x="0" y="0" delay="0.8" rotation="30" bullet_id="4" speed="150"></Gun>
+		<Gun id="149" x="0" y="0" delay="0.8" rotation="40" bullet_id="4" speed="150"></Gun>
+		<Gun id="150" x="0" y="0" delay="0.8" rotation="50" bullet_id="4" speed="150"></Gun>
+		<Gun id="151" x="0" y="0" delay="0.8" rotation="60" bullet_id="4" speed="150"></Gun>
+		<Gun id="152" x="0" y="0" delay="0.8" rotation="70" bullet_id="4" speed="150"></Gun>
+		<Gun id="153" x="0" y="0" delay="0.8" rotation="80" bullet_id="4" speed="150"></Gun>
+		<Gun id="154" x="0" y="0" delay="0.8" rotation="90" bullet_id="4" speed="150"></Gun>
+		<Gun id="155" x="0" y="0" delay="0.8" rotation="100" bullet_id="4" speed="150"></Gun>
+		<Gun id="156" x="0" y="0" delay="0.8" rotation="110" bullet_id="4" speed="150"></Gun>
+		<Gun id="157" x="0" y="0" delay="0.8" rotation="120" bullet_id="4" speed="150"></Gun>
+		<Gun id="158" x="0" y="0" delay="0.8" rotation="130" bullet_id="4" speed="150"></Gun>
+		<Gun id="159" x="0" y="0" delay="0.8" rotation="140" bullet_id="4" speed="150"></Gun>
+		<Gun id="160" x="0" y="0" delay="0.8" rotation="150" bullet_id="4" speed="150"></Gun>
+		<Gun id="161" x="0" y="0" delay="0.8" rotation="160" bullet_id="4" speed="150"></Gun>
+		<Gun id="162" x="0" y="0" delay="0.8" rotation="170" bullet_id="4" speed="150"></Gun>
+		<Gun id="163" x="0" y="0" delay="0.8" rotation="180" bullet_id="4" speed="150"></Gun>
+		<Gun id="164" x="0" y="0" delay="0.8" rotation="190" bullet_id="4" speed="150"></Gun>
+		<Gun id="165" x="0" y="0" delay="0.8" rotation="200" bullet_id="4" speed="150"></Gun>
+		<Gun id="166" x="0" y="0" delay="0.8" rotation="210" bullet_id="4" speed="150"></Gun>
+		<Gun id="167" x="0" y="0" delay="0.8" rotation="220" bullet_id="4" speed="150"></Gun>
+		<Gun id="168" x="0" y="0" delay="0.8" rotation="230" bullet_id="4" speed="150"></Gun>
+		<Gun id="169" x="0" y="0" delay="0.8" rotation="240" bullet_id="4" speed="150"></Gun>
+		<Gun id="170" x="0" y="0" delay="0.8" rotation="250" bullet_id="4" speed="150"></Gun>
+		<Gun id="171" x="0" y="0" delay="0.8" rotation="260" bullet_id="4" speed="150"></Gun>
+		<Gun id="172" x="0" y="0" delay="0.8" rotation="270" bullet_id="4" speed="150"></Gun>
+		<Gun id="173" x="0" y="0" delay="0.8" rotation="280" bullet_id="4" speed="150"></Gun>
+		<Gun id="174" x="0" y="0" delay="0.8" rotation="290" bullet_id="4" speed="150"></Gun>
+		<Gun id="175" x="0" y="0" delay="0.8" rotation="300" bullet_id="4" speed="150"></Gun>
+		<Gun id="176" x="0" y="0" delay="0.8" rotation="310" bullet_id="4" speed="150"></Gun>
+		<Gun id="177" x="0" y="0" delay="0.8" rotation="320" bullet_id="4" speed="150"></Gun>
+		<Gun id="178" x="0" y="0" delay="0.8" rotation="330" bullet_id="4" speed="150"></Gun>
+		<Gun id="179" x="0" y="0" delay="0.8" rotation="340" bullet_id="4" speed="150"></Gun>
+		<Gun id="180" x="0" y="0" delay="0.8" rotation="350" bullet_id="4" speed="150"></Gun>
+	</GunGroup>
+	<GunGroup id="6" description="炮管组----散弹7个方向--间隔0.1" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="7" speed="500"></Gun>
+        <Gun id="2" x="0" y="0" delay="0.0" rotation="20" bullet_id="7" speed="500"></Gun>
+	    <Gun id="3" x="0" y="0" delay="0.0" rotation="-20" bullet_id="7" speed="500"></Gun>
+        <Gun id="4" x="0" y="0" delay="0.0" rotation="40" bullet_id="7" speed="500"></Gun>
+        <Gun id="5" x="0" y="0" delay="0.0" rotation="-40" bullet_id="7" speed="500"></Gun>
+        <Gun id="6" x="0" y="0" delay="0.0" rotation="60" bullet_id="7" speed="500"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.0" rotation="-60" bullet_id="7" speed="500"></Gun>
+	</GunGroup>
+	<GunGroup id="7" description="炮管组----散弹7个方向--4次--" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="7" speed="500"></Gun>
+        <Gun id="2" x="0" y="0" delay="0.0" rotation="20" bullet_id="7" speed="500"></Gun>
+	    <Gun id="3" x="0" y="0" delay="0.0" rotation="-20" bullet_id="7" speed="500"></Gun>
+        <Gun id="4" x="0" y="0" delay="0.0" rotation="40" bullet_id="7" speed="500"></Gun>
+        <Gun id="5" x="0" y="0" delay="0.0" rotation="-40" bullet_id="7" speed="500"></Gun>
+        <Gun id="6" x="0" y="0" delay="0.0" rotation="60" bullet_id="7" speed="500"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.0" rotation="-60" bullet_id="7" speed="500"></Gun>
+		
+		<Gun id="8" x="0" y="0" delay="0.4" rotation="0" bullet_id="7" speed="500"></Gun>
+        <Gun id="9" x="0" y="0" delay="0.4" rotation="20" bullet_id="7" speed="500"></Gun>
+	    <Gun id="10" x="0" y="0" delay="0.4" rotation="-20" bullet_id="7" speed="500"></Gun>
+        <Gun id="11" x="0" y="0" delay="0.4" rotation="40" bullet_id="7" speed="500"></Gun>
+        <Gun id="12" x="0" y="0" delay="0.4" rotation="-40" bullet_id="7" speed="500"></Gun>
+        <Gun id="13" x="0" y="0" delay="0.4" rotation="60" bullet_id="7" speed="500"></Gun>
+		<Gun id="14" x="0" y="0" delay="0.4" rotation="-60" bullet_id="7" speed="500"></Gun>
+		
+		<Gun id="15" x="0" y="0" delay="0.7" rotation="0" bullet_id="7" speed="500"></Gun>
+        <Gun id="16" x="0" y="0" delay="0.7" rotation="20" bullet_id="7" speed="500"></Gun>
+	    <Gun id="17" x="0" y="0" delay="0.7" rotation="-20" bullet_id="7" speed="500"></Gun>
+        <Gun id="18" x="0" y="0" delay="0.7" rotation="40" bullet_id="7" speed="500"></Gun>
+        <Gun id="19" x="0" y="0" delay="0.7" rotation="-40" bullet_id="7" speed="500"></Gun>
+        <Gun id="20" x="0" y="0" delay="0.7" rotation="60" bullet_id="7" speed="500"></Gun>
+		<Gun id="21" x="0" y="0" delay="0.7" rotation="-60" bullet_id="7" speed="500"></Gun>
+		
+		<Gun id="22" x="0" y="0" delay="0.9" rotation="0" bullet_id="7" speed="500"></Gun>
+        <Gun id="23" x="0" y="0" delay="0.9" rotation="20" bullet_id="7" speed="500"></Gun>
+	    <Gun id="24" x="0" y="0" delay="0.9" rotation="-20" bullet_id="7" speed="500"></Gun>
+        <Gun id="25" x="0" y="0" delay="0.9" rotation="40" bullet_id="7" speed="500"></Gun>
+        <Gun id="26" x="0" y="0" delay="0.9" rotation="-40" bullet_id="7" speed="500"></Gun>
+        <Gun id="27" x="0" y="0" delay="0.9" rotation="60" bullet_id="7" speed="500"></Gun>
+		<Gun id="28" x="0" y="0" delay="0.9" rotation="-60" bullet_id="7" speed="500"></Gun>
+	</GunGroup>
+	<GunGroup id="8" description="炮管组----散弹7个方向--重复9次--" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="7" speed="500"></Gun>
+        <Gun id="2" x="0" y="0" delay="0.0" rotation="20" bullet_id="7" speed="500"></Gun>
+	    <Gun id="3" x="0" y="0" delay="0.0" rotation="-20" bullet_id="7" speed="500"></Gun>
+        <Gun id="4" x="0" y="0" delay="0.0" rotation="40" bullet_id="7" speed="500"></Gun>
+        <Gun id="5" x="0" y="0" delay="0.0" rotation="-40" bullet_id="7" speed="500"></Gun>
+        <Gun id="6" x="0" y="0" delay="0.0" rotation="60" bullet_id="7" speed="500"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.0" rotation="-60" bullet_id="7" speed="500"></Gun>
+		
+		<Gun id="8" x="0" y="0" delay="0.5" rotation="0" bullet_id="7" speed="500"></Gun>
+        <Gun id="9" x="0" y="0" delay="0.5" rotation="20" bullet_id="7" speed="500"></Gun>
+	    <Gun id="10" x="0" y="0" delay="0.5" rotation="-20" bullet_id="7" speed="500"></Gun>
+        <Gun id="11" x="0" y="0" delay="0.5" rotation="40" bullet_id="7" speed="500"></Gun>
+        <Gun id="12" x="0" y="0" delay="0.5" rotation="-40" bullet_id="7" speed="500"></Gun>
+        <Gun id="13" x="0" y="0" delay="0.5" rotation="60" bullet_id="7" speed="500"></Gun>
+		<Gun id="14" x="0" y="0" delay="0.5" rotation="-60" bullet_id="7" speed="500"></Gun>
+		
+		<Gun id="15" x="0" y="0" delay="0.9" rotation="0" bullet_id="7" speed="500"></Gun>
+        <Gun id="16" x="0" y="0" delay="0.9" rotation="20" bullet_id="7" speed="500"></Gun>
+	    <Gun id="17" x="0" y="0" delay="0.9" rotation="-20" bullet_id="7" speed="500"></Gun>
+        <Gun id="18" x="0" y="0" delay="0.9" rotation="40" bullet_id="7" speed="500"></Gun>
+        <Gun id="19" x="0" y="0" delay="0.9" rotation="-40" bullet_id="7" speed="500"></Gun>
+        <Gun id="20" x="0" y="0" delay="0.9" rotation="60" bullet_id="7" speed="500"></Gun>
+		<Gun id="21" x="0" y="0" delay="0.9" rotation="-60" bullet_id="7" speed="500"></Gun>
+		
+		<Gun id="22" x="0" y="0" delay="1.2" rotation="0" bullet_id="7" speed="500"></Gun>
+        <Gun id="23" x="0" y="0" delay="1.2" rotation="20" bullet_id="7" speed="500"></Gun>
+	    <Gun id="24" x="0" y="0" delay="1.2" rotation="-20" bullet_id="7" speed="500"></Gun>
+        <Gun id="25" x="0" y="0" delay="1.2" rotation="40" bullet_id="7" speed="500"></Gun>
+        <Gun id="26" x="0" y="0" delay="1.2" rotation="-40" bullet_id="7" speed="500"></Gun>
+        <Gun id="27" x="0" y="0" delay="1.2" rotation="60" bullet_id="7" speed="500"></Gun>
+		<Gun id="28" x="0" y="0" delay="1.2" rotation="-60" bullet_id="7" speed="500"></Gun>
+		
+		<Gun id="29" x="0" y="0" delay="1.45" rotation="0" bullet_id="7" speed="500"></Gun>
+        <Gun id="30" x="0" y="0" delay="1.45" rotation="20" bullet_id="7" speed="500"></Gun>
+	    <Gun id="31" x="0" y="0" delay="1.45" rotation="-20" bullet_id="7" speed="500"></Gun>
+        <Gun id="32" x="0" y="0" delay="1.45" rotation="40" bullet_id="7" speed="500"></Gun>
+        <Gun id="33" x="0" y="0" delay="1.45" rotation="-40" bullet_id="7" speed="500"></Gun>
+        <Gun id="34" x="0" y="0" delay="1.45" rotation="60" bullet_id="7" speed="500"></Gun>
+		<Gun id="35" x="0" y="0" delay="1.45" rotation="-60" bullet_id="7" speed="500"></Gun>
+		
+		<Gun id="36" x="0" y="0" delay="1.65" rotation="0" bullet_id="7" speed="500"></Gun>
+        <Gun id="37" x="0" y="0" delay="1.65" rotation="20" bullet_id="7" speed="500"></Gun>
+	    <Gun id="38" x="0" y="0" delay="1.65" rotation="-20" bullet_id="7" speed="500"></Gun>
+        <Gun id="39" x="0" y="0" delay="1.65" rotation="40" bullet_id="7" speed="500"></Gun>
+        <Gun id="40" x="0" y="0" delay="1.65" rotation="-40" bullet_id="7" speed="500"></Gun>
+        <Gun id="41" x="0" y="0" delay="1.65" rotation="60" bullet_id="7" speed="500"></Gun>
+		<Gun id="42" x="0" y="0" delay="1.65" rotation="-60" bullet_id="7" speed="500"></Gun>
+		
+		<Gun id="43" x="0" y="0" delay="1.8" rotation="0" bullet_id="7" speed="500"></Gun>
+        <Gun id="44" x="0" y="0" delay="1.8" rotation="20" bullet_id="7" speed="500"></Gun>
+	    <Gun id="45" x="0" y="0" delay="1.8" rotation="-20" bullet_id="7" speed="500"></Gun>
+        <Gun id="46" x="0" y="0" delay="1.8" rotation="40" bullet_id="7" speed="500"></Gun>
+        <Gun id="47" x="0" y="0" delay="1.8" rotation="-40" bullet_id="7" speed="500"></Gun>
+        <Gun id="48" x="0" y="0" delay="1.8" rotation="60" bullet_id="7" speed="500"></Gun>
+		<Gun id="49" x="0" y="0" delay="1.8" rotation="-60" bullet_id="7" speed="500"></Gun>
+		
+		<Gun id="50" x="0" y="0" delay="1.9" rotation="0" bullet_id="7" speed="500"></Gun>
+        <Gun id="51" x="0" y="0" delay="1.9" rotation="20" bullet_id="7" speed="500"></Gun>
+	    <Gun id="52" x="0" y="0" delay="1.9" rotation="-20" bullet_id="7" speed="500"></Gun>
+        <Gun id="53" x="0" y="0" delay="1.9" rotation="40" bullet_id="7" speed="500"></Gun>
+        <Gun id="54" x="0" y="0" delay="1.9" rotation="-40" bullet_id="7" speed="500"></Gun>
+        <Gun id="55" x="0" y="0" delay="1.9" rotation="60" bullet_id="7" speed="500"></Gun>
+		<Gun id="56" x="0" y="0" delay="1.9" rotation="-60" bullet_id="7" speed="500"></Gun>
+		
+		<Gun id="57" x="0" y="0" delay="1.97" rotation="0" bullet_id="7" speed="500"></Gun>
+        <Gun id="58" x="0" y="0" delay="1.97" rotation="20" bullet_id="7" speed="500"></Gun>
+	    <Gun id="59" x="0" y="0" delay="1.97" rotation="-20" bullet_id="7" speed="500"></Gun>
+        <Gun id="60" x="0" y="0" delay="1.97" rotation="40" bullet_id="7" speed="500"></Gun>
+        <Gun id="61" x="0" y="0" delay="1.97" rotation="-40" bullet_id="7" speed="500"></Gun>
+        <Gun id="62" x="0" y="0" delay="1.97" rotation="60" bullet_id="7" speed="500"></Gun>
+		<Gun id="63" x="0" y="0" delay="1.97" rotation="-60" bullet_id="7" speed="500"></Gun>
+	</GunGroup>
+	<GunGroup id="9" description="炮管组--三排大子弹" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.0" rotation="30" bullet_id="7" speed="600"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.0" rotation="-30" bullet_id="7" speed="600"></Gun>
+		
+		<Gun id="4" x="-36" y="0" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="5" x="-36" y="0" delay="0.0" rotation="30" bullet_id="7" speed="600"></Gun>
+		<Gun id="6" x="-36" y="0" delay="0.0" rotation="-30" bullet_id="7" speed="600"></Gun>
+		
+		<Gun id="7" x="-72" y="0" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="8" x="-72" y="0" delay="0.0" rotation="30" bullet_id="7" speed="600"></Gun>
+		<Gun id="9" x="-72" y="0" delay="0.0" rotation="-30" bullet_id="7" speed="600"></Gun>
+		
+		<Gun id="10" x="-108" y="0" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="11" x="-108" y="0" delay="0.0" rotation="30" bullet_id="7" speed="600"></Gun>
+		<Gun id="12" x="-108" y="0" delay="0.0" rotation="-30" bullet_id="7" speed="600"></Gun>
+	</GunGroup>
+	<GunGroup id="10" description="炮管组--三排大子弹" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.0" rotation="30" bullet_id="7" speed="600"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.0" rotation="-30" bullet_id="7" speed="600"></Gun>
+	</GunGroup>
+	<GunGroup id="11" description="炮管组----四排直射" >
+		<Gun id="1" x="0" y="20" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="2" x="0" y="30" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="3" x="0" y="-20" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="4" x="0" y="-30" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="5" x="-36" y="20" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="6" x="-36" y="30" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="7" x="-36" y="-20" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="8" x="-36" y="-30" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="9" x="-72" y="20" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="10" x="-72" y="30" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="11" x="-72" y="-20" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="12" x="-72" y="-30" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="13" x="-108" y="20" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="14" x="-108" y="30" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="15" x="-108" y="-20" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="16" x="-108" y="-30" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+	</GunGroup>
+	<GunGroup id="12" description="炮管组----2排--" >
+		<Gun id="1" x="-144" y="15" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+        <Gun id="2" x="-144" y="-15" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="3" x="-108" y="15" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+        <Gun id="4" x="-108" y="-15" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="5" x="-72" y="15" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+        <Gun id="6" x="-72" y="-15" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="7" x="-36" y="15" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+        <Gun id="8" x="-36" y="-15" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="9" x="0" y="15" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+        <Gun id="10" x="0" y="-15" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+	</GunGroup>
+	<GunGroup id="13" description="炮管组--三排子弹" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="1" speed="200"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.0" rotation="30" bullet_id="1" speed="200"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.0" rotation="-30" bullet_id="1" speed="200"></Gun>
+	</GunGroup>
+	<GunGroup id="15" description="炮管组----小菱形" >
+		<Gun id="1" x="40" y="0" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="2" x="20" y="-20" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="3" x="20" y="20" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>	
+		<Gun id="4" x="0" y="40" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="5" x="0" y="-40" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>	
+		<Gun id="6" x="-20" y="20" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="7" x="-20" y="-20" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>	
+		<Gun id="8" x="-40" y="0" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>
+	</GunGroup>
+	<GunGroup id="16" description="炮管组——5排连发——重复7次--间隔0.2" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.0" rotation="20" bullet_id="4" speed="200"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.0" rotation="-20" bullet_id="4" speed="200"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.0" rotation="40" bullet_id="4" speed="200"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.0" rotation="-40" bullet_id="4" speed="200"></Gun>
+	</GunGroup>
+	<GunGroup id="17" description="炮管组——7排连发——重复7次--间隔0.2" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.0" rotation="15" bullet_id="4" speed="200"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.0" rotation="-15" bullet_id="4" speed="200"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.0" rotation="30" bullet_id="4" speed="200"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.0" rotation="-30" bullet_id="4" speed="200"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.0" rotation="45" bullet_id="4" speed="200"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.0" rotation="-45" bullet_id="4" speed="200"></Gun>
+	</GunGroup>
+	<GunGroup id="18" description="炮管组——9排连发——重复7次--间隔0.2" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.0" rotation="15" bullet_id="4" speed="200"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.0" rotation="-15" bullet_id="4" speed="200"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.0" rotation="30" bullet_id="4" speed="200"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.0" rotation="-30" bullet_id="4" speed="200"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.0" rotation="45" bullet_id="4" speed="200"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.0" rotation="-45" bullet_id="4" speed="200"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.0" rotation="60" bullet_id="4" speed="200"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.0" rotation="-60" bullet_id="4" speed="200"></Gun>
+	</GunGroup>
+	<GunGroup id="23" description="炮管组----菱形组" >
+		<Gun id="1" x="90" y="0" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="2" x="22.5" y="67.5" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="3" x="-22.5" y="67.5" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="4" x="45" y="45" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="5" x="45" y="-45" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="6" x="67.5" y="22.5" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="7" x="67.5" y="-22.5" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="8" x="0" y="90" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="9" x="0" y="-90" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="10" x="22.5" y="-67.5" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="11" x="-22.5" y="-67.5" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="12" x="-45" y="45" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="13" x="-45" y="-45" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="14" x="-67.5" y="22.5" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="15" x="-67.5" y="-22.5" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="16" x="-90" y="0" delay="0.0" rotation="0" bullet_id="4" speed="200"></Gun>		
+	</GunGroup>
+	<GunGroup id="25" description="炮管组---单发" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="7" speed="300"></Gun>
+	</GunGroup>
+	<GunGroup id="27" description="炮管组---单发" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="4" speed="150"></Gun>
+	</GunGroup>
+	<GunGroup id="28" description="放射型子弹24" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="10" child_bullet_id="4" speed="180" offset_angle="18" percentage_height="30"></Gun>
+	</GunGroup>
+	<GunGroup id="29" description="放射型子弹36" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="10" child_bullet_id="4" speed="180" offset_angle="18" percentage_height="30"></Gun>
+	</GunGroup>
+	<GunGroup id="30" description="放射型子弹混合" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="10" child_bullet_id="4" speed="180" offset_angle="18" percentage_height="30"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.2" rotation="0" bullet_id="10" child_bullet_id="4" speed="180" offset_angle="18" percentage_height="30"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.4" rotation="0" bullet_id="10" child_bullet_id="4" speed="180" offset_angle="18" percentage_height="30"></Gun>
+	</GunGroup>
+	<GunGroup id="31" description="放射型子母弹" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="9" child_bullet_id="4" speed="220" offset_angle="1" radiate_type="2" delaytime="1.0"></Gun>
+	</GunGroup>
+	<GunGroup id="32" description="放射型子母弹" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="9" child_bullet_id="4" speed="220" offset_angle="1" radiate_type="2" delaytime="0.8"></Gun>
+	</GunGroup>
+	<GunGroup id="33" description="放射型子母弹" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="9" child_bullet_id="4" speed="220" offset_angle="1" radiate_type="2" delaytime="0.6"></Gun>
+	</GunGroup>
+	<GunGroup id="34" description="炮管组----360°急速---重复3次--间隔0.1" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.0" rotation="45" bullet_id="7" speed="600"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.0" rotation="90" bullet_id="7" speed="600"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.0" rotation="135" bullet_id="7" speed="600"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.0" rotation="180" bullet_id="7" speed="600"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.0" rotation="225" bullet_id="7" speed="600"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.0" rotation="270" bullet_id="7" speed="600"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.0" rotation="315" bullet_id="7" speed="600"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.2" rotation="15" bullet_id="7" speed="600"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.2" rotation="60" bullet_id="7" speed="600"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.2" rotation="105" bullet_id="7" speed="600"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.2" rotation="150" bullet_id="7" speed="600"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.2" rotation="195" bullet_id="7" speed="600"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.2" rotation="240" bullet_id="7" speed="600"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.2" rotation="285" bullet_id="7" speed="600"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.2" rotation="330" bullet_id="7" speed="600"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.4" rotation="30" bullet_id="7" speed="600"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.4" rotation="75" bullet_id="7" speed="600"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.4" rotation="120" bullet_id="7" speed="600"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.4" rotation="165" bullet_id="7" speed="600"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.4" rotation="210" bullet_id="7" speed="600"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.4" rotation="255" bullet_id="7" speed="600"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.4" rotation="300" bullet_id="7" speed="600"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.4" rotation="345" bullet_id="7" speed="600"></Gun>
+	</GunGroup>
+	<GunGroup id="35" description="炮管组----360°急速---重复2次--间隔0.1" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.0" rotation="60" bullet_id="7" speed="600"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.0" rotation="120" bullet_id="7" speed="600"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.0" rotation="180" bullet_id="7" speed="600"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.0" rotation="240" bullet_id="7" speed="600"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.0" rotation="300" bullet_id="7" speed="600"></Gun>
+
+		<Gun id="7" x="0" y="0" delay="0.2" rotation="30" bullet_id="7" speed="600"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.2" rotation="90" bullet_id="7" speed="600"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.2" rotation="150" bullet_id="7" speed="600"></Gun>
+		<Gun id="10" x="0" y="0" delay="0.2" rotation="210" bullet_id="7" speed="600"></Gun>
+		<Gun id="11" x="0" y="0" delay="0.2" rotation="270" bullet_id="7" speed="600"></Gun>
+		<Gun id="12" x="0" y="0" delay="0.2" rotation="330" bullet_id="7" speed="600"></Gun>
+	</GunGroup>
+	<GunGroup id="36" description="炮管组----360°急速" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="7" speed="600"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.0" rotation="40" bullet_id="7" speed="600"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.0" rotation="80" bullet_id="7" speed="600"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.0" rotation="120" bullet_id="7" speed="600"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.0" rotation="160" bullet_id="7" speed="600"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.0" rotation="200" bullet_id="7" speed="600"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.0" rotation="240" bullet_id="7" speed="600"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.0" rotation="280" bullet_id="7" speed="600"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.0" rotation="320" bullet_id="7" speed="600"></Gun>
+	</GunGroup>
+	<GunGroup id="37" description="放射型子弹混合" >
+		<Gun id="1" x="0" y="15" delay="0.0" rotation="0" bullet_id="10" child_bullet_id="4" speed="180" offset_angle="18" percentage_height="30"></Gun>
+		<Gun id="2" x="0" y="-15" delay="0.0" rotation="0" bullet_id="10" child_bullet_id="4" speed="180" offset_angle="18" percentage_height="30"></Gun>
+	</GunGroup>
+	<GunGroup id="38" description="炮管组----两条" >
+		<Gun id="1" x="0" y="0" delay="0.1" rotation="0" bullet_id="4" speed="200"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.2" rotation="0.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.3" rotation="1.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.4" rotation="3" bullet_id="4" speed="200"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.5" rotation="5" bullet_id="4" speed="200"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.6" rotation="7.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.7" rotation="10.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.8" rotation="14" bullet_id="4" speed="200"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.9" rotation="18" bullet_id="4" speed="200"></Gun>
+		<Gun id="10" x="0" y="0" delay="1.0" rotation="22.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="11" x="0" y="0" delay="1.1" rotation="27.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="12" x="0" y="0" delay="1.2" rotation="32" bullet_id="4" speed="200"></Gun>
+		<Gun id="13" x="0" y="0" delay="1.3" rotation="36" bullet_id="4" speed="200"></Gun>
+		<Gun id="14" x="0" y="0" delay="1.4" rotation="39.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="15" x="0" y="0" delay="1.5" rotation="42.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="16" x="0" y="0" delay="1.6" rotation="45" bullet_id="4" speed="200"></Gun>
+		<Gun id="17" x="0" y="0" delay="1.7" rotation="47" bullet_id="4" speed="200"></Gun>
+		<Gun id="18" x="0" y="0" delay="1.8" rotation="48.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="19" x="0" y="0" delay="1.9" rotation="49" bullet_id="4" speed="200"></Gun>
+		<Gun id="20" x="0" y="0" delay="2.0" rotation="49.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="21" x="0" y="0" delay="2.1" rotation="49" bullet_id="4" speed="200"></Gun>
+		<Gun id="22" x="0" y="0" delay="2.2" rotation="48.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="23" x="0" y="0" delay="2.3" rotation="47" bullet_id="4" speed="200"></Gun>
+		<Gun id="24" x="0" y="0" delay="2.4" rotation="45" bullet_id="4" speed="200"></Gun>
+		<Gun id="25" x="0" y="0" delay="2.5" rotation="42.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="26" x="0" y="0" delay="2.6" rotation="39.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="27" x="0" y="0" delay="2.7" rotation="36" bullet_id="4" speed="200"></Gun>
+		<Gun id="28" x="0" y="0" delay="2.8" rotation="32" bullet_id="4" speed="200"></Gun>
+		<Gun id="29" x="0" y="0" delay="2.9" rotation="27.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="30" x="0" y="0" delay="3.0" rotation="22.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="31" x="0" y="0" delay="3.1" rotation="18" bullet_id="4" speed="200"></Gun>
+		<Gun id="32" x="0" y="0" delay="3.2" rotation="14" bullet_id="4" speed="200"></Gun>
+		<Gun id="33" x="0" y="0" delay="3.3" rotation="10.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="34" x="0" y="0" delay="3.4" rotation="7.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="35" x="0" y="0" delay="3.5" rotation="5" bullet_id="4" speed="200"></Gun>
+		<Gun id="36" x="0" y="0" delay="3.6" rotation="3" bullet_id="4" speed="200"></Gun>
+		<Gun id="37" x="0" y="0" delay="3.7" rotation="1.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="38" x="0" y="0" delay="3.8" rotation="0.5" bullet_id="4" speed="200"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.1" rotation="300" bullet_id="4" speed="200"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.2" rotation="300.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.3" rotation="301.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.4" rotation="303" bullet_id="4" speed="200"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.5" rotation="305" bullet_id="4" speed="200"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.6" rotation="307.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.7" rotation="310.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.8" rotation="314" bullet_id="4" speed="200"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.9" rotation="318" bullet_id="4" speed="200"></Gun>
+		<Gun id="10" x="0" y="0" delay="1.0" rotation="322.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="11" x="0" y="0" delay="1.1" rotation="327.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="12" x="0" y="0" delay="1.2" rotation="332" bullet_id="4" speed="200"></Gun>
+		<Gun id="13" x="0" y="0" delay="1.3" rotation="336" bullet_id="4" speed="200"></Gun>
+		<Gun id="14" x="0" y="0" delay="1.4" rotation="339.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="15" x="0" y="0" delay="1.5" rotation="342.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="16" x="0" y="0" delay="1.6" rotation="345" bullet_id="4" speed="200"></Gun>
+		<Gun id="17" x="0" y="0" delay="1.7" rotation="347" bullet_id="4" speed="200"></Gun>
+		<Gun id="18" x="0" y="0" delay="1.8" rotation="348.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="19" x="0" y="0" delay="1.9" rotation="349" bullet_id="4" speed="200"></Gun>
+		<Gun id="20" x="0" y="0" delay="2.0" rotation="349.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="21" x="0" y="0" delay="2.1" rotation="349" bullet_id="4" speed="200"></Gun>
+		<Gun id="22" x="0" y="0" delay="2.2" rotation="348.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="23" x="0" y="0" delay="2.3" rotation="347" bullet_id="4" speed="200"></Gun>
+		<Gun id="24" x="0" y="0" delay="2.4" rotation="345" bullet_id="4" speed="200"></Gun>
+		<Gun id="25" x="0" y="0" delay="2.5" rotation="342.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="26" x="0" y="0" delay="2.6" rotation="339.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="27" x="0" y="0" delay="2.7" rotation="336" bullet_id="4" speed="200"></Gun>
+		<Gun id="28" x="0" y="0" delay="2.8" rotation="332" bullet_id="4" speed="200"></Gun>
+		<Gun id="29" x="0" y="0" delay="2.9" rotation="327.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="30" x="0" y="0" delay="3.0" rotation="322.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="31" x="0" y="0" delay="3.1" rotation="318" bullet_id="4" speed="200"></Gun>
+		<Gun id="32" x="0" y="0" delay="3.2" rotation="314" bullet_id="4" speed="200"></Gun>
+		<Gun id="33" x="0" y="0" delay="3.3" rotation="310.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="34" x="0" y="0" delay="3.4" rotation="307.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="35" x="0" y="0" delay="3.5" rotation="305" bullet_id="4" speed="200"></Gun>
+		<Gun id="36" x="0" y="0" delay="3.6" rotation="303" bullet_id="4" speed="200"></Gun>
+		<Gun id="37" x="0" y="0" delay="3.7" rotation="301.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="38" x="0" y="0" delay="3.8" rotation="300.5" bullet_id="4" speed="200"></Gun>
+	</GunGroup>
+	<GunGroup id="39" description="炮管组----两条" >
+		<Gun id="1" x="0" y="0" delay="0.05" rotation="20" bullet_id="4" speed="200"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.1" rotation="20.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.15" rotation="21.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.2" rotation="23" bullet_id="4" speed="200"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.25" rotation="25" bullet_id="4" speed="200"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.3" rotation="27.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.35" rotation="30.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.4" rotation="34" bullet_id="4" speed="200"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.45" rotation="38" bullet_id="4" speed="200"></Gun>
+		<Gun id="10" x="0" y="0" delay="0.5" rotation="42.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="11" x="0" y="0" delay="0.55" rotation="47.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="12" x="0" y="0" delay="0.6" rotation="52" bullet_id="4" speed="200"></Gun>
+		<Gun id="13" x="0" y="0" delay="0.65" rotation="56" bullet_id="4" speed="200"></Gun>
+		<Gun id="14" x="0" y="0" delay="0.7" rotation="59.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="15" x="0" y="0" delay="0.75" rotation="62.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="16" x="0" y="0" delay="0.8" rotation="65" bullet_id="4" speed="200"></Gun>
+		<Gun id="17" x="0" y="0" delay="0.85" rotation="67" bullet_id="4" speed="200"></Gun>
+		<Gun id="18" x="0" y="0" delay="0.9" rotation="68.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="19" x="0" y="0" delay="0.95" rotation="69" bullet_id="4" speed="200"></Gun>
+		<Gun id="20" x="0" y="0" delay="1.0" rotation="69.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="21" x="0" y="0" delay="1.05" rotation="69" bullet_id="4" speed="200"></Gun>
+		<Gun id="22" x="0" y="0" delay="1.1" rotation="68.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="23" x="0" y="0" delay="1.15" rotation="67" bullet_id="4" speed="200"></Gun>
+		<Gun id="24" x="0" y="0" delay="1.2" rotation="65" bullet_id="4" speed="200"></Gun>
+		<Gun id="25" x="0" y="0" delay="1.25" rotation="62.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="26" x="0" y="0" delay="1.3" rotation="59.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="27" x="0" y="0" delay="1.35" rotation="56" bullet_id="4" speed="200"></Gun>
+		<Gun id="28" x="0" y="0" delay="1.4" rotation="52" bullet_id="4" speed="200"></Gun>
+		<Gun id="29" x="0" y="0" delay="1.45" rotation="47.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="30" x="0" y="0" delay="1.5" rotation="42.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="31" x="0" y="0" delay="1.55" rotation="38" bullet_id="4" speed="200"></Gun>
+		<Gun id="32" x="0" y="0" delay="1.6" rotation="34" bullet_id="4" speed="200"></Gun>
+		<Gun id="33" x="0" y="0" delay="1.65" rotation="30.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="34" x="0" y="0" delay="1.7" rotation="27.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="35" x="0" y="0" delay="1.75" rotation="25" bullet_id="4" speed="200"></Gun>
+		<Gun id="36" x="0" y="0" delay="1.8" rotation="23" bullet_id="4" speed="200"></Gun>
+		<Gun id="37" x="0" y="0" delay="1.85" rotation="21.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="38" x="0" y="0" delay="1.9" rotation="20.5" bullet_id="4" speed="200"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.05" rotation="-20" bullet_id="4" speed="200"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.1" rotation="-20.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.15" rotation="-21.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.2" rotation="-23" bullet_id="4" speed="200"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.25" rotation="-25" bullet_id="4" speed="200"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.3" rotation="-27.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.35" rotation="-30.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.4" rotation="-34" bullet_id="4" speed="200"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.45" rotation="-38" bullet_id="4" speed="200"></Gun>
+		<Gun id="10" x="0" y="0" delay="0.5" rotation="-42.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="11" x="0" y="0" delay="0.55" rotation="-47.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="12" x="0" y="0" delay="0.6" rotation="-52" bullet_id="4" speed="200"></Gun>
+		<Gun id="13" x="0" y="0" delay="0.65" rotation="-56" bullet_id="4" speed="200"></Gun>
+		<Gun id="14" x="0" y="0" delay="0.7" rotation="-59.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="15" x="0" y="0" delay="0.75" rotation="-62.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="16" x="0" y="0" delay="0.8" rotation="-65" bullet_id="4" speed="200"></Gun>
+		<Gun id="17" x="0" y="0" delay="0.85" rotation="-67" bullet_id="4" speed="200"></Gun>
+		<Gun id="18" x="0" y="0" delay="0.9" rotation="-68.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="19" x="0" y="0" delay="0.95" rotation="-69" bullet_id="4" speed="200"></Gun>
+		<Gun id="20" x="0" y="0" delay="1.0" rotation="-69.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="21" x="0" y="0" delay="1.05" rotation="-69" bullet_id="4" speed="200"></Gun>
+		<Gun id="22" x="0" y="0" delay="1.1" rotation="-68.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="23" x="0" y="0" delay="1.15" rotation="-67" bullet_id="4" speed="200"></Gun>
+		<Gun id="24" x="0" y="0" delay="1.2" rotation="-65" bullet_id="4" speed="200"></Gun>
+		<Gun id="25" x="0" y="0" delay="1.25" rotation="-62.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="26" x="0" y="0" delay="1.3" rotation="-59.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="27" x="0" y="0" delay="1.35" rotation="-56" bullet_id="4" speed="200"></Gun>
+		<Gun id="28" x="0" y="0" delay="1.4" rotation="-52" bullet_id="4" speed="200"></Gun>
+		<Gun id="29" x="0" y="0" delay="1.45" rotation="-47.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="30" x="0" y="0" delay="1.5" rotation="-42.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="31" x="0" y="0" delay="1.55" rotation="-38" bullet_id="4" speed="200"></Gun>
+		<Gun id="32" x="0" y="0" delay="1.6" rotation="-34" bullet_id="4" speed="200"></Gun>
+		<Gun id="33" x="0" y="0" delay="1.65" rotation="-30.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="34" x="0" y="0" delay="1.7" rotation="-27.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="35" x="0" y="0" delay="1.75" rotation="-25" bullet_id="4" speed="200"></Gun>
+		<Gun id="36" x="0" y="0" delay="1.8" rotation="-23" bullet_id="4" speed="200"></Gun>
+		<Gun id="37" x="0" y="0" delay="1.85" rotation="-21.5" bullet_id="4" speed="200"></Gun>
+		<Gun id="38" x="0" y="0" delay="1.9" rotation="-20.5" bullet_id="4" speed="200"></Gun>
+	</GunGroup>
+
+
+	<GunGroup id="42" description="special group" >
+		<Gun id="1" x="8" y="0"  delay="0.0" rotation="0" bullet_id="2" speed="0" trail_group_id="9" trail_group_angle="3"></Gun>
+		<Gun id="2" x="-8" y="0"  delay="0.0" rotation="0" bullet_id="2" speed="0" trail_group_id="9" trail_group_angle="-3"></Gun>
+	</GunGroup>
+	<GunGroup id="43" description="二段速--360°--固定角度" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="2" speed="0" trail_group_id="9" trail_group_angle="0">
+		</Gun>
+		<Gun id="2" x="0" y="0"  delay="0.0" rotation="0" bullet_id="2" speed="0" trail_group_id="9" trail_group_angle="40">
+		</Gun>
+		<Gun id="3" x="0" y="0"  delay="0.0" rotation="0" bullet_id="2" speed="0" trail_group_id="9" trail_group_angle="80">
+		</Gun>
+		<Gun id="4" x="0" y="0"  delay="0.0" rotation="0" bullet_id="2" speed="0" trail_group_id="9" trail_group_angle="120">
+		</Gun>
+		<Gun id="5" x="0" y="0"  delay="0.0" rotation="0" bullet_id="2" speed="0" trail_group_id="9" trail_group_angle="160">
+		</Gun>
+		<Gun id="6" x="0" y="0"  delay="0.0" rotation="0" bullet_id="2" speed="0" trail_group_id="9" trail_group_angle="200">
+		</Gun>
+		<Gun id="7" x="0" y="0"  delay="0.0" rotation="0" bullet_id="2" speed="0" trail_group_id="9" trail_group_angle="240">
+		</Gun>
+		<Gun id="8" x="0" y="0"  delay="0.0" rotation="0" bullet_id="2" speed="0" trail_group_id="9" trail_group_angle="280">
+		</Gun>
+		<Gun id="9" x="0" y="0"  delay="0.0" rotation="0" bullet_id="2" speed="0" trail_group_id="9" trail_group_angle="320">
+		</Gun>
+	</GunGroup>
+	<GunGroup id="44" description="炮管组--360°角度--Z型旋转发射" >
+		<Gun id="1" x="0" y="0" delay="0.1" rotation="0" bullet_id="1" speed="300"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.2" rotation="5" bullet_id="1" speed="300"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.3" rotation="10" bullet_id="1" speed="300"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.4" rotation="15" bullet_id="1" speed="300"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.5" rotation="20" bullet_id="1" speed="300"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.6" rotation="25" bullet_id="1" speed="300"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.7" rotation="30" bullet_id="1" speed="300"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.8" rotation="35" bullet_id="1" speed="300"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.9" rotation="40" bullet_id="1" speed="300"></Gun>
+		<Gun id="10" x="0" y="0" delay="1.0" rotation="45" bullet_id="1" speed="300"></Gun>
+		<Gun id="11" x="0" y="0" delay="1.1" rotation="50" bullet_id="1" speed="300"></Gun>
+		<Gun id="12" x="0" y="0" delay="1.2" rotation="55" bullet_id="1" speed="300"></Gun>
+		<Gun id="13" x="0" y="0" delay="1.3" rotation="60" bullet_id="1" speed="300"></Gun>
+		<Gun id="14" x="0" y="0" delay="1.4" rotation="55" bullet_id="1" speed="300"></Gun>
+		<Gun id="15" x="0" y="0" delay="1.5" rotation="50" bullet_id="1" speed="300"></Gun>
+		<Gun id="16" x="0" y="0" delay="1.6" rotation="45" bullet_id="1" speed="300"></Gun>
+		<Gun id="17" x="0" y="0" delay="1.7" rotation="40" bullet_id="1" speed="300"></Gun>
+		<Gun id="18" x="0" y="0" delay="1.8" rotation="35" bullet_id="1" speed="300"></Gun>
+		<Gun id="19" x="0" y="0" delay="1.9" rotation="30" bullet_id="1" speed="300"></Gun>
+		<Gun id="20" x="0" y="0" delay="2.0" rotation="25" bullet_id="1" speed="300"></Gun>
+		<Gun id="21" x="0" y="0" delay="2.1" rotation="20" bullet_id="1" speed="300"></Gun>
+		<Gun id="22" x="0" y="0" delay="2.2" rotation="15" bullet_id="1" speed="300"></Gun>
+		<Gun id="23" x="0" y="0" delay="2.3" rotation="10" bullet_id="1" speed="300"></Gun>
+		<Gun id="24" x="0" y="0" delay="2.4" rotation="5" bullet_id="1" speed="300"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.1" rotation="36" bullet_id="1" speed="300"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.2" rotation="41" bullet_id="1" speed="300"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.3" rotation="46" bullet_id="1" speed="300"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.4" rotation="51" bullet_id="1" speed="300"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.5" rotation="56" bullet_id="1" speed="300"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.6" rotation="61" bullet_id="1" speed="300"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.7" rotation="66" bullet_id="1" speed="300"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.8" rotation="71" bullet_id="1" speed="300"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.9" rotation="76" bullet_id="1" speed="300"></Gun>
+		<Gun id="10" x="0" y="0" delay="1.0" rotation="81" bullet_id="1" speed="300"></Gun>
+		<Gun id="11" x="0" y="0" delay="1.1" rotation="86" bullet_id="1" speed="300"></Gun>
+		<Gun id="12" x="0" y="0" delay="1.2" rotation="91" bullet_id="1" speed="300"></Gun>
+		<Gun id="13" x="0" y="0" delay="1.3" rotation="96" bullet_id="1" speed="300"></Gun>
+		<Gun id="14" x="0" y="0" delay="1.4" rotation="91" bullet_id="1" speed="300"></Gun>
+		<Gun id="15" x="0" y="0" delay="1.5" rotation="86" bullet_id="1" speed="300"></Gun>
+		<Gun id="16" x="0" y="0" delay="1.6" rotation="81" bullet_id="1" speed="300"></Gun>
+		<Gun id="17" x="0" y="0" delay="1.7" rotation="76" bullet_id="1" speed="300"></Gun>
+		<Gun id="18" x="0" y="0" delay="1.8" rotation="71" bullet_id="1" speed="300"></Gun>
+		<Gun id="19" x="0" y="0" delay="1.9" rotation="66" bullet_id="1" speed="300"></Gun>
+		<Gun id="20" x="0" y="0" delay="2.0" rotation="61" bullet_id="1" speed="300"></Gun>
+		<Gun id="21" x="0" y="0" delay="2.1" rotation="56" bullet_id="1" speed="300"></Gun>
+		<Gun id="22" x="0" y="0" delay="2.2" rotation="51" bullet_id="1" speed="300"></Gun>
+		<Gun id="23" x="0" y="0" delay="2.3" rotation="46" bullet_id="1" speed="300"></Gun>
+		<Gun id="24" x="0" y="0" delay="2.4" rotation="41" bullet_id="1" speed="300"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.1" rotation="72" bullet_id="1" speed="300"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.2" rotation="77" bullet_id="1" speed="300"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.3" rotation="82" bullet_id="1" speed="300"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.4" rotation="87" bullet_id="1" speed="300"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.5" rotation="92" bullet_id="1" speed="300"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.6" rotation="97" bullet_id="1" speed="300"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.7" rotation="102" bullet_id="1" speed="300"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.8" rotation="107" bullet_id="1" speed="300"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.9" rotation="112" bullet_id="1" speed="300"></Gun>
+		<Gun id="10" x="0" y="0" delay="1.0" rotation="117" bullet_id="1" speed="300"></Gun>
+		<Gun id="11" x="0" y="0" delay="1.1" rotation="122" bullet_id="1" speed="300"></Gun>
+		<Gun id="12" x="0" y="0" delay="1.2" rotation="127" bullet_id="1" speed="300"></Gun>
+		<Gun id="13" x="0" y="0" delay="1.3" rotation="132" bullet_id="1" speed="300"></Gun>
+		<Gun id="14" x="0" y="0" delay="1.4" rotation="127" bullet_id="1" speed="300"></Gun>
+		<Gun id="15" x="0" y="0" delay="1.5" rotation="122" bullet_id="1" speed="300"></Gun>
+		<Gun id="16" x="0" y="0" delay="1.6" rotation="117" bullet_id="1" speed="300"></Gun>
+		<Gun id="17" x="0" y="0" delay="1.7" rotation="112" bullet_id="1" speed="300"></Gun>
+		<Gun id="18" x="0" y="0" delay="1.8" rotation="107" bullet_id="1" speed="300"></Gun>
+		<Gun id="19" x="0" y="0" delay="1.9" rotation="102" bullet_id="1" speed="300"></Gun>
+		<Gun id="20" x="0" y="0" delay="2.0" rotation="97" bullet_id="1" speed="300"></Gun>
+		<Gun id="21" x="0" y="0" delay="2.1" rotation="92" bullet_id="1" speed="300"></Gun>
+		<Gun id="22" x="0" y="0" delay="2.2" rotation="87" bullet_id="1" speed="300"></Gun>
+		<Gun id="23" x="0" y="0" delay="2.3" rotation="82" bullet_id="1" speed="300"></Gun>
+		<Gun id="24" x="0" y="0" delay="2.4" rotation="77" bullet_id="1" speed="300"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.1" rotation="108" bullet_id="1" speed="300"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.2" rotation="113" bullet_id="1" speed="300"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.3" rotation="118" bullet_id="1" speed="300"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.4" rotation="123" bullet_id="1" speed="300"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.5" rotation="128" bullet_id="1" speed="300"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.6" rotation="133" bullet_id="1" speed="300"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.7" rotation="138" bullet_id="1" speed="300"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.8" rotation="143" bullet_id="1" speed="300"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.9" rotation="148" bullet_id="1" speed="300"></Gun>
+		<Gun id="10" x="0" y="0" delay="1.0" rotation="153" bullet_id="1" speed="300"></Gun>
+		<Gun id="11" x="0" y="0" delay="1.1" rotation="158" bullet_id="1" speed="300"></Gun>
+		<Gun id="12" x="0" y="0" delay="1.2" rotation="163" bullet_id="1" speed="300"></Gun>
+		<Gun id="13" x="0" y="0" delay="1.3" rotation="168" bullet_id="1" speed="300"></Gun>
+		<Gun id="14" x="0" y="0" delay="1.4" rotation="163" bullet_id="1" speed="300"></Gun>
+		<Gun id="15" x="0" y="0" delay="1.5" rotation="158" bullet_id="1" speed="300"></Gun>
+		<Gun id="16" x="0" y="0" delay="1.6" rotation="153" bullet_id="1" speed="300"></Gun>
+		<Gun id="17" x="0" y="0" delay="1.7" rotation="148" bullet_id="1" speed="300"></Gun>
+		<Gun id="18" x="0" y="0" delay="1.8" rotation="143" bullet_id="1" speed="300"></Gun>
+		<Gun id="19" x="0" y="0" delay="1.9" rotation="138" bullet_id="1" speed="300"></Gun>
+		<Gun id="20" x="0" y="0" delay="2.0" rotation="133" bullet_id="1" speed="300"></Gun>
+		<Gun id="21" x="0" y="0" delay="2.1" rotation="128" bullet_id="1" speed="300"></Gun>
+		<Gun id="22" x="0" y="0" delay="2.2" rotation="123" bullet_id="1" speed="300"></Gun>
+		<Gun id="23" x="0" y="0" delay="2.3" rotation="118" bullet_id="1" speed="300"></Gun>
+		<Gun id="24" x="0" y="0" delay="2.4" rotation="113" bullet_id="1" speed="300"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.1" rotation="144" bullet_id="1" speed="300"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.2" rotation="149" bullet_id="1" speed="300"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.3" rotation="154" bullet_id="1" speed="300"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.4" rotation="159" bullet_id="1" speed="300"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.5" rotation="164" bullet_id="1" speed="300"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.6" rotation="169" bullet_id="1" speed="300"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.7" rotation="174" bullet_id="1" speed="300"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.8" rotation="179" bullet_id="1" speed="300"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.9" rotation="184" bullet_id="1" speed="300"></Gun>
+		<Gun id="10" x="0" y="0" delay="1.0" rotation="189" bullet_id="1" speed="300"></Gun>
+		<Gun id="11" x="0" y="0" delay="1.1" rotation="194" bullet_id="1" speed="300"></Gun>
+		<Gun id="12" x="0" y="0" delay="1.2" rotation="199" bullet_id="1" speed="300"></Gun>
+		<Gun id="13" x="0" y="0" delay="1.3" rotation="204" bullet_id="1" speed="300"></Gun>
+		<Gun id="14" x="0" y="0" delay="1.4" rotation="199" bullet_id="1" speed="300"></Gun>
+		<Gun id="15" x="0" y="0" delay="1.5" rotation="194" bullet_id="1" speed="300"></Gun>
+		<Gun id="16" x="0" y="0" delay="1.6" rotation="189" bullet_id="1" speed="300"></Gun>
+		<Gun id="17" x="0" y="0" delay="1.7" rotation="184" bullet_id="1" speed="300"></Gun>
+		<Gun id="18" x="0" y="0" delay="1.8" rotation="179" bullet_id="1" speed="300"></Gun>
+		<Gun id="19" x="0" y="0" delay="1.9" rotation="174" bullet_id="1" speed="300"></Gun>
+		<Gun id="20" x="0" y="0" delay="2.0" rotation="169" bullet_id="1" speed="300"></Gun>
+		<Gun id="21" x="0" y="0" delay="2.1" rotation="164" bullet_id="1" speed="300"></Gun>
+		<Gun id="22" x="0" y="0" delay="2.2" rotation="159" bullet_id="1" speed="300"></Gun>
+		<Gun id="23" x="0" y="0" delay="2.3" rotation="154" bullet_id="1" speed="300"></Gun>
+		<Gun id="24" x="0" y="0" delay="2.4" rotation="149" bullet_id="1" speed="300"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.1" rotation="180" bullet_id="1" speed="300"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.2" rotation="185" bullet_id="1" speed="300"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.3" rotation="190" bullet_id="1" speed="300"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.4" rotation="195" bullet_id="1" speed="300"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.5" rotation="200" bullet_id="1" speed="300"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.6" rotation="205" bullet_id="1" speed="300"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.7" rotation="210" bullet_id="1" speed="300"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.8" rotation="215" bullet_id="1" speed="300"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.9" rotation="220" bullet_id="1" speed="300"></Gun>
+		<Gun id="10" x="0" y="0" delay="1.0" rotation="225" bullet_id="1" speed="300"></Gun>
+		<Gun id="11" x="0" y="0" delay="1.1" rotation="230" bullet_id="1" speed="300"></Gun>
+		<Gun id="12" x="0" y="0" delay="1.2" rotation="235" bullet_id="1" speed="300"></Gun>
+		<Gun id="13" x="0" y="0" delay="1.3" rotation="240" bullet_id="1" speed="300"></Gun>
+		<Gun id="14" x="0" y="0" delay="1.4" rotation="235" bullet_id="1" speed="300"></Gun>
+		<Gun id="15" x="0" y="0" delay="1.5" rotation="230" bullet_id="1" speed="300"></Gun>
+		<Gun id="16" x="0" y="0" delay="1.6" rotation="225" bullet_id="1" speed="300"></Gun>
+		<Gun id="17" x="0" y="0" delay="1.7" rotation="220" bullet_id="1" speed="300"></Gun>
+		<Gun id="18" x="0" y="0" delay="1.8" rotation="215" bullet_id="1" speed="300"></Gun>
+		<Gun id="19" x="0" y="0" delay="1.9" rotation="210" bullet_id="1" speed="300"></Gun>
+		<Gun id="20" x="0" y="0" delay="2.0" rotation="205" bullet_id="1" speed="300"></Gun>
+		<Gun id="21" x="0" y="0" delay="2.1" rotation="200" bullet_id="1" speed="300"></Gun>
+		<Gun id="22" x="0" y="0" delay="2.2" rotation="195" bullet_id="1" speed="300"></Gun>
+		<Gun id="23" x="0" y="0" delay="2.3" rotation="190" bullet_id="1" speed="300"></Gun>
+		<Gun id="24" x="0" y="0" delay="2.4" rotation="185" bullet_id="1" speed="300"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.1" rotation="216" bullet_id="1" speed="300"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.2" rotation="221" bullet_id="1" speed="300"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.3" rotation="226" bullet_id="1" speed="300"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.4" rotation="231" bullet_id="1" speed="300"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.5" rotation="236" bullet_id="1" speed="300"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.6" rotation="241" bullet_id="1" speed="300"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.7" rotation="246" bullet_id="1" speed="300"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.8" rotation="251" bullet_id="1" speed="300"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.9" rotation="256" bullet_id="1" speed="300"></Gun>
+		<Gun id="10" x="0" y="0" delay="1.0" rotation="261" bullet_id="1" speed="300"></Gun>
+		<Gun id="11" x="0" y="0" delay="1.1" rotation="266" bullet_id="1" speed="300"></Gun>
+		<Gun id="12" x="0" y="0" delay="1.2" rotation="271" bullet_id="1" speed="300"></Gun>
+		<Gun id="13" x="0" y="0" delay="1.3" rotation="276" bullet_id="1" speed="300"></Gun>
+		<Gun id="14" x="0" y="0" delay="1.4" rotation="271" bullet_id="1" speed="300"></Gun>
+		<Gun id="15" x="0" y="0" delay="1.5" rotation="266" bullet_id="1" speed="300"></Gun>
+		<Gun id="16" x="0" y="0" delay="1.6" rotation="261" bullet_id="1" speed="300"></Gun>
+		<Gun id="17" x="0" y="0" delay="1.7" rotation="256" bullet_id="1" speed="300"></Gun>
+		<Gun id="18" x="0" y="0" delay="1.8" rotation="251" bullet_id="1" speed="300"></Gun>
+		<Gun id="19" x="0" y="0" delay="1.9" rotation="246" bullet_id="1" speed="300"></Gun>
+		<Gun id="20" x="0" y="0" delay="2.0" rotation="241" bullet_id="1" speed="300"></Gun>
+		<Gun id="21" x="0" y="0" delay="2.1" rotation="236" bullet_id="1" speed="300"></Gun>
+		<Gun id="22" x="0" y="0" delay="2.2" rotation="231" bullet_id="1" speed="300"></Gun>
+		<Gun id="23" x="0" y="0" delay="2.3" rotation="226" bullet_id="1" speed="300"></Gun>
+		<Gun id="24" x="0" y="0" delay="2.4" rotation="221" bullet_id="1" speed="300"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.1" rotation="252" bullet_id="1" speed="300"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.2" rotation="257" bullet_id="1" speed="300"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.3" rotation="262" bullet_id="1" speed="300"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.4" rotation="267" bullet_id="1" speed="300"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.5" rotation="272" bullet_id="1" speed="300"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.6" rotation="277" bullet_id="1" speed="300"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.7" rotation="282" bullet_id="1" speed="300"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.8" rotation="287" bullet_id="1" speed="300"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.9" rotation="292" bullet_id="1" speed="300"></Gun>
+		<Gun id="10" x="0" y="0" delay="1.0" rotation="297" bullet_id="1" speed="300"></Gun>
+		<Gun id="11" x="0" y="0" delay="1.1" rotation="302" bullet_id="1" speed="300"></Gun>
+		<Gun id="12" x="0" y="0" delay="1.2" rotation="307" bullet_id="1" speed="300"></Gun>
+		<Gun id="13" x="0" y="0" delay="1.3" rotation="312" bullet_id="1" speed="300"></Gun>
+		<Gun id="14" x="0" y="0" delay="1.4" rotation="307" bullet_id="1" speed="300"></Gun>
+		<Gun id="15" x="0" y="0" delay="1.5" rotation="302" bullet_id="1" speed="300"></Gun>
+		<Gun id="16" x="0" y="0" delay="1.6" rotation="297" bullet_id="1" speed="300"></Gun>
+		<Gun id="17" x="0" y="0" delay="1.7" rotation="292" bullet_id="1" speed="300"></Gun>
+		<Gun id="18" x="0" y="0" delay="1.8" rotation="287" bullet_id="1" speed="300"></Gun>
+		<Gun id="19" x="0" y="0" delay="1.9" rotation="282" bullet_id="1" speed="300"></Gun>
+		<Gun id="20" x="0" y="0" delay="2.0" rotation="277" bullet_id="1" speed="300"></Gun>
+		<Gun id="21" x="0" y="0" delay="2.1" rotation="272" bullet_id="1" speed="300"></Gun>
+		<Gun id="22" x="0" y="0" delay="2.2" rotation="267" bullet_id="1" speed="300"></Gun>
+		<Gun id="23" x="0" y="0" delay="2.3" rotation="262" bullet_id="1" speed="300"></Gun>
+		<Gun id="24" x="0" y="0" delay="2.4" rotation="257" bullet_id="1" speed="300"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.1" rotation="288" bullet_id="1" speed="300"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.2" rotation="293" bullet_id="1" speed="300"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.3" rotation="298" bullet_id="1" speed="300"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.4" rotation="303" bullet_id="1" speed="300"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.5" rotation="308" bullet_id="1" speed="300"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.6" rotation="313" bullet_id="1" speed="300"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.7" rotation="318" bullet_id="1" speed="300"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.8" rotation="323" bullet_id="1" speed="300"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.9" rotation="328" bullet_id="1" speed="300"></Gun>
+		<Gun id="10" x="0" y="0" delay="1.0" rotation="333" bullet_id="1" speed="300"></Gun>
+		<Gun id="11" x="0" y="0" delay="1.1" rotation="338" bullet_id="1" speed="300"></Gun>
+		<Gun id="12" x="0" y="0" delay="1.2" rotation="343" bullet_id="1" speed="300"></Gun>
+		<Gun id="13" x="0" y="0" delay="1.3" rotation="348" bullet_id="1" speed="300"></Gun>
+		<Gun id="14" x="0" y="0" delay="1.4" rotation="343" bullet_id="1" speed="300"></Gun>
+		<Gun id="15" x="0" y="0" delay="1.5" rotation="338" bullet_id="1" speed="300"></Gun>
+		<Gun id="16" x="0" y="0" delay="1.6" rotation="333" bullet_id="1" speed="300"></Gun>
+		<Gun id="17" x="0" y="0" delay="1.7" rotation="328" bullet_id="1" speed="300"></Gun>
+		<Gun id="18" x="0" y="0" delay="1.8" rotation="323" bullet_id="1" speed="300"></Gun>
+		<Gun id="19" x="0" y="0" delay="1.9" rotation="318" bullet_id="1" speed="300"></Gun>
+		<Gun id="20" x="0" y="0" delay="2.0" rotation="313" bullet_id="1" speed="300"></Gun>
+		<Gun id="21" x="0" y="0" delay="2.1" rotation="308" bullet_id="1" speed="300"></Gun>
+		<Gun id="22" x="0" y="0" delay="2.2" rotation="303" bullet_id="1" speed="300"></Gun>
+		<Gun id="23" x="0" y="0" delay="2.3" rotation="298" bullet_id="1" speed="300"></Gun>
+		<Gun id="24" x="0" y="0" delay="2.4" rotation="293" bullet_id="1" speed="300"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.1" rotation="324" bullet_id="1" speed="300"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.2" rotation="329" bullet_id="1" speed="300"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.3" rotation="334" bullet_id="1" speed="300"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.4" rotation="339" bullet_id="1" speed="300"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.5" rotation="344" bullet_id="1" speed="300"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.6" rotation="349" bullet_id="1" speed="300"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.7" rotation="354" bullet_id="1" speed="300"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.8" rotation="359" bullet_id="1" speed="300"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.9" rotation="4" bullet_id="1" speed="300"></Gun>
+		<Gun id="10" x="0" y="0" delay="1.0" rotation="9" bullet_id="1" speed="300"></Gun>
+		<Gun id="11" x="0" y="0" delay="1.1" rotation="14" bullet_id="1" speed="300"></Gun>
+		<Gun id="12" x="0" y="0" delay="1.2" rotation="19" bullet_id="1" speed="300"></Gun>
+		<Gun id="13" x="0" y="0" delay="1.3" rotation="24" bullet_id="1" speed="300"></Gun>
+		<Gun id="14" x="0" y="0" delay="1.4" rotation="19" bullet_id="1" speed="300"></Gun>
+		<Gun id="15" x="0" y="0" delay="1.5" rotation="14" bullet_id="1" speed="300"></Gun>
+		<Gun id="16" x="0" y="0" delay="1.6" rotation="9" bullet_id="1" speed="300"></Gun>
+		<Gun id="17" x="0" y="0" delay="1.7" rotation="4" bullet_id="1" speed="300"></Gun>
+		<Gun id="18" x="0" y="0" delay="1.8" rotation="359" bullet_id="1" speed="300"></Gun>
+		<Gun id="19" x="0" y="0" delay="1.9" rotation="354" bullet_id="1" speed="300"></Gun>
+		<Gun id="20" x="0" y="0" delay="2.0" rotation="349" bullet_id="1" speed="300"></Gun>
+		<Gun id="21" x="0" y="0" delay="2.1" rotation="344" bullet_id="1" speed="300"></Gun>
+		<Gun id="22" x="0" y="0" delay="2.2" rotation="339" bullet_id="1" speed="300"></Gun>
+		<Gun id="23" x="0" y="0" delay="2.3" rotation="334" bullet_id="1" speed="300"></Gun>
+		<Gun id="24" x="0" y="0" delay="2.4" rotation="329" bullet_id="1" speed="300"></Gun>
+	</GunGroup>
+	<GunGroup id="45" description="炮管组--360°旋转发射" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="2" speed="300"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.05" rotation="2" bullet_id="2" speed="300"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.1" rotation="4" bullet_id="2" speed="300"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.15" rotation="6" bullet_id="2" speed="300"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.2" rotation="8" bullet_id="2" speed="300"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.25" rotation="10" bullet_id="2" speed="300"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.3" rotation="12" bullet_id="2" speed="300"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.35" rotation="14" bullet_id="2" speed="300"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.4" rotation="16" bullet_id="2" speed="300"></Gun>
+		<Gun id="10" x="0" y="0" delay="0.45" rotation="18" bullet_id="2" speed="300"></Gun>
+		<Gun id="11" x="0" y="0" delay="0.5" rotation="20" bullet_id="2" speed="300"></Gun>
+		<Gun id="12" x="0" y="0" delay="0.55" rotation="22" bullet_id="2" speed="300"></Gun>
+		<Gun id="13" x="0" y="0" delay="0.6" rotation="24" bullet_id="2" speed="300"></Gun>
+		<Gun id="14" x="0" y="0" delay="0.65" rotation="26" bullet_id="2" speed="300"></Gun>
+		<Gun id="15" x="0" y="0" delay="0.7" rotation="28" bullet_id="2" speed="300"></Gun>
+		<Gun id="16" x="0" y="0" delay="0.75" rotation="30" bullet_id="2" speed="300"></Gun>
+		<Gun id="17" x="0" y="0" delay="0.8" rotation="32" bullet_id="2" speed="300"></Gun>
+		<Gun id="18" x="0" y="0" delay="0.85" rotation="34" bullet_id="2" speed="300"></Gun>
+		<Gun id="19" x="0" y="0" delay="0.9" rotation="36" bullet_id="2" speed="300"></Gun>
+		<Gun id="20" x="0" y="0" delay="0.95" rotation="38" bullet_id="2" speed="300"></Gun>
+		<Gun id="21" x="0" y="0" delay="1.0" rotation="40" bullet_id="2" speed="300"></Gun>
+		<Gun id="22" x="0" y="0" delay="1.05" rotation="42" bullet_id="2" speed="300"></Gun>
+		<Gun id="23" x="0" y="0" delay="1.1" rotation="44" bullet_id="2" speed="300"></Gun>
+		<Gun id="24" x="0" y="0" delay="1.15" rotation="46" bullet_id="2" speed="300"></Gun>
+		<Gun id="25" x="0" y="0" delay="1.2" rotation="48" bullet_id="2" speed="300"></Gun>
+		<Gun id="26" x="0" y="0" delay="1.25" rotation="50" bullet_id="2" speed="300"></Gun>
+		<Gun id="27" x="0" y="0" delay="1.3" rotation="52" bullet_id="2" speed="300"></Gun>
+		<Gun id="28" x="0" y="0" delay="1.35" rotation="54" bullet_id="2" speed="300"></Gun>
+		<Gun id="29" x="0" y="0" delay="1.4" rotation="56" bullet_id="2" speed="300"></Gun>
+		<Gun id="30" x="0" y="0" delay="1.45" rotation="58" bullet_id="2" speed="300"></Gun>
+		<Gun id="31" x="0" y="0" delay="1.5" rotation="60" bullet_id="2" speed="300"></Gun>
+		<Gun id="32" x="0" y="0" delay="1.55" rotation="62" bullet_id="2" speed="300"></Gun>
+		<Gun id="33" x="0" y="0" delay="1.6" rotation="64" bullet_id="2" speed="300"></Gun>
+		<Gun id="34" x="0" y="0" delay="1.65" rotation="66" bullet_id="2" speed="300"></Gun>
+		<Gun id="35" x="0" y="0" delay="1.7" rotation="68" bullet_id="2" speed="300"></Gun>
+		<Gun id="36" x="0" y="0" delay="1.75" rotation="70" bullet_id="2" speed="300"></Gun>
+		<Gun id="37" x="0" y="0" delay="1.8" rotation="72" bullet_id="2" speed="300"></Gun>
+		<Gun id="38" x="0" y="0" delay="1.85" rotation="74" bullet_id="2" speed="300"></Gun>
+		<Gun id="39" x="0" y="0" delay="1.9" rotation="76" bullet_id="2" speed="300"></Gun>
+		<Gun id="40" x="0" y="0" delay="1.95" rotation="78" bullet_id="2" speed="300"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="40" bullet_id="2" speed="300"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.05" rotation="42" bullet_id="2" speed="300"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.1" rotation="44" bullet_id="2" speed="300"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.15" rotation="46" bullet_id="2" speed="300"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.2" rotation="48" bullet_id="2" speed="300"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.25" rotation="50" bullet_id="2" speed="300"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.3" rotation="52" bullet_id="2" speed="300"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.35" rotation="54" bullet_id="2" speed="300"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.4" rotation="56" bullet_id="2" speed="300"></Gun>
+		<Gun id="10" x="0" y="0" delay="0.45" rotation="58" bullet_id="2" speed="300"></Gun>
+		<Gun id="11" x="0" y="0" delay="0.5" rotation="60" bullet_id="2" speed="300"></Gun>
+		<Gun id="12" x="0" y="0" delay="0.55" rotation="62" bullet_id="2" speed="300"></Gun>
+		<Gun id="13" x="0" y="0" delay="0.6" rotation="64" bullet_id="2" speed="300"></Gun>
+		<Gun id="14" x="0" y="0" delay="0.65" rotation="66" bullet_id="2" speed="300"></Gun>
+		<Gun id="15" x="0" y="0" delay="0.7" rotation="68" bullet_id="2" speed="300"></Gun>
+		<Gun id="16" x="0" y="0" delay="0.75" rotation="70" bullet_id="2" speed="300"></Gun>
+		<Gun id="17" x="0" y="0" delay="0.8" rotation="72" bullet_id="2" speed="300"></Gun>
+		<Gun id="18" x="0" y="0" delay="0.85" rotation="74" bullet_id="2" speed="300"></Gun>
+		<Gun id="19" x="0" y="0" delay="0.9" rotation="76" bullet_id="2" speed="300"></Gun>
+		<Gun id="20" x="0" y="0" delay="0.95" rotation="78" bullet_id="2" speed="300"></Gun>
+		<Gun id="21" x="0" y="0" delay="1.0" rotation="80" bullet_id="2" speed="300"></Gun>
+		<Gun id="22" x="0" y="0" delay="1.05" rotation="82" bullet_id="2" speed="300"></Gun>
+		<Gun id="23" x="0" y="0" delay="1.1" rotation="84" bullet_id="2" speed="300"></Gun>
+		<Gun id="24" x="0" y="0" delay="1.15" rotation="86" bullet_id="2" speed="300"></Gun>
+		<Gun id="25" x="0" y="0" delay="1.2" rotation="88" bullet_id="2" speed="300"></Gun>
+		<Gun id="26" x="0" y="0" delay="1.25" rotation="90" bullet_id="2" speed="300"></Gun>
+		<Gun id="27" x="0" y="0" delay="1.3" rotation="92" bullet_id="2" speed="300"></Gun>
+		<Gun id="28" x="0" y="0" delay="1.35" rotation="94" bullet_id="2" speed="300"></Gun>
+		<Gun id="29" x="0" y="0" delay="1.4" rotation="96" bullet_id="2" speed="300"></Gun>
+		<Gun id="30" x="0" y="0" delay="1.45" rotation="98" bullet_id="2" speed="300"></Gun>
+		<Gun id="31" x="0" y="0" delay="1.5" rotation="100" bullet_id="2" speed="300"></Gun>
+		<Gun id="32" x="0" y="0" delay="1.55" rotation="102" bullet_id="2" speed="300"></Gun>
+		<Gun id="33" x="0" y="0" delay="1.6" rotation="104" bullet_id="2" speed="300"></Gun>
+		<Gun id="34" x="0" y="0" delay="1.65" rotation="106" bullet_id="2" speed="300"></Gun>
+		<Gun id="35" x="0" y="0" delay="1.7" rotation="108" bullet_id="2" speed="300"></Gun>
+		<Gun id="36" x="0" y="0" delay="1.75" rotation="110" bullet_id="2" speed="300"></Gun>
+		<Gun id="37" x="0" y="0" delay="1.8" rotation="112" bullet_id="2" speed="300"></Gun>
+		<Gun id="38" x="0" y="0" delay="1.85" rotation="114" bullet_id="2" speed="300"></Gun>
+		<Gun id="39" x="0" y="0" delay="1.9" rotation="116" bullet_id="2" speed="300"></Gun>
+		<Gun id="40" x="0" y="0" delay="1.95" rotation="118" bullet_id="2" speed="300"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="80" bullet_id="2" speed="300"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.05" rotation="82" bullet_id="2" speed="300"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.1" rotation="84" bullet_id="2" speed="300"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.15" rotation="86" bullet_id="2" speed="300"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.2" rotation="88" bullet_id="2" speed="300"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.25" rotation="90" bullet_id="2" speed="300"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.3" rotation="92" bullet_id="2" speed="300"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.35" rotation="94" bullet_id="2" speed="300"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.4" rotation="96" bullet_id="2" speed="300"></Gun>
+		<Gun id="10" x="0" y="0" delay="0.45" rotation="98" bullet_id="2" speed="300"></Gun>
+		<Gun id="11" x="0" y="0" delay="0.5" rotation="100" bullet_id="2" speed="300"></Gun>
+		<Gun id="12" x="0" y="0" delay="0.55" rotation="102" bullet_id="2" speed="300"></Gun>
+		<Gun id="13" x="0" y="0" delay="0.6" rotation="104" bullet_id="2" speed="300"></Gun>
+		<Gun id="14" x="0" y="0" delay="0.65" rotation="106" bullet_id="2" speed="300"></Gun>
+		<Gun id="15" x="0" y="0" delay="0.7" rotation="108" bullet_id="2" speed="300"></Gun>
+		<Gun id="16" x="0" y="0" delay="0.75" rotation="110" bullet_id="2" speed="300"></Gun>
+		<Gun id="17" x="0" y="0" delay="0.8" rotation="112" bullet_id="2" speed="300"></Gun>
+		<Gun id="18" x="0" y="0" delay="0.85" rotation="114" bullet_id="2" speed="300"></Gun>
+		<Gun id="19" x="0" y="0" delay="0.9" rotation="116" bullet_id="2" speed="300"></Gun>
+		<Gun id="20" x="0" y="0" delay="0.95" rotation="118" bullet_id="2" speed="300"></Gun>
+		<Gun id="21" x="0" y="0" delay="1.0" rotation="120" bullet_id="2" speed="300"></Gun>
+		<Gun id="22" x="0" y="0" delay="1.05" rotation="122" bullet_id="2" speed="300"></Gun>
+		<Gun id="23" x="0" y="0" delay="1.1" rotation="124" bullet_id="2" speed="300"></Gun>
+		<Gun id="24" x="0" y="0" delay="1.15" rotation="126" bullet_id="2" speed="300"></Gun>
+		<Gun id="25" x="0" y="0" delay="1.2" rotation="128" bullet_id="2" speed="300"></Gun>
+		<Gun id="26" x="0" y="0" delay="1.25" rotation="130" bullet_id="2" speed="300"></Gun>
+		<Gun id="27" x="0" y="0" delay="1.3" rotation="132" bullet_id="2" speed="300"></Gun>
+		<Gun id="28" x="0" y="0" delay="1.35" rotation="134" bullet_id="2" speed="300"></Gun>
+		<Gun id="29" x="0" y="0" delay="1.4" rotation="136" bullet_id="2" speed="300"></Gun>
+		<Gun id="30" x="0" y="0" delay="1.45" rotation="138" bullet_id="2" speed="300"></Gun>
+		<Gun id="31" x="0" y="0" delay="1.5" rotation="140" bullet_id="2" speed="300"></Gun>
+		<Gun id="32" x="0" y="0" delay="1.55" rotation="142" bullet_id="2" speed="300"></Gun>
+		<Gun id="33" x="0" y="0" delay="1.6" rotation="144" bullet_id="2" speed="300"></Gun>
+		<Gun id="34" x="0" y="0" delay="1.65" rotation="146" bullet_id="2" speed="300"></Gun>
+		<Gun id="35" x="0" y="0" delay="1.7" rotation="148" bullet_id="2" speed="300"></Gun>
+		<Gun id="36" x="0" y="0" delay="1.75" rotation="150" bullet_id="2" speed="300"></Gun>
+		<Gun id="37" x="0" y="0" delay="1.8" rotation="152" bullet_id="2" speed="300"></Gun>
+		<Gun id="38" x="0" y="0" delay="1.85" rotation="154" bullet_id="2" speed="300"></Gun>
+		<Gun id="39" x="0" y="0" delay="1.9" rotation="156" bullet_id="2" speed="300"></Gun>
+		<Gun id="40" x="0" y="0" delay="1.95" rotation="158" bullet_id="2" speed="300"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="120" bullet_id="2" speed="300"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.05" rotation="122" bullet_id="2" speed="300"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.1" rotation="124" bullet_id="2" speed="300"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.15" rotation="126" bullet_id="2" speed="300"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.2" rotation="128" bullet_id="2" speed="300"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.25" rotation="130" bullet_id="2" speed="300"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.3" rotation="132" bullet_id="2" speed="300"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.35" rotation="134" bullet_id="2" speed="300"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.4" rotation="136" bullet_id="2" speed="300"></Gun>
+		<Gun id="10" x="0" y="0" delay="0.45" rotation="138" bullet_id="2" speed="300"></Gun>
+		<Gun id="11" x="0" y="0" delay="0.5" rotation="140" bullet_id="2" speed="300"></Gun>
+		<Gun id="12" x="0" y="0" delay="0.55" rotation="142" bullet_id="2" speed="300"></Gun>
+		<Gun id="13" x="0" y="0" delay="0.6" rotation="144" bullet_id="2" speed="300"></Gun>
+		<Gun id="14" x="0" y="0" delay="0.65" rotation="146" bullet_id="2" speed="300"></Gun>
+		<Gun id="15" x="0" y="0" delay="0.7" rotation="148" bullet_id="2" speed="300"></Gun>
+		<Gun id="16" x="0" y="0" delay="0.75" rotation="150" bullet_id="2" speed="300"></Gun>
+		<Gun id="17" x="0" y="0" delay="0.8" rotation="152" bullet_id="2" speed="300"></Gun>
+		<Gun id="18" x="0" y="0" delay="0.85" rotation="154" bullet_id="2" speed="300"></Gun>
+		<Gun id="19" x="0" y="0" delay="0.9" rotation="156" bullet_id="2" speed="300"></Gun>
+		<Gun id="20" x="0" y="0" delay="0.95" rotation="158" bullet_id="2" speed="300"></Gun>
+		<Gun id="21" x="0" y="0" delay="1.0" rotation="160" bullet_id="2" speed="300"></Gun>
+		<Gun id="22" x="0" y="0" delay="1.05" rotation="162" bullet_id="2" speed="300"></Gun>
+		<Gun id="23" x="0" y="0" delay="1.1" rotation="164" bullet_id="2" speed="300"></Gun>
+		<Gun id="24" x="0" y="0" delay="1.15" rotation="166" bullet_id="2" speed="300"></Gun>
+		<Gun id="25" x="0" y="0" delay="1.2" rotation="168" bullet_id="2" speed="300"></Gun>
+		<Gun id="26" x="0" y="0" delay="1.25" rotation="170" bullet_id="2" speed="300"></Gun>
+		<Gun id="27" x="0" y="0" delay="1.3" rotation="172" bullet_id="2" speed="300"></Gun>
+		<Gun id="28" x="0" y="0" delay="1.35" rotation="174" bullet_id="2" speed="300"></Gun>
+		<Gun id="29" x="0" y="0" delay="1.4" rotation="176" bullet_id="2" speed="300"></Gun>
+		<Gun id="30" x="0" y="0" delay="1.45" rotation="178" bullet_id="2" speed="300"></Gun>
+		<Gun id="31" x="0" y="0" delay="1.5" rotation="180" bullet_id="2" speed="300"></Gun>
+		<Gun id="32" x="0" y="0" delay="1.55" rotation="182" bullet_id="2" speed="300"></Gun>
+		<Gun id="33" x="0" y="0" delay="1.6" rotation="184" bullet_id="2" speed="300"></Gun>
+		<Gun id="34" x="0" y="0" delay="1.65" rotation="186" bullet_id="2" speed="300"></Gun>
+		<Gun id="35" x="0" y="0" delay="1.7" rotation="188" bullet_id="2" speed="300"></Gun>
+		<Gun id="36" x="0" y="0" delay="1.75" rotation="190" bullet_id="2" speed="300"></Gun>
+		<Gun id="37" x="0" y="0" delay="1.8" rotation="192" bullet_id="2" speed="300"></Gun>
+		<Gun id="38" x="0" y="0" delay="1.85" rotation="194" bullet_id="2" speed="300"></Gun>
+		<Gun id="39" x="0" y="0" delay="1.9" rotation="196" bullet_id="2" speed="300"></Gun>
+		<Gun id="40" x="0" y="0" delay="1.95" rotation="198" bullet_id="2" speed="300"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="160" bullet_id="2" speed="300"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.05" rotation="162" bullet_id="2" speed="300"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.1" rotation="164" bullet_id="2" speed="300"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.15" rotation="166" bullet_id="2" speed="300"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.2" rotation="168" bullet_id="2" speed="300"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.25" rotation="170" bullet_id="2" speed="300"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.3" rotation="172" bullet_id="2" speed="300"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.35" rotation="174" bullet_id="2" speed="300"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.4" rotation="176" bullet_id="2" speed="300"></Gun>
+		<Gun id="10" x="0" y="0" delay="0.45" rotation="178" bullet_id="2" speed="300"></Gun>
+		<Gun id="11" x="0" y="0" delay="0.5" rotation="180" bullet_id="2" speed="300"></Gun>
+		<Gun id="12" x="0" y="0" delay="0.55" rotation="182" bullet_id="2" speed="300"></Gun>
+		<Gun id="13" x="0" y="0" delay="0.6" rotation="184" bullet_id="2" speed="300"></Gun>
+		<Gun id="14" x="0" y="0" delay="0.65" rotation="186" bullet_id="2" speed="300"></Gun>
+		<Gun id="15" x="0" y="0" delay="0.7" rotation="188" bullet_id="2" speed="300"></Gun>
+		<Gun id="16" x="0" y="0" delay="0.75" rotation="190" bullet_id="2" speed="300"></Gun>
+		<Gun id="17" x="0" y="0" delay="0.8" rotation="192" bullet_id="2" speed="300"></Gun>
+		<Gun id="18" x="0" y="0" delay="0.85" rotation="194" bullet_id="2" speed="300"></Gun>
+		<Gun id="19" x="0" y="0" delay="0.9" rotation="196" bullet_id="2" speed="300"></Gun>
+		<Gun id="20" x="0" y="0" delay="0.95" rotation="198" bullet_id="2" speed="300"></Gun>
+		<Gun id="21" x="0" y="0" delay="1.0" rotation="200" bullet_id="2" speed="300"></Gun>
+		<Gun id="22" x="0" y="0" delay="1.05" rotation="202" bullet_id="2" speed="300"></Gun>
+		<Gun id="23" x="0" y="0" delay="1.1" rotation="204" bullet_id="2" speed="300"></Gun>
+		<Gun id="24" x="0" y="0" delay="1.15" rotation="206" bullet_id="2" speed="300"></Gun>
+		<Gun id="25" x="0" y="0" delay="1.2" rotation="208" bullet_id="2" speed="300"></Gun>
+		<Gun id="26" x="0" y="0" delay="1.25" rotation="210" bullet_id="2" speed="300"></Gun>
+		<Gun id="27" x="0" y="0" delay="1.3" rotation="212" bullet_id="2" speed="300"></Gun>
+		<Gun id="28" x="0" y="0" delay="1.35" rotation="214" bullet_id="2" speed="300"></Gun>
+		<Gun id="29" x="0" y="0" delay="1.4" rotation="216" bullet_id="2" speed="300"></Gun>
+		<Gun id="30" x="0" y="0" delay="1.45" rotation="218" bullet_id="2" speed="300"></Gun>
+		<Gun id="31" x="0" y="0" delay="1.5" rotation="220" bullet_id="2" speed="300"></Gun>
+		<Gun id="32" x="0" y="0" delay="1.55" rotation="222" bullet_id="2" speed="300"></Gun>
+		<Gun id="33" x="0" y="0" delay="1.6" rotation="224" bullet_id="2" speed="300"></Gun>
+		<Gun id="34" x="0" y="0" delay="1.65" rotation="226" bullet_id="2" speed="300"></Gun>
+		<Gun id="35" x="0" y="0" delay="1.7" rotation="228" bullet_id="2" speed="300"></Gun>
+		<Gun id="36" x="0" y="0" delay="1.75" rotation="230" bullet_id="2" speed="300"></Gun>
+		<Gun id="37" x="0" y="0" delay="1.8" rotation="232" bullet_id="2" speed="300"></Gun>
+		<Gun id="38" x="0" y="0" delay="1.85" rotation="234" bullet_id="2" speed="300"></Gun>
+		<Gun id="39" x="0" y="0" delay="1.9" rotation="236" bullet_id="2" speed="300"></Gun>
+		<Gun id="40" x="0" y="0" delay="1.95" rotation="238" bullet_id="2" speed="300"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="200" bullet_id="2" speed="300"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.05" rotation="202" bullet_id="2" speed="300"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.1" rotation="204" bullet_id="2" speed="300"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.15" rotation="206" bullet_id="2" speed="300"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.2" rotation="208" bullet_id="2" speed="300"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.25" rotation="210" bullet_id="2" speed="300"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.3" rotation="212" bullet_id="2" speed="300"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.35" rotation="214" bullet_id="2" speed="300"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.4" rotation="216" bullet_id="2" speed="300"></Gun>
+		<Gun id="10" x="0" y="0" delay="0.45" rotation="218" bullet_id="2" speed="300"></Gun>
+		<Gun id="11" x="0" y="0" delay="0.5" rotation="220" bullet_id="2" speed="300"></Gun>
+		<Gun id="12" x="0" y="0" delay="0.55" rotation="222" bullet_id="2" speed="300"></Gun>
+		<Gun id="13" x="0" y="0" delay="0.6" rotation="224" bullet_id="2" speed="300"></Gun>
+		<Gun id="14" x="0" y="0" delay="0.65" rotation="226" bullet_id="2" speed="300"></Gun>
+		<Gun id="15" x="0" y="0" delay="0.7" rotation="228" bullet_id="2" speed="300"></Gun>
+		<Gun id="16" x="0" y="0" delay="0.75" rotation="230" bullet_id="2" speed="300"></Gun>
+		<Gun id="17" x="0" y="0" delay="0.8" rotation="232" bullet_id="2" speed="300"></Gun>
+		<Gun id="18" x="0" y="0" delay="0.85" rotation="234" bullet_id="2" speed="300"></Gun>
+		<Gun id="19" x="0" y="0" delay="0.9" rotation="236" bullet_id="2" speed="300"></Gun>
+		<Gun id="20" x="0" y="0" delay="0.95" rotation="238" bullet_id="2" speed="300"></Gun>
+		<Gun id="21" x="0" y="0" delay="1.0" rotation="240" bullet_id="2" speed="300"></Gun>
+		<Gun id="22" x="0" y="0" delay="1.05" rotation="242" bullet_id="2" speed="300"></Gun>
+		<Gun id="23" x="0" y="0" delay="1.1" rotation="244" bullet_id="2" speed="300"></Gun>
+		<Gun id="24" x="0" y="0" delay="1.15" rotation="246" bullet_id="2" speed="300"></Gun>
+		<Gun id="25" x="0" y="0" delay="1.2" rotation="248" bullet_id="2" speed="300"></Gun>
+		<Gun id="26" x="0" y="0" delay="1.25" rotation="250" bullet_id="2" speed="300"></Gun>
+		<Gun id="27" x="0" y="0" delay="1.3" rotation="252" bullet_id="2" speed="300"></Gun>
+		<Gun id="28" x="0" y="0" delay="1.35" rotation="254" bullet_id="2" speed="300"></Gun>
+		<Gun id="29" x="0" y="0" delay="1.4" rotation="256" bullet_id="2" speed="300"></Gun>
+		<Gun id="30" x="0" y="0" delay="1.45" rotation="258" bullet_id="2" speed="300"></Gun>
+		<Gun id="31" x="0" y="0" delay="1.5" rotation="260" bullet_id="2" speed="300"></Gun>
+		<Gun id="32" x="0" y="0" delay="1.55" rotation="262" bullet_id="2" speed="300"></Gun>
+		<Gun id="33" x="0" y="0" delay="1.6" rotation="264" bullet_id="2" speed="300"></Gun>
+		<Gun id="34" x="0" y="0" delay="1.65" rotation="266" bullet_id="2" speed="300"></Gun>
+		<Gun id="35" x="0" y="0" delay="1.7" rotation="268" bullet_id="2" speed="300"></Gun>
+		<Gun id="36" x="0" y="0" delay="1.75" rotation="270" bullet_id="2" speed="300"></Gun>
+		<Gun id="37" x="0" y="0" delay="1.8" rotation="272" bullet_id="2" speed="300"></Gun>
+		<Gun id="38" x="0" y="0" delay="1.85" rotation="274" bullet_id="2" speed="300"></Gun>
+		<Gun id="39" x="0" y="0" delay="1.9" rotation="276" bullet_id="2" speed="300"></Gun>
+		<Gun id="40" x="0" y="0" delay="1.95" rotation="278" bullet_id="2" speed="300"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="240" bullet_id="2" speed="300"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.05" rotation="242" bullet_id="2" speed="300"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.1" rotation="244" bullet_id="2" speed="300"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.15" rotation="246" bullet_id="2" speed="300"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.2" rotation="248" bullet_id="2" speed="300"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.25" rotation="250" bullet_id="2" speed="300"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.3" rotation="252" bullet_id="2" speed="300"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.35" rotation="254" bullet_id="2" speed="300"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.4" rotation="256" bullet_id="2" speed="300"></Gun>
+		<Gun id="10" x="0" y="0" delay="0.45" rotation="258" bullet_id="2" speed="300"></Gun>
+		<Gun id="11" x="0" y="0" delay="0.5" rotation="260" bullet_id="2" speed="300"></Gun>
+		<Gun id="12" x="0" y="0" delay="0.55" rotation="262" bullet_id="2" speed="300"></Gun>
+		<Gun id="13" x="0" y="0" delay="0.6" rotation="264" bullet_id="2" speed="300"></Gun>
+		<Gun id="14" x="0" y="0" delay="0.65" rotation="266" bullet_id="2" speed="300"></Gun>
+		<Gun id="15" x="0" y="0" delay="0.7" rotation="268" bullet_id="2" speed="300"></Gun>
+		<Gun id="16" x="0" y="0" delay="0.75" rotation="270" bullet_id="2" speed="300"></Gun>
+		<Gun id="17" x="0" y="0" delay="0.8" rotation="272" bullet_id="2" speed="300"></Gun>
+		<Gun id="18" x="0" y="0" delay="0.85" rotation="274" bullet_id="2" speed="300"></Gun>
+		<Gun id="19" x="0" y="0" delay="0.9" rotation="276" bullet_id="2" speed="300"></Gun>
+		<Gun id="20" x="0" y="0" delay="0.95" rotation="278" bullet_id="2" speed="300"></Gun>
+		<Gun id="21" x="0" y="0" delay="1.0" rotation="280" bullet_id="2" speed="300"></Gun>
+		<Gun id="22" x="0" y="0" delay="1.05" rotation="282" bullet_id="2" speed="300"></Gun>
+		<Gun id="23" x="0" y="0" delay="1.1" rotation="284" bullet_id="2" speed="300"></Gun>
+		<Gun id="24" x="0" y="0" delay="1.15" rotation="286" bullet_id="2" speed="300"></Gun>
+		<Gun id="25" x="0" y="0" delay="1.2" rotation="288" bullet_id="2" speed="300"></Gun>
+		<Gun id="26" x="0" y="0" delay="1.25" rotation="290" bullet_id="2" speed="300"></Gun>
+		<Gun id="27" x="0" y="0" delay="1.3" rotation="292" bullet_id="2" speed="300"></Gun>
+		<Gun id="28" x="0" y="0" delay="1.35" rotation="294" bullet_id="2" speed="300"></Gun>
+		<Gun id="29" x="0" y="0" delay="1.4" rotation="296" bullet_id="2" speed="300"></Gun>
+		<Gun id="30" x="0" y="0" delay="1.45" rotation="298" bullet_id="2" speed="300"></Gun>
+		<Gun id="31" x="0" y="0" delay="1.5" rotation="300" bullet_id="2" speed="300"></Gun>
+		<Gun id="32" x="0" y="0" delay="1.55" rotation="302" bullet_id="2" speed="300"></Gun>
+		<Gun id="33" x="0" y="0" delay="1.6" rotation="304" bullet_id="2" speed="300"></Gun>
+		<Gun id="34" x="0" y="0" delay="1.65" rotation="306" bullet_id="2" speed="300"></Gun>
+		<Gun id="35" x="0" y="0" delay="1.7" rotation="308" bullet_id="2" speed="300"></Gun>
+		<Gun id="36" x="0" y="0" delay="1.75" rotation="310" bullet_id="2" speed="300"></Gun>
+		<Gun id="37" x="0" y="0" delay="1.8" rotation="312" bullet_id="2" speed="300"></Gun>
+		<Gun id="38" x="0" y="0" delay="1.85" rotation="314" bullet_id="2" speed="300"></Gun>
+		<Gun id="39" x="0" y="0" delay="1.9" rotation="316" bullet_id="2" speed="300"></Gun>
+		<Gun id="40" x="0" y="0" delay="1.95" rotation="318" bullet_id="2" speed="300"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="280" bullet_id="2" speed="300"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.05" rotation="282" bullet_id="2" speed="300"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.1" rotation="284" bullet_id="2" speed="300"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.15" rotation="286" bullet_id="2" speed="300"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.2" rotation="288" bullet_id="2" speed="300"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.25" rotation="290" bullet_id="2" speed="300"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.3" rotation="292" bullet_id="2" speed="300"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.35" rotation="294" bullet_id="2" speed="300"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.4" rotation="296" bullet_id="2" speed="300"></Gun>
+		<Gun id="10" x="0" y="0" delay="0.45" rotation="298" bullet_id="2" speed="300"></Gun>
+		<Gun id="11" x="0" y="0" delay="0.5" rotation="300" bullet_id="2" speed="300"></Gun>
+		<Gun id="12" x="0" y="0" delay="0.55" rotation="302" bullet_id="2" speed="300"></Gun>
+		<Gun id="13" x="0" y="0" delay="0.6" rotation="304" bullet_id="2" speed="300"></Gun>
+		<Gun id="14" x="0" y="0" delay="0.65" rotation="306" bullet_id="2" speed="300"></Gun>
+		<Gun id="15" x="0" y="0" delay="0.7" rotation="308" bullet_id="2" speed="300"></Gun>
+		<Gun id="16" x="0" y="0" delay="0.75" rotation="310" bullet_id="2" speed="300"></Gun>
+		<Gun id="17" x="0" y="0" delay="0.8" rotation="312" bullet_id="2" speed="300"></Gun>
+		<Gun id="18" x="0" y="0" delay="0.85" rotation="314" bullet_id="2" speed="300"></Gun>
+		<Gun id="19" x="0" y="0" delay="0.9" rotation="316" bullet_id="2" speed="300"></Gun>
+		<Gun id="20" x="0" y="0" delay="0.95" rotation="318" bullet_id="2" speed="300"></Gun>
+		<Gun id="21" x="0" y="0" delay="1.0" rotation="320" bullet_id="2" speed="300"></Gun>
+		<Gun id="22" x="0" y="0" delay="1.05" rotation="322" bullet_id="2" speed="300"></Gun>
+		<Gun id="23" x="0" y="0" delay="1.1" rotation="324" bullet_id="2" speed="300"></Gun>
+		<Gun id="24" x="0" y="0" delay="1.15" rotation="326" bullet_id="2" speed="300"></Gun>
+		<Gun id="25" x="0" y="0" delay="1.2" rotation="328" bullet_id="2" speed="300"></Gun>
+		<Gun id="26" x="0" y="0" delay="1.25" rotation="330" bullet_id="2" speed="300"></Gun>
+		<Gun id="27" x="0" y="0" delay="1.3" rotation="332" bullet_id="2" speed="300"></Gun>
+		<Gun id="28" x="0" y="0" delay="1.35" rotation="334" bullet_id="2" speed="300"></Gun>
+		<Gun id="29" x="0" y="0" delay="1.4" rotation="336" bullet_id="2" speed="300"></Gun>
+		<Gun id="30" x="0" y="0" delay="1.45" rotation="338" bullet_id="2" speed="300"></Gun>
+		<Gun id="31" x="0" y="0" delay="1.5" rotation="340" bullet_id="2" speed="300"></Gun>
+		<Gun id="32" x="0" y="0" delay="1.55" rotation="342" bullet_id="2" speed="300"></Gun>
+		<Gun id="33" x="0" y="0" delay="1.6" rotation="344" bullet_id="2" speed="300"></Gun>
+		<Gun id="34" x="0" y="0" delay="1.65" rotation="346" bullet_id="2" speed="300"></Gun>
+		<Gun id="35" x="0" y="0" delay="1.7" rotation="348" bullet_id="2" speed="300"></Gun>
+		<Gun id="36" x="0" y="0" delay="1.75" rotation="350" bullet_id="2" speed="300"></Gun>
+		<Gun id="37" x="0" y="0" delay="1.8" rotation="352" bullet_id="2" speed="300"></Gun>
+		<Gun id="38" x="0" y="0" delay="1.85" rotation="354" bullet_id="2" speed="300"></Gun>
+		<Gun id="39" x="0" y="0" delay="1.9" rotation="356" bullet_id="2" speed="300"></Gun>
+		<Gun id="40" x="0" y="0" delay="1.95" rotation="358" bullet_id="2" speed="300"></Gun>
+		
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="320" bullet_id="2" speed="300"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.05" rotation="322" bullet_id="2" speed="300"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.1" rotation="324" bullet_id="2" speed="300"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.15" rotation="326" bullet_id="2" speed="300"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.2" rotation="328" bullet_id="2" speed="300"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.25" rotation="330" bullet_id="2" speed="300"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.3" rotation="332" bullet_id="2" speed="300"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.35" rotation="334" bullet_id="2" speed="300"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.4" rotation="336" bullet_id="2" speed="300"></Gun>
+		<Gun id="10" x="0" y="0" delay="0.45" rotation="338" bullet_id="2" speed="300"></Gun>
+		<Gun id="11" x="0" y="0" delay="0.5" rotation="340" bullet_id="2" speed="300"></Gun>
+		<Gun id="12" x="0" y="0" delay="0.55" rotation="342" bullet_id="2" speed="300"></Gun>
+		<Gun id="13" x="0" y="0" delay="0.6" rotation="344" bullet_id="2" speed="300"></Gun>
+		<Gun id="14" x="0" y="0" delay="0.65" rotation="346" bullet_id="2" speed="300"></Gun>
+		<Gun id="15" x="0" y="0" delay="0.7" rotation="348" bullet_id="2" speed="300"></Gun>
+		<Gun id="16" x="0" y="0" delay="0.75" rotation="350" bullet_id="2" speed="300"></Gun>
+		<Gun id="17" x="0" y="0" delay="0.8" rotation="352" bullet_id="2" speed="300"></Gun>
+		<Gun id="18" x="0" y="0" delay="0.85" rotation="354" bullet_id="2" speed="300"></Gun>
+		<Gun id="19" x="0" y="0" delay="0.9" rotation="356" bullet_id="2" speed="300"></Gun>
+		<Gun id="20" x="0" y="0" delay="0.95" rotation="358" bullet_id="2" speed="300"></Gun>
+		<Gun id="21" x="0" y="0" delay="1.0" rotation="360" bullet_id="2" speed="300"></Gun>
+		<Gun id="22" x="0" y="0" delay="1.05" rotation="362" bullet_id="2" speed="300"></Gun>
+		<Gun id="23" x="0" y="0" delay="1.1" rotation="364" bullet_id="2" speed="300"></Gun>
+		<Gun id="24" x="0" y="0" delay="1.15" rotation="366" bullet_id="2" speed="300"></Gun>
+		<Gun id="25" x="0" y="0" delay="1.2" rotation="368" bullet_id="2" speed="300"></Gun>
+		<Gun id="26" x="0" y="0" delay="1.25" rotation="370" bullet_id="2" speed="300"></Gun>
+		<Gun id="27" x="0" y="0" delay="1.3" rotation="372" bullet_id="2" speed="300"></Gun>
+		<Gun id="28" x="0" y="0" delay="1.35" rotation="374" bullet_id="2" speed="300"></Gun>
+		<Gun id="29" x="0" y="0" delay="1.4" rotation="376" bullet_id="2" speed="300"></Gun>
+		<Gun id="30" x="0" y="0" delay="1.45" rotation="378" bullet_id="2" speed="300"></Gun>
+		<Gun id="31" x="0" y="0" delay="1.5" rotation="380" bullet_id="2" speed="300"></Gun>
+		<Gun id="32" x="0" y="0" delay="1.55" rotation="382" bullet_id="2" speed="300"></Gun>
+		<Gun id="33" x="0" y="0" delay="1.6" rotation="384" bullet_id="2" speed="300"></Gun>
+		<Gun id="34" x="0" y="0" delay="1.65" rotation="386" bullet_id="2" speed="300"></Gun>
+		<Gun id="35" x="0" y="0" delay="1.7" rotation="388" bullet_id="2" speed="300"></Gun>
+		<Gun id="36" x="0" y="0" delay="1.75" rotation="390" bullet_id="2" speed="300"></Gun>
+		<Gun id="37" x="0" y="0" delay="1.8" rotation="392" bullet_id="2" speed="300"></Gun>
+		<Gun id="38" x="0" y="0" delay="1.85" rotation="394" bullet_id="2" speed="300"></Gun>
+		<Gun id="39" x="0" y="0" delay="1.9" rotation="396" bullet_id="2" speed="300"></Gun>
+		<Gun id="40" x="0" y="0" delay="1.95" rotation="398" bullet_id="2" speed="300"></Gun>
+	</GunGroup>
+	<GunGroup id="46" description="炮管组--三排旋转子弹" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="1" speed="300"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.01" rotation="2" bullet_id="1" speed="300"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.02" rotation="4" bullet_id="1" speed="300"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.03" rotation="6" bullet_id="1" speed="300"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.04" rotation="8" bullet_id="1" speed="300"></Gun>
+		
+		<Gun id="6" x="0" y="0" delay="0.0" rotation="30" bullet_id="1" speed="300"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.01" rotation="32" bullet_id="1" speed="300"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.02" rotation="34" bullet_id="1" speed="300"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.03" rotation="36" bullet_id="1" speed="300"></Gun>
+		<Gun id="10" x="0" y="0" delay="0.04" rotation="38" bullet_id="1" speed="300"></Gun>
+		
+		<Gun id="11" x="0" y="0" delay="0.0" rotation="-30" bullet_id="1" speed="300"></Gun>
+		<Gun id="12" x="0" y="0" delay="0.01" rotation="-32" bullet_id="1" speed="300"></Gun>
+		<Gun id="13" x="0" y="0" delay="0.02" rotation="-34" bullet_id="1" speed="300"></Gun>
+		<Gun id="14" x="0" y="0" delay="0.03" rotation="-36" bullet_id="1" speed="300"></Gun>
+		<Gun id="15" x="0" y="0" delay="0.04" rotation="-38" bullet_id="1" speed="300"></Gun>
+	</GunGroup>
+	<GunGroup id="47" description="炮管组--单排旋转子弹" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="1" speed="500"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.01" rotation="1.5" bullet_id="1" speed="500"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.02" rotation="3" bullet_id="1" speed="500"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.03" rotation="4.5" bullet_id="1" speed="500"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.04" rotation="6" bullet_id="1" speed="500"></Gun>
+		<Gun id="6" x="0" y="0" delay="0.05" rotation="7.5" bullet_id="1" speed="500"></Gun>
+		<Gun id="7" x="0" y="0" delay="0.06" rotation="9" bullet_id="1" speed="500"></Gun>
+		<Gun id="8" x="0" y="0" delay="0.07" rotation="10.5" bullet_id="1" speed="500"></Gun>
+		<Gun id="9" x="0" y="0" delay="0.08" rotation="12" bullet_id="1" speed="500"></Gun>
+	</GunGroup>
+	<GunGroup id="50" description="炮管组--单排旋转子弹" >
+		<Gun id="1" x="0" y="0" delay="0.0" rotation="0" bullet_id="1" speed="500"></Gun>
+		<Gun id="2" x="0" y="0" delay="0.01" rotation="2" bullet_id="1" speed="500"></Gun>
+		<Gun id="3" x="0" y="0" delay="0.02" rotation="4" bullet_id="1" speed="500"></Gun>
+		<Gun id="4" x="0" y="0" delay="0.03" rotation="6" bullet_id="1" speed="500"></Gun>
+		<Gun id="5" x="0" y="0" delay="0.04" rotation="8" bullet_id="1" speed="500"></Gun>
+	</GunGroup>
+
+	<GunGroup id="63" description="回旋子弹-5发" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="5" speed="0" trail_group_id="12" trail_group_angle="-20"></Gun>
+		<Gun id="2" x="0" y="0"  delay="0.0" rotation="0" bullet_id="5" speed="0" trail_group_id="12" trail_group_angle="-10"></Gun>
+		<Gun id="3" x="0" y="0"  delay="0.0" rotation="0" bullet_id="5" speed="0" trail_group_id="12" trail_group_angle="0"></Gun>
+		<Gun id="4" x="0" y="0"  delay="0.0" rotation="0" bullet_id="5" speed="0" trail_group_id="12" trail_group_angle="10"></Gun>
+		<Gun id="5" x="0" y="0"  delay="0.0" rotation="0" bullet_id="5" speed="0" trail_group_id="12" trail_group_angle="20"></Gun>	
+	</GunGroup>
+
+	<GunGroup id="67" description="回旋子弹-4发" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="5" speed="0" trail_group_id="12" trail_group_angle="0">
+		</Gun>
+		<Gun id="2" x="0" y="0"  delay="0.1" rotation="0" bullet_id="5" speed="0" trail_group_id="12" trail_group_angle="0">
+		</Gun>	
+		<Gun id="3" x="0" y="0"  delay="0.2" rotation="0" bullet_id="5" speed="0" trail_group_id="12" trail_group_angle="0">
+		</Gun>
+		<Gun id="4" x="0" y="0"  delay="0.3" rotation="0" bullet_id="5" speed="0" trail_group_id="12" trail_group_angle="0">
+		</Gun>
+	</GunGroup>
+	<GunGroup id="68" description="回旋子弹-9发" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="5" speed="0" trail_group_id="12" trail_group_angle="-20"></Gun>
+		<Gun id="2" x="0" y="0"  delay="0.0" rotation="0" bullet_id="5" speed="0" trail_group_id="12" trail_group_angle="-10"></Gun>
+		<Gun id="3" x="0" y="0"  delay="0.0" rotation="0" bullet_id="5" speed="0" trail_group_id="12" trail_group_angle="0"></Gun>
+		<Gun id="4" x="0" y="0"  delay="0.0" rotation="0" bullet_id="5" speed="0" trail_group_id="12" trail_group_angle="10"></Gun>
+		<Gun id="5" x="0" y="0"  delay="0.0" rotation="0" bullet_id="5" speed="0" trail_group_id="12" trail_group_angle="20"></Gun>	
+		<Gun id="6" x="0" y="0"  delay="0.0" rotation="0" bullet_id="5" speed="0" trail_group_id="12" trail_group_angle="30"></Gun>	
+		<Gun id="7" x="0" y="0"  delay="0.0" rotation="0" bullet_id="5" speed="0" trail_group_id="12" trail_group_angle="-30"></Gun>	
+		<Gun id="8" x="0" y="0"  delay="0.0" rotation="0" bullet_id="5" speed="0" trail_group_id="12" trail_group_angle="40"></Gun>	
+		<Gun id="9" x="0" y="0"  delay="0.0" rotation="0" bullet_id="5" speed="0" trail_group_id="12" trail_group_angle="-40"></Gun>	
+	</GunGroup>
+	<GunGroup id="69" description="回旋子弹-2发" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="5" speed="0" trail_group_id="12" trail_group_angle="0">
+		</Gun>
+		<Gun id="2" x="0" y="0"  delay="0.1" rotation="0" bullet_id="5" speed="0" trail_group_id="12" trail_group_angle="0">
+		</Gun>	
+	</GunGroup>
+	<GunGroup id="70" description="回旋子弹-3发" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="5" speed="0" trail_group_id="12" trail_group_angle="0">
+		</Gun>
+		<Gun id="2" x="0" y="0"  delay="0.1" rotation="0" bullet_id="5" speed="0" trail_group_id="12" trail_group_angle="0">
+		</Gun>	
+		<Gun id="3" x="0" y="0"  delay="0.2" rotation="0" bullet_id="5" speed="0" trail_group_id="12" trail_group_angle="0">
+		</Gun>
+	</GunGroup>
+
+	<!--  主机子弹  -->
+	<GunGroup id="101" description="主机--主炮1--1阶段--0.6s循环" >
+		<Gun id="1" x="0" y="-15"  delay="0.0" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="2" x="0" y="15"  delay="0.0" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="3" x="0" y="0"  delay="0.2" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="4" x="0" y="0"  delay="0.2" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="5" x="0" y="-15"  delay="0.4" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="6" x="0" y="15"  delay="0.4" rotation="0" bullet_id="13" speed="1000"></Gun>
+	</GunGroup>
+	<GunGroup id="102" description="主机--主炮1--2阶段--1.4s循环" >
+		<Gun id="1" x="0" y="45"  delay="0.0" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="2" x="0" y="-45"  delay="0.0" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="3" x="0" y="35.5"  delay="0.14" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="4" x="0" y="-35.5"  delay="0.14" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="5" x="0" y="26"  delay="0.28" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="6" x="0" y="-26"  delay="0.28" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="7" x="0" y="16.5"  delay="0.42" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="8" x="0" y="-16.5"  delay="0.42" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="9" x="0" y="7"  delay="0.56" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="10" x="0" y="-7"  delay="0.56" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="11" x="0" y="7"  delay="0.7" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="12" x="0" y="-7"  delay="0.7" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="13" x="0" y="16.5"  delay="0.84" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="14" x="0" y="-16.5"  delay="0.84" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="15" x="0" y="26"  delay="0.98" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="16" x="0" y="-26"  delay="0.98" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="17" x="0" y="35.5"  delay="1.12" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="18" x="0" y="-35.5"  delay="1.12" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="19" x="0" y="45"  delay="1.24" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="20" x="0" y="-45"  delay="1.24" rotation="0" bullet_id="13" speed="1000"></Gun>
+		
+		<Gun id="21" x="0" y="-15"  delay="0.0" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="22" x="0" y="15"  delay="0.0" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="23" x="0" y="0"  delay="0.14" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="24" x="0" y="0"  delay="0.14" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="25" x="0" y="-15"  delay="0.28" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="26" x="0" y="15"  delay="0.28" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="27" x="0" y="-15"  delay="0.42" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="28" x="0" y="15"  delay="0.42" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="29" x="0" y="0"  delay="0.56" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="30" x="0" y="0"  delay="0.56" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="31" x="0" y="-15"  delay="0.7" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="32" x="0" y="15"  delay="0.7" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="33" x="0" y="-15"  delay="0.84" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="34" x="0" y="15"  delay="0.84" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="35" x="0" y="0"  delay="0.98" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="36" x="0" y="0"  delay="0.98" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="37" x="0" y="-15"  delay="1.12" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="38" x="0" y="15"  delay="1.12" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="39" x="0" y="-15"  delay="1.24" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="40" x="0" y="15"  delay="1.24" rotation="0" bullet_id="13" speed="1000"></Gun>
+	</GunGroup>
+	<GunGroup id="103" description="主机--主炮1--副炮1阶段--0.2s循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="13" speed="1000"></Gun>
+	</GunGroup>
+	<GunGroup id="104" description="主机--主炮1--副炮2阶段--0.2s循环" >
+		<Gun id="1" x="0" y="-10"  delay="0.0" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="2" x="0" y="10"  delay="0.0" rotation="0" bullet_id="13" speed="1000"></Gun>
+	</GunGroup>
+	<GunGroup id="105" description="主机--主炮1--副炮3阶段--0.2s循环" >
+		<Gun id="1" x="0" y="-20"  delay="0.0" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="2" x="0" y="20"  delay="0.0" rotation="0" bullet_id="13" speed="1000"></Gun>
+		<Gun id="3" x="20" y="0"  delay="0.0" rotation="0" bullet_id="13" speed="1000"></Gun>
+	</GunGroup>
+	<GunGroup id="106" description="主机--主炮2--1阶段--0.2s循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="15" bullet_id="15" speed="600"></Gun>
+		<Gun id="2" x="0" y="0"  delay="0.0" rotation="0" bullet_id="15" speed="600"></Gun>
+		<Gun id="3" x="0" y="0"  delay="0.0" rotation="-15" bullet_id="15" speed="600"></Gun>
+	</GunGroup>
+	<GunGroup id="107" description="主机--主炮2--2阶段--0.2s循环" >
+		<Gun id="1" x="0" y="25"  delay="0.0" rotation="15" bullet_id="15" speed="600"></Gun>
+		<Gun id="2" x="0" y="15"  delay="0.0" rotation="15" bullet_id="15" speed="600"></Gun>
+		<Gun id="3" x="0" y="5"  delay="0.0" rotation="0" bullet_id="15" speed="600"></Gun>
+		<Gun id="4" x="0" y="-5"  delay="0.0" rotation="0" bullet_id="15" speed="600"></Gun>
+		<Gun id="5" x="0" y="-15"  delay="0.0" rotation="-15" bullet_id="15" speed="600"></Gun>
+		<Gun id="6" x="0" y="-25"  delay="0.0" rotation="-15" bullet_id="15" speed="600"></Gun>
+	</GunGroup>
+	<GunGroup id="108" description="主机--主炮2--副炮1阶段--0.2循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="15" speed="600"></Gun>
+	</GunGroup>
+	<GunGroup id="109" description="主机--主炮2--副炮2阶段--0.2循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="7.5" bullet_id="15" speed="600"></Gun>
+		<Gun id="2" x="0" y="0"  delay="0.0" rotation="-7.5" bullet_id="15" speed="600"></Gun>
+	</GunGroup>
+	<GunGroup id="110" description="主机--主炮2--副炮3阶段--0.2循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="7.5" bullet_id="15" speed="600"></Gun>
+		<Gun id="2" x="0" y="0"  delay="0.0" rotation="-7.5" bullet_id="15" speed="600"></Gun>
+		<Gun id="3" x="0" y="0"  delay="0.0" rotation="0" bullet_id="15" speed="600"></Gun>
+	</GunGroup>
+	<GunGroup id="111" description="主机--主炮3--1阶段--0.4循环" >
+		<Gun id="1" x="0" y="20"  delay="0.0" rotation="0" bullet_id="19" speed="1400"></Gun>
+		<Gun id="2" x="0" y="-20"  delay="0.0" rotation="0" bullet_id="16" speed="1400"></Gun>
+		<Gun id="3" x="0" y="20"  delay="0.2" rotation="0" bullet_id="19" speed="1400"></Gun>
+		<Gun id="4" x="0" y="-20"  delay="0.2" rotation="0" bullet_id="16" speed="1400"></Gun>
+	</GunGroup>
+	<GunGroup id="112" description="主机--主炮3--2阶段--0.2循环" >
+		<Gun id="1" x="0" y="20"  delay="0.0" rotation="0" bullet_id="19" speed="1400"></Gun>
+		<Gun id="2" x="0" y="-20"  delay="0.0" rotation="0" bullet_id="16" speed="1400"></Gun>
+		<Gun id="3" x="0" y="20"  delay="0.1" rotation="0" bullet_id="19" speed="1400"></Gun>
+		<Gun id="4" x="0" y="-20"  delay="0.1" rotation="0" bullet_id="16" speed="1400"></Gun>
+	</GunGroup>
+	<GunGroup id="113" description="主机--主炮3--右副炮1阶段--0.4循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="16" speed="1000"></Gun>
+	</GunGroup>
+	<GunGroup id="114" description="主机--主炮3--右副炮2阶段--0.3循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="16" speed="1000"></Gun>
+	</GunGroup>
+	<GunGroup id="115" description="主机--主炮3--右副炮3阶段--0.2循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="16" speed="1000"></Gun>
+	</GunGroup>
+	<GunGroup id="116" description="主机--主炮4--1阶段--0.5循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="-6" bullet_id="14" speed="1000"></Gun>
+		<Gun id="2" x="0" y="0"  delay="0.03" rotation="-3" bullet_id="14" speed="1000"></Gun>
+		<Gun id="3" x="0" y="0"  delay="0.06" rotation="0" bullet_id="14" speed="1000"></Gun>
+		<Gun id="4" x="0" y="0"  delay="0.09" rotation="3" bullet_id="14" speed="1000"></Gun>
+		<Gun id="5" x="0" y="0"  delay="0.09" rotation="6" bullet_id="14" speed="1000"></Gun>
+		<Gun id="6" x="0" y="0"  delay="0.12" rotation="9" bullet_id="14" speed="1000"></Gun>
+		<Gun id="7" x="0" y="0"  delay="0.15" rotation="6" bullet_id="14" speed="1000"></Gun>
+		<Gun id="8" x="0" y="0"  delay="0.18" rotation="3" bullet_id="14" speed="1000"></Gun>
+		<Gun id="9" x="0" y="0"  delay="0.21" rotation="0" bullet_id="14" speed="1000"></Gun>
+		<Gun id="10" x="0" y="0"  delay="0.24" rotation="-3" bullet_id="14" speed="1000"></Gun>
+	</GunGroup>
+	<GunGroup id="117" description="主机--主炮4--2阶段--0.25循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="-6" bullet_id="14" speed="1000"></Gun>
+		<Gun id="2" x="0" y="0"  delay="0.03" rotation="-3" bullet_id="14" speed="1000"></Gun>
+		<Gun id="3" x="0" y="0"  delay="0.06" rotation="0" bullet_id="14" speed="1000"></Gun>
+		<Gun id="4" x="0" y="0"  delay="0.09" rotation="3" bullet_id="14" speed="1000"></Gun>
+		<Gun id="5" x="0" y="0"  delay="0.09" rotation="6" bullet_id="14" speed="1000"></Gun>
+		<Gun id="6" x="0" y="0"  delay="0.12" rotation="9" bullet_id="14" speed="1000"></Gun>
+		<Gun id="7" x="0" y="0"  delay="0.15" rotation="6" bullet_id="14" speed="1000"></Gun>
+		<Gun id="8" x="0" y="0"  delay="0.18" rotation="3" bullet_id="14" speed="1000"></Gun>
+		<Gun id="9" x="0" y="0"  delay="0.21" rotation="0" bullet_id="14" speed="1000"></Gun>
+		<Gun id="10" x="0" y="0"  delay="0.24" rotation="-3" bullet_id="14" speed="1000"></Gun>
+	</GunGroup>
+	<GunGroup id="118" description="主机--主炮4--副炮1阶段--0.2循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="-3" bullet_id="14" speed="1000"></Gun>
+		<Gun id="2" x="0" y="0"  delay="0.03" rotation="0" bullet_id="14" speed="1000"></Gun>
+		<Gun id="3" x="0" y="0"  delay="0.0" rotation="3" bullet_id="14" speed="1000"></Gun>
+	</GunGroup>
+	<GunGroup id="119" description="主机--主炮4--副炮2阶段--0.2循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="-3" bullet_id="14" speed="1000"></Gun>
+		<Gun id="2" x="0" y="0"  delay="0.03" rotation="0" bullet_id="14" speed="1000"></Gun>
+		<Gun id="3" x="0" y="0"  delay="0.0" rotation="3" bullet_id="14" speed="1000"></Gun>
+		<Gun id="4" x="0" y="0"  delay="0.06" rotation="0" bullet_id="14" speed="1000"></Gun>
+	</GunGroup>
+	<GunGroup id="120" description="主机--主炮4--副炮3阶段--0.2循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="-6" bullet_id="14" speed="1000"></Gun>
+		<Gun id="2" x="0" y="0"  delay="0.03" rotation="-3" bullet_id="14" speed="1000"></Gun>
+		<Gun id="3" x="0" y="0"  delay="0.06" rotation="0" bullet_id="14" speed="1000"></Gun>
+		<Gun id="4" x="0" y="0"  delay="0.03" rotation="3" bullet_id="14" speed="1000"></Gun>
+		<Gun id="5" x="0" y="0"  delay="0.0" rotation="6" bullet_id="14" speed="1000"></Gun>
+		<Gun id="6" x="0" y="0"  delay="0.09" rotation="0" bullet_id="14" speed="1000"></Gun>
+	</GunGroup>
+	<!-- 主机导弹 -->
+	<GunGroup id="121" description="主机--导弹主炮1--1阶段--1s循环" >
+		<Gun id="1" x="0" y="20"  delay="0.0" rotation="5" bullet_id="20" speed="500" is_trace="1"></Gun>
+		<Gun id="2" x="0" y="5"  delay="0.0" rotation="5" bullet_id="20" speed="500" is_trace="1"></Gun>
+		<Gun id="3" x="0" y="-5"  delay="0.0" rotation="-5" bullet_id="20" speed="500" is_trace="1"></Gun>
+		<Gun id="4" x="0" y="-20"  delay="0.0" rotation="-5" bullet_id="20" speed="500" is_trace="1"></Gun>
+	</GunGroup>
+	<GunGroup id="122" description="主机--导弹主炮1--2阶段--1s循环" >
+		<Gun id="1" x="0" y="20"  delay="0.0" rotation="5" bullet_id="20" speed="500" is_trace="1"></Gun>
+		<Gun id="2" x="0" y="15"  delay="0.0" rotation="5" bullet_id="20" speed="500" is_trace="1"></Gun>
+		<Gun id="3" x="0" y="10"  delay="0.0" rotation="5" bullet_id="20" speed="500" is_trace="1"></Gun>
+		<Gun id="4" x="0" y="5"  delay="0.0" rotation="5" bullet_id="20" speed="500" is_trace="1"></Gun>
+		<Gun id="5" x="0" y="-5"  delay="0.0" rotation="-5" bullet_id="20" speed="500" is_trace="1"></Gun>
+		<Gun id="6" x="0" y="-10"  delay="0.0" rotation="-5" bullet_id="20" speed="500" is_trace="1"></Gun>
+		<Gun id="7" x="0" y="-15"  delay="0.0" rotation="-5" bullet_id="20" speed="500" is_trace="1"></Gun>
+		<Gun id="8" x="0" y="-20"  delay="0.0" rotation="-5" bullet_id="20" speed="500" is_trace="1"></Gun>
+	</GunGroup>
+	<GunGroup id="123" description="主机--导弹主炮1--副炮1阶段--1s循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="20" speed="500" is_trace="1"></Gun>
+	</GunGroup>
+	<GunGroup id="124" description="主机--导弹主炮1--副炮2阶段--1s循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="20" speed="500" is_trace="1"></Gun>
+		<Gun id="2" x="0" y="5"  delay="0.0" rotation="0" bullet_id="20" speed="500" is_trace="1"></Gun>
+	</GunGroup>
+	<GunGroup id="125" description="主机--导弹主炮1--副炮3阶段--1s循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="-5" bullet_id="20" speed="500" is_trace="1"></Gun>
+		<Gun id="2" x="0" y="0"  delay="0.0" rotation="0" bullet_id="20" speed="500" is_trace="1"></Gun>
+		<Gun id="3" x="0" y="0"  delay="0.0" rotation="5" bullet_id="20" speed="500" is_trace="1"></Gun>
+	</GunGroup>
+	<GunGroup id="126" description="主机--导弹主炮2--1阶段--2s循环" >
+		<Gun id="1" x="0" y="10"  delay="0.0" rotation="0" bullet_id="12" speed="600" is_trace="1"></Gun>
+		<Gun id="2" x="0" y="-10"  delay="0.5" rotation="0" bullet_id="12" speed="600" is_trace="1"></Gun>
+	</GunGroup>
+	<GunGroup id="127" description="主机--导弹主炮2--2阶段--1s循环" >
+		<Gun id="1" x="0" y="10"  delay="0.0" rotation="0" bullet_id="12" speed="600" is_trace="1"></Gun>
+		<Gun id="2" x="0" y="-10"  delay="0.5" rotation="0" bullet_id="12" speed="600" is_trace="1"></Gun>
+	</GunGroup>
+	<GunGroup id="128" description="主机--导弹主炮2--副炮1阶段--3s循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="12" speed="600" is_trace="1"></Gun>
+	</GunGroup>
+	<GunGroup id="129" description="主机--导弹主炮2--副炮2阶段--2s循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="12" speed="600" is_trace="1"></Gun>
+	</GunGroup>
+	<GunGroup id="130" description="主机--导弹主炮2--副炮3阶段--1s循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="12" speed="600" is_trace="1"></Gun>
+	</GunGroup>
+	<GunGroup id="131" description="主机--导弹主炮3--1阶段--1s循环" >
+		<Gun id="1" x="0" y="10"  delay="0.0" rotation="0" bullet_id="17" speed="600"></Gun>
+		<Gun id="2" x="0" y="-10"  delay="0.5" rotation="0" bullet_id="17" speed="600"></Gun>
+	</GunGroup>
+	<GunGroup id="132" description="主机--导弹主炮3--1阶段--0.5s循环" >
+		<Gun id="1" x="0" y="10"  delay="0.0" rotation="0" bullet_id="17" speed="600"></Gun>
+		<Gun id="2" x="0" y="-10"  delay="0.5" rotation="0" bullet_id="17" speed="600"></Gun>
+	</GunGroup>
+	<GunGroup id="133" description="主机--导弹主炮3--副炮1阶段--3s循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="17" speed="600"></Gun>
+	</GunGroup>
+	<GunGroup id="134" description="主机--导弹主炮3--副炮2阶段--2s循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="17" speed="600"></Gun>
+	</GunGroup>
+	<GunGroup id="135" description="主机--导弹主炮3--副炮3阶段--1s循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="17" speed="600"></Gun>
+	</GunGroup>
+	<GunGroup id="136" description="主机--导弹主炮4--1阶段--0.4s循环" >
+		<Gun id="1" x="0" y="10"  delay="0.0" rotation="5" bullet_id="18" speed="900" is_trace="1"></Gun>
+		<Gun id="2" x="0" y="-10"  delay="0.0" rotation="-5" bullet_id="18" speed="900" is_trace="1"></Gun>
+	</GunGroup>
+	<GunGroup id="137" description="主机--导弹主炮4--2阶段--0.2s循环" >
+		<Gun id="1" x="0" y="10"  delay="0.0" rotation="5" bullet_id="18" speed="900" is_trace="1"></Gun>
+		<Gun id="2" x="0" y="-10"  delay="0.0" rotation="-5" bullet_id="18" speed="900" is_trace="1"></Gun>
+	</GunGroup>
+	<GunGroup id="138" description="主机--导弹主炮4--副炮1阶段--0.9s循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="18" speed="900" is_trace="1"></Gun>
+	</GunGroup>
+	<GunGroup id="139" description="主机--导弹主炮4--副炮2阶段--0.6s循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="18" speed="900" is_trace="1"></Gun>
+	</GunGroup>
+	<GunGroup id="140" description="主机--导弹主炮4--副炮3阶段--0.3s循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="18" speed="900" is_trace="1"></Gun>
+	</GunGroup>
+	<GunGroup id="141" description="主机--主炮3--右副炮1阶段--0.4循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="19" speed="1000"></Gun>
+	</GunGroup>
+	<GunGroup id="142" description="主机--主炮3--右副炮2阶段--0.3循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="19" speed="1000"></Gun>
+	</GunGroup>
+	<GunGroup id="143" description="主机--主炮3--右副炮3阶段--0.2循环" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="0" bullet_id="19" speed="1000"></Gun>
+	</GunGroup>
+	<!-- 僚机子弹 -->
+
+
+	<!-- 道具子弹 -->
+	<GunGroup id="301" description="道具1" >
+		<Gun id="1" x="0" y="0"  delay="0.0" rotation="-15" bullet_id="22" speed="120"></Gun>
+		<Gun id="2" x="0" y="0"  delay="0.0" rotation="-5" bullet_id="22" speed="120"></Gun>
+		<Gun id="3" x="0" y="0"  delay="0.0" rotation="5" bullet_id="22" speed="120"></Gun>
+		<Gun id="4" x="0" y="0"  delay="0.0" rotation="15" bullet_id="22" speed="120"></Gun>
+	</GunGroup>
+	<GunGroup id="302" description="道具2" >
+		<Gun id="1" x="0" y="60"  delay="0.0" rotation="4" bullet_id="21" speed="700"></Gun>
+		<Gun id="2" x="25" y="45"  delay="0.0" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="3" x="50" y="30"  delay="0.0" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="4" x="75" y="15"  delay="0.0" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="5" x="100" y="0"  delay="0.0" rotation="0" bullet_id="21" speed="700"></Gun>
+		<Gun id="6" x="75" y="-15"  delay="0.0" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="7" x="50" y="-30"  delay="0.0" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="8" x="25" y="-45"  delay="0.0" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="9" x="0" y="-60"  delay="0.0" rotation="-4" bullet_id="21" speed="700"></Gun>
+		<Gun id="10" x="0" y="-75"  delay="0.0" rotation="-4" bullet_id="21" speed="700"></Gun>
+		<Gun id="11" x="0" y="75"  delay="0.0" rotation="4" bullet_id="21" speed="700"></Gun>
+		
+		<Gun id="12" x="0" y="60"  delay="0.1" rotation="4" bullet_id="21" speed="700"></Gun>
+		<Gun id="13" x="25" y="45"  delay="0.1" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="14" x="50" y="30"  delay="0.1" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="15" x="75" y="15"  delay="0.1" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="16" x="100" y="0"  delay="0.1" rotation="0" bullet_id="21" speed="700"></Gun>
+		<Gun id="17" x="75" y="-15"  delay="0.1" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="18" x="50" y="-30"  delay="0.1" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="19" x="25" y="-45"  delay="0.1" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="20" x="0" y="-60"  delay="0.1" rotation="-4" bullet_id="21" speed="700"></Gun>
+		<Gun id="21" x="0" y="-75"  delay="0.1" rotation="-4" bullet_id="21" speed="700"></Gun>
+		<Gun id="22" x="0" y="75"  delay="0.1" rotation="4" bullet_id="21" speed="700"></Gun>
+		
+		<Gun id="23" x="0" y="60"  delay="0.2" rotation="4" bullet_id="21" speed="700"></Gun>
+		<Gun id="24" x="25" y="45"  delay="0.2" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="25" x="50" y="30"  delay="0.2" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="26" x="75" y="15"  delay="0.2" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="27" x="100" y="0"  delay="0.2" rotation="0" bullet_id="21" speed="700"></Gun>
+		<Gun id="28" x="75" y="-15"  delay="0.2" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="29" x="50" y="-30"  delay="0.2" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="30" x="25" y="-45"  delay="0.2" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="31" x="0" y="-60"  delay="0.2" rotation="-4" bullet_id="21" speed="700"></Gun>
+		<Gun id="32" x="0" y="-75"  delay="0.2" rotation="-4" bullet_id="21" speed="700"></Gun>
+		<Gun id="33" x="0" y="75"  delay="0.2" rotation="4" bullet_id="21" speed="700"></Gun>
+		
+		<Gun id="34" x="0" y="60"  delay="0.3" rotation="4" bullet_id="21" speed="700"></Gun>
+		<Gun id="35" x="25" y="45"  delay="0.3" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="36" x="50" y="30"  delay="0.3" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="37" x="75" y="15"  delay="0.3" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="38" x="100" y="0"  delay="0.3" rotation="0" bullet_id="21" speed="700"></Gun>
+		<Gun id="39" x="75" y="-15"  delay="0.3" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="40" x="50" y="-30"  delay="0.3" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="41" x="25" y="-45"  delay="0.3" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="42" x="0" y="-60"  delay="0.3" rotation="-4" bullet_id="21" speed="700"></Gun>
+		<Gun id="43" x="0" y="-75"  delay="0.3" rotation="-4" bullet_id="21" speed="700"></Gun>
+		<Gun id="44" x="0" y="75"  delay="0.3" rotation="4" bullet_id="21" speed="700"></Gun>
+		
+		<Gun id="45" x="0" y="60"  delay="0.4" rotation="4" bullet_id="21" speed="700"></Gun>
+		<Gun id="46" x="25" y="45"  delay="0.4" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="47" x="50" y="30"  delay="0.4" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="48" x="75" y="15"  delay="0.4" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="49" x="100" y="0"  delay="0.4" rotation="0" bullet_id="21" speed="700"></Gun>
+		<Gun id="50" x="75" y="-15"  delay="0.4" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="51" x="50" y="-30"  delay="0.4" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="52" x="25" y="-45"  delay="0.4" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="53" x="0" y="-60"  delay="0.4" rotation="-4" bullet_id="21" speed="700"></Gun>
+		<Gun id="54" x="0" y="-75"  delay="0.4" rotation="-4" bullet_id="21" speed="700"></Gun>
+		<Gun id="55" x="0" y="75"  delay="0.4" rotation="4" bullet_id="21" speed="700"></Gun>
+		
+		<Gun id="56" x="0" y="60"  delay="0.5" rotation="4" bullet_id="21" speed="700"></Gun>
+		<Gun id="57" x="25" y="45"  delay="0.5" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="58" x="50" y="30"  delay="0.5" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="59" x="75" y="15"  delay="0.5" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="60" x="100" y="0"  delay="0.5" rotation="0" bullet_id="21" speed="700"></Gun>
+		<Gun id="61" x="75" y="-15"  delay="0.5" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="62" x="50" y="-30"  delay="0.5" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="63" x="25" y="-45"  delay="0.5" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="64" x="0" y="-60"  delay="0.5" rotation="-4" bullet_id="21" speed="700"></Gun>
+		<Gun id="65" x="0" y="-75"  delay="0.5" rotation="-4" bullet_id="21" speed="700"></Gun>
+		<Gun id="66" x="0" y="75"  delay="0.5" rotation="4" bullet_id="21" speed="700"></Gun>
+		
+		<Gun id="67" x="0" y="60"  delay="0.6" rotation="4" bullet_id="21" speed="700"></Gun>
+		<Gun id="68" x="25" y="45"  delay="0.6" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="69" x="50" y="30"  delay="0.6" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="70" x="75" y="15"  delay="0.6" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="71" x="100" y="0"  delay="0.6" rotation="0" bullet_id="21" speed="700"></Gun>
+		<Gun id="72" x="75" y="-15"  delay="0.6" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="73" x="50" y="-30"  delay="0.6" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="74" x="25" y="-45"  delay="0.6" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="75" x="0" y="-60"  delay="0.6" rotation="-4" bullet_id="21" speed="700"></Gun>
+		<Gun id="76" x="0" y="-75"  delay="0.6" rotation="-4" bullet_id="21" speed="1000"></Gun>
+		<Gun id="77" x="0" y="75"  delay="0.6" rotation="4" bullet_id="21" speed="700"></Gun>
+		
+		<Gun id="78" x="0" y="60"  delay="0.7" rotation="4" bullet_id="21" speed="700"></Gun>
+		<Gun id="79" x="25" y="45"  delay="0.7" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="80" x="50" y="30"  delay="0.7" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="81" x="75" y="15"  delay="0.7" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="82" x="100" y="0"  delay="0.7" rotation="0" bullet_id="21" speed="700"></Gun>
+		<Gun id="83" x="75" y="-15"  delay="0.7" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="84" x="50" y="-30"  delay="0.7" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="85" x="25" y="-45"  delay="0.7" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="86" x="0" y="-60"  delay="0.7" rotation="-4" bullet_id="21" speed="700"></Gun>
+		<Gun id="87" x="0" y="-75"  delay="0.7" rotation="-4" bullet_id="21" speed="700"></Gun>
+		<Gun id="88" x="0" y="75"  delay="0.7" rotation="4" bullet_id="21" speed="700"></Gun>
+		
+		<Gun id="89" x="0" y="60"  delay="0.8" rotation="4" bullet_id="21" speed="700"></Gun>
+		<Gun id="90" x="25" y="45"  delay="0.8" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="91" x="50" y="30"  delay="0.8" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="92" x="75" y="15"  delay="0.8" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="93" x="100" y="0"  delay="0.8" rotation="0" bullet_id="21" speed="700"></Gun>
+		<Gun id="94" x="75" y="-15"  delay="0.8" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="95" x="50" y="-30"  delay="0.8" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="96" x="25" y="-45"  delay="0.8" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="97" x="0" y="-60"  delay="0.8" rotation="-4" bullet_id="21" speed="700"></Gun>
+		<Gun id="98" x="0" y="-75"  delay="0.8" rotation="-4" bullet_id="21" speed="700"></Gun>
+		<Gun id="99" x="0" y="75"  delay="0.8" rotation="4" bullet_id="21" speed="700"></Gun>
+		
+		<Gun id="100" x="0" y="60"  delay="0.9" rotation="4" bullet_id="21" speed="700"></Gun>
+		<Gun id="101" x="25" y="45"  delay="0.9" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="102" x="50" y="30"  delay="0.9" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="103" x="75" y="15"  delay="0.9" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="104" x="100" y="0"  delay="0.9" rotation="0" bullet_id="21" speed="700"></Gun>
+		<Gun id="105" x="75" y="-15"  delay="0.9" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="106" x="50" y="-30"  delay="0.9" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="107" x="25" y="-45"  delay="0.9" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="108" x="0" y="-60"  delay="0.9" rotation="-4" bullet_id="21" speed="700"></Gun>
+		<Gun id="109" x="0" y="-75"  delay="0.9" rotation="-4" bullet_id="21" speed="700"></Gun>
+		<Gun id="110" x="0" y="75"  delay="0.9" rotation="4" bullet_id="21" speed="700"></Gun>
+		
+		<Gun id="111" x="50" y="30"  delay="1.0" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="112" x="75" y="15"  delay="1.0" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="113" x="100" y="0"  delay="1.0" rotation="0" bullet_id="21" speed="700"></Gun>
+		<Gun id="114" x="75" y="-15"  delay="1.0" rotation="-2" bullet_id="21" speed="700"></Gun>
+		<Gun id="115" x="50" y="-30"  delay="1.0" rotation="-2" bullet_id="21" speed="700"></Gun>
+		
+		<Gun id="116" x="75" y="15"  delay="1.1" rotation="2" bullet_id="21" speed="700"></Gun>
+		<Gun id="117" x="100" y="0"  delay="1.1" rotation="0" bullet_id="21" speed="700"></Gun>
+		<Gun id="118" x="75" y="-15"  delay="1.1" rotation="-2" bullet_id="21" speed="700"></Gun>
+	</GunGroup>
+	<GunGroup id="303" description="道具3----0.3s重复15次" >
+		<Gun id="1" x="0" y="20"  delay="0.0" rotation="0" bullet_id="23" speed="1200"></Gun>
+		<Gun id="2" x="30" y="12"  delay="0.0" rotation="0" bullet_id="23" speed="1200"></Gun>
+		<Gun id="3" x="60" y="4"  delay="0.0" rotation="0" bullet_id="23" speed="1200"></Gun>
+		<Gun id="4" x="60" y="-4"  delay="0.0" rotation="0" bullet_id="23" speed="1200"></Gun>
+		<Gun id="5" x="30" y="-12"  delay="0.0" rotation="0" bullet_id="23" speed="1200"></Gun>
+		<Gun id="6" x="0" y="-20"  delay="0.0" rotation="0" bullet_id="23" speed="1200"></Gun>
+	</GunGroup>
+	<GunGroup id="304" description="道具4----0.5s重复3次" >
+		<Gun id="1" x="0" y="30"  delay="0.0" rotation="40" bullet_id="11" speed="1000" is_trace="1"></Gun>
+		<Gun id="2" x="0" y="25"  delay="0.0" rotation="30" bullet_id="11" speed="1000" is_trace="1"></Gun>
+		<Gun id="3" x="0" y="20"  delay="0.0" rotation="20" bullet_id="11" speed="1000" is_trace="1"></Gun>
+		<Gun id="4" x="0" y="15"  delay="0.0" rotation="10" bullet_id="11" speed="1000" is_trace="1"></Gun>
+		<Gun id="5" x="0" y="10"  delay="0.0" rotation="0" bullet_id="11" speed="1000" is_trace="1"></Gun>
+		<Gun id="6" x="0" y="-10"  delay="0.0" rotation="0" bullet_id="11" speed="1000" is_trace="1"></Gun>
+		<Gun id="7" x="0" y="-15"  delay="0.0" rotation="-10" bullet_id="11" speed="1000" is_trace="1"></Gun>
+		<Gun id="8" x="0" y="-20"  delay="0.0" rotation="-20" bullet_id="11" speed="1000" is_trace="1"></Gun>
+		<Gun id="9" x="0" y="-25"  delay="0.0" rotation="-30" bullet_id="11" speed="1000" is_trace="1"></Gun>
+		<Gun id="10" x="0" y="-30"  delay="0.0" rotation="-40" bullet_id="11" speed="1000" is_trace="1"></Gun>
+	</GunGroup>
+
+
+	<!-- 主角激光 -->
+	<GunGroup id="1001" description="主机激光 1级" >
+		<Gun id="1" bullet_id="1001" is_laser="1" update_frequency="4"
+			charge_duration="0"
+			show_effect="show_small_1" show_x="-38" show_y="-3" 
+			hit_effect="game/particles/particle_laser_hit_1.plist" />
+	</GunGroup>
+	<GunGroup id="1002" description="主机激光 2级" >
+		<Gun id="1" bullet_id="1002" is_laser="1" update_frequency="4"
+			charge_duration="0"
+			show_effect="show_small_2" show_x="-38" show_y="-3" 
+			hit_effect="game/particles/particle_laser_hit_1.plist" />
+	</GunGroup>
+	<GunGroup id="1003" description="主机激光 3级" >
+		<Gun id="1" bullet_id="1003" is_laser="1" update_frequency="4"
+			charge_duration="0"
+			show_effect="show_small_3" show_x="-38" show_y="-3" 
+			hit_effect="game/particles/particle_laser_hit_1.plist" />
+	</GunGroup>
+	<GunGroup id="1004" description="主机激光 4级" >
+		<Gun id="1" bullet_id="1004" is_laser="1" update_frequency="4"
+			charge_duration="0"
+			show_effect="show_small_4" show_x="-38" show_y="-3" 
+			hit_effect="game/particles/particle_laser_hit_1.plist" />
+	</GunGroup>
+	<GunGroup id="1005" description="主机激光 5级" >
+		<Gun id="1" bullet_id="1005" is_laser="1" update_frequency="4"
+			charge_duration="0"
+			show_effect="show_small_5" show_x="-38" show_y="-3" 
+			hit_effect="game/particles/particle_laser_hit_1.plist" />
+	</GunGroup>
+	
+	
+	<GunGroup id="1011" description="主机激光 6级" >
+		<Gun id="1" bullet_id="1011" is_laser="1" update_frequency="4"
+			charge_duration="0"
+			show_effect="show_mid_1" show_x="-38" show_y="-3" 
+			hit_effect="game/particles/particle_laser_hit_1.plist" />
+	</GunGroup>
+	<GunGroup id="1012" description="主机激光 7级" >
+		<Gun id="1" bullet_id="1012" is_laser="1" update_frequency="4"
+			charge_duration="0"
+			show_effect="show_mid_2" show_x="-38" show_y="-3" 
+			hit_effect="game/particles/particle_laser_hit_1.plist" />
+	</GunGroup>
+	<GunGroup id="1013" description="主机激光 8级" >
+		<Gun id="1" bullet_id="1013" is_laser="1" update_frequency="4"
+			charge_duration="0"
+			show_effect="show_mid_3" show_x="-38" show_y="-3" 
+			hit_effect="game/particles/particle_laser_hit_1.plist" />
+	</GunGroup>
+	<GunGroup id="1014" description="主机激光 9级" >
+		<Gun id="1" bullet_id="1014" is_laser="1" update_frequency="4"
+			charge_duration="0"
+			show_effect="show_mid_4" show_x="-38" show_y="-3" 
+			hit_effect="game/particles/particle_laser_hit_1.plist" />
+	</GunGroup>
+	<GunGroup id="1015" description="主机激光 10级" >
+		<Gun id="1" bullet_id="1015" is_laser="1" update_frequency="4"
+			charge_duration="0"
+			show_effect="show_mid_5" show_x="-38" show_y="-3" 
+			hit_effect="game/particles/particle_laser_hit_1.plist" />
+	</GunGroup>
+
+	<GunGroup id="1021" description="主机激光 11级" >
+		<Gun id="1" bullet_id="1021" is_laser="1" update_frequency="4"
+			charge_duration="0"
+			show_effect="show_big_1" show_x="-38" show_y="-3" 
+			hit_effect="game/particles/particle_laser_hit_1.plist" />
+	</GunGroup>
+	<GunGroup id="1022" description="主机激光 12级" >
+		<Gun id="1" bullet_id="1022" is_laser="1" update_frequency="4"
+			charge_duration="0"
+			show_effect="show_big_2" show_x="-38" show_y="-3" 
+			hit_effect="game/particles/particle_laser_hit_1.plist" />
+	</GunGroup>
+	<GunGroup id="1023" description="主机激光 13级" >
+		<Gun id="1" bullet_id="1023" is_laser="1" update_frequency="4"
+			charge_duration="0"
+			show_effect="show_big_3" show_x="-38" show_y="-3" 
+			hit_effect="game/particles/particle_laser_hit_1.plist" />
+	</GunGroup>
+	<GunGroup id="1024" description="主机激光 14级" >
+		<Gun id="1" bullet_id="1024" is_laser="1" update_frequency="4"
+			charge_duration="0"
+			show_effect="show_big_4" show_x="-38" show_y="-3" 
+			hit_effect="game/particles/particle_laser_hit_1.plist" />
+	</GunGroup>
+	<GunGroup id="1025" description="主机激光 15级" >
+		<Gun id="1" bullet_id="1025" is_laser="1" update_frequency="4"
+			charge_duration="0"
+			show_effect="show_big_5" show_x="-38" show_y="-3" 
+			hit_effect="game/particles/particle_laser_hit_1.plist" />
+	</GunGroup>
+	
+	
+	<!-- 僚机激光 -->
+	<GunGroup id="1101" description="敌机激光 带扫射" >
+		<Gun id="1" bullet_id="1001" is_laser="1" update_frequency="4"
+			charge_duration="0.7" show_duration="3" hide_duration="0.7"
+            charge_effect="charge_small" charge_x="-38" charge_y="-3" 
+			show_effect="show_small_1" show_x="-38" show_y="-3"
+			hit_effect="game/particles/particle_laser_hit_1.plist" />
+	</GunGroup>
+	<!-- 敌机激光 -->
+	<GunGroup id="1201" description="敌机激光 带扫射" >
+		<Gun id="1" bullet_id="1025" is_laser="1" update_frequency="4"
+			charge_duration="1" show_duration="2" hide_duration="0.5"
+            rotation="-20" rotation_offset="40" rotation_inverse="1" rotation_inverse_times="2"
+            charge_effect="charge_big" charge_x="-38" charge_y="-3" />
+	</GunGroup>
+	
+	<GunGroup id="1202" description="敌机激光 带扫射" >
+		<Gun id="1" bullet_id="1025" is_laser="1" update_frequency="4"
+			charge_duration="2" show_duration="0.8" hide_duration="9.2"
+			show_effect="show_big_5" show_x="-38" show_y="-3"
+            charge_effect="charge_big" charge_x="-38" charge_y="-3" />
+	</GunGroup>
+	<GunGroup id="1203" description="敌机激光 带扫射" >
+		<Gun id="1" bullet_id="1025" is_laser="1" update_frequency="4"
+			charge_duration="2" show_duration="1.5" hide_duration="6.1"
+			show_effect="show_big_5" show_x="-38" show_y="-3"
+            charge_effect="charge_big" charge_x="-38" charge_y="-3" />
+	</GunGroup>
+	<GunGroup id="1204" description="敌机激光 带扫射" >
+		<Gun id="1" bullet_id="1025" is_laser="1" update_frequency="4"
+			charge_duration="2" show_duration="1.0" hide_duration="2.0"
+			show_effect="show_big_5" show_x="-38" show_y="-3"
+            charge_effect="charge_big" charge_x="-38" charge_y="-3" />
+	</GunGroup>
+	<GunGroup id="1205" description="敌机激光 带扫射" >
+		<Gun id="1" bullet_id="1025" is_laser="1" update_frequency="4"
+			charge_duration="2" show_duration="1.0" hide_duration="7.0"
+			show_effect="show_big_5" show_x="-38" show_y="-3"
+            charge_effect="charge_big" charge_x="-38" charge_y="-3" />
+	</GunGroup>
+	<GunGroup id="1206" description="敌机激光 带扫射" >
+		<Gun id="1" bullet_id="1025" is_laser="1" update_frequency="4"
+			charge_duration="0.1" show_duration="100" hide_duration="0"
+			show_effect="show_big_5" show_x="-38" show_y="-3"
+            charge_effect="charge_big" charge_x="-38" charge_y="-3" />
+	</GunGroup>
+	
+
+
+</root>

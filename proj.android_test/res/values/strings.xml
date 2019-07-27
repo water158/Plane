@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ambition</string>
+    <string name="aipay_signal_yuan">￥</string>
+    <string name="aipay_price">应付%1$s钻</string>
+    <string name="aipay_v_balance">百钻余额 %1$s钻</string>
+    <string name="aipay_valid_code">验证码</string>
+    <string name="aipay_valid_code_sent">已向 %1$s 发送短信验证码</string>
+    <string name="aipay_pay_fail">支付失败，请重试。</string>
+    <string name="aipay_not_enough">百钻余额不足，请选择其它支付方式</string>
+    <string name="aipay_checking_conf">更新信息中</string>
+    <string name="aipay_select_other">选择其它支付方式</string>
+    <string name="aipay_comfirm_submit">确认支付</string>
+    <string name="aipay_error_exit">支付失败，请选择其它支付方式。</string>
+    <string name="aipay_predict_value">预计到账%1$s钻</string>
+    <string name="aipay_predict_add">"，其中%1$s元为手续费"</string>
+    <string name="aipay_time_out">支付超时，请重试。</string>
+    <string name="aipay_select_value">请选择充值面额</string>
+    <string name="aipay_sms_value">面额</string>
+    <string name="aipay_sms_vbi">预计充值%1$s钻</string>
+    <string name="aipay_sms_tip">确认支付后，系统将自动发短信，扣除相应话费并完成支付</string>
+    <string name="aipay_no_card_pay_tip1">请选择运营商和面额</string>
+    <string name="aipay_operator">卡种</string>
+    <string name="aipay_operator_value">面额</string>
+    <string name="aipay_operator_lable">选择卡种</string>
+    <string name="aipay_operator_value_lable">选择面额</string>
+    <string name="aipay_card_no">卡号</string>
+    <string name="aipay_password">密码</string>
+    <string name="aipay_more_pay_type">更多支付方式</string>
+    <string name="aipay_v_store_type">选择百钻充值方式</string>
+    <string name="aipay_v_about">关于百钻</string>
+    <string name="aipay_v_tips">提示：充值到账后，可用百钻支付订单</string>
+    <string name="aipay_v_store_suc">充值成功</string>
+    <string name="aipay_game_card_store_tips">温馨提示：请确保所选面额与卡实际面额一致，否则将可能导致充值失败、意外销卡或资金损失</string>
+    <string name="aipay_game_card_store_tips1">温馨提示：请确保所选面额与卡实际面额一致，否则将可能导致充值失败、意外销卡或资金损失。\n如您选择使用的卡面额大于本次订单金额，卡内剩余金额将按照比例充值进您的百钻余额，用于下次订单支付。</string>
+    <string name="aipay_phone_card_store_tips">温馨提示：请确保所选面额与卡实际面额一致，否则将可能导致充值失败、意外销卡或资金损失。多余的卡内金额将充值进您的百钻帐号。</string>
+    <string name="getting_sms_info">获取配置中</string>
+    <string name="aipay_op_yidong">移动卡</string>
+    <string name="aipay_op_liantong">联通卡</string>
+    <string name="aipay_op_dianxin">电信卡</string>
+    <string name="ipay_logining">登录中</string>
+    <string name="ipay_switch_account">切换帐号</string>
+    <string name="ipay_login_lable">用户%1$s</string>
+    <string name="aipay_v_balance_tip">剩余%1$s钻</string>
+    <string name="aipay_balance_yuan">%1$s元</string>
+    <string name="aipay_pay_discount">%1$s折</string>
+    <string name="aipay_pay_value_error">请选择或填写充值金额</string>
+    <string name="aipay_card_not_empty">卡号不能为空</string>
+    <string name="aipay_pwd_not_empty">密码不能为空</string>
+    <string name="aipay_value_not_empty">面额不能为空</string>
+    <string name="aipay_value_invalid">充值面额无效</string>
+    <string name="aipay_submit_cancle">取消</string>
+    <string name="aipay_subimt_sure">确定</string>
+    <string name="aipay_subimt_pay">确认支付</string>
+    <string name="aipay_exit">确定放弃支付？</string>
+    <string name="aipay_shop_name">商户：</string>
+    <string name="aipay_app_name">应用：</string>
+    <string name="aipay_goods_name">商品：</string>
+    <string name="aipay_help_phone">客服热线：</string>
+    <string name="aipay_select_paytype">选择支付方式</string>
+    <string name="aipay_notice">公告：</string>
+    <string name="aipay_help_phone_no">400&#8211;8988&#8211;855</string>
+    <string name="aipay_tip">提示</string>
+    <string name="aipay_v_balance_laking">百钻余额不足，请前往充值</string>
+    <string name="aipay_v_balance_tips">百钻余额 %1$s钻，应付%2$s钻</string>
+    <string name="aipay_v_bfb_laking">百度钱包余额不足</string>
+    <string name="aipay_go_stote">去充值</string>
+    <string name="aipay_cardno_hint">充值卡卡号</string>
+    <string name="aipay_cardpass_hint">充值卡密码</string>
+    <string name="aipay_card_value_hint">充值卡面额</string>
+    <string name="aipay_v_store">百钻充值</string>
+    <string name="aipay_pay_pass_hint">百度钱包支付密码</string>
+    <string name="aipay_enter_app">启动程序</string>
+    <string name="aipay_select_charge_value">请选择充值金额</string>
+    <string name="aipay_other_value">其它金额：</string>
+    <string name="aipay_charge_value">充值金额</string>
+    <string name="aipay_charge_v">充值百钻</string>
+    <string name="aipay_click_reget">点击重新获取</string>
+    <string name="aipay_dollor">￥</string>
+    <string name="aipay_change_pwd">找回密码</string>
+    <string name="aipay_user_account_name">帐号：</string>
+    <string name="aipay_logout">注销</string>
+    <string name="aipay_logout_suc">注销成功</string>
+    <string name="aipay_login_tip">您还未登录，请先登录</string>
+    <string name="aipay_connect_paycenter">安全检测中</string>
+    <string name="aipay_phone_charge_card">手机充值卡信息</string>
+    <string name="aipay_game_charge_card">游戏点卡信息</string>
+    <string name="aipay_user_center">个人中心</string>
+    <string name="aipay_confirm_logout">您确定要注销吗？</string>
+    <string name="aipay_version">版本号: %1$s</string>
+    <string name="aipay_noard_yuan">%1$s元</string>
+    <string name="aipay_card_lable">卡</string>
+    	<string name="aipay_more">更多</string>
+	<string name="aipay_dialog_loading">加载中</string>
+	<string name="aipay_unbind_card">解绑</string>
+	<string name="aipay_no_card">暂无绑定银行卡</string>
+	<string name="aipay_re_get">获取失败，请点击重试</string>
+	<string name="aipay_load_done">加载完毕</string>
+	<string name="no_trans_record">暂无交易记录</string>
+    <string name="more_page_tab_1">交易记录</string>
+    <string name="more_page_tab_2">银行卡管理</string>
+    <string name="more_page_tab_3">帮助中心</string>
+    <string name="contact_way">联系方式:</string>
+    <string name="input_cantact_way">请输入QQ或手机号</string>
+    <string name="input_question_hint">描述您遇到的问题</string>
+    <string name="question_des">问题描述:</string>
+    <string name="submit">提交</string>
+    <string name="service_qq">客服QQ：%1$s</string>
+    <string name="service_mail">客服热线：%1$s</string>
+    <string name="service_time">客服服务时间：%1$s</string>
+    <string name="pay_net_error">网络错误,请检查网络并重试。</string>
+    <string name="feed_back_input_des">请输入问题描述</string>
+    <string name="feed_back_input_contact">请输入联系方式</string>
+    <string name="feed_back_submiting">提交中,请稍候</string>
+    <string name="feed_back_finished">感谢您的反馈,客服人员将及时与您联系</string>
+    <string name="tab1_header_title1">全部记录</string>
+    <string name="tab1_header_title2">已成功</string>
+    <string name="tab1_header_title3">未成功</string>
+    <string name="tab2_header_title1">提问题</string>
+    <string name="tab2_header_title2">我的建议</string>
+    <string name="tab2_header_title3">常见问题</string>
+    <string name="tab1_header_title4">消息</string>
+    <string name="text_no_trade">暂无交易记录</string>
+    <string name="text_no_feedback">暂无意见反馈记录</string>
+    <string name="text_no_gmmsg">暂无公告消息</string>
+    <string name="trade_order_name">商品名称:</string>
+    <string name="trade_order_money">金&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;额:</string>
+    <string name="trade_order_status">状&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;态:</string>
+    <string name="trade_order_num">订&#160;&#160;单&#160;&#160;号:</string>
+    <string name="trade_order_type">支付类型:</string>
+    <string name="trade_order_time">支付时间:</string>
+    <string name="trade_loading">加载中...</string>
+    <string name="reply_null">等待客服回复</string>
+    <string name="normal_question">一、支付：
+\n\nQ1：支付方式包括哪些？
+\nA1: 包括百钻、信用卡快捷、借记卡快捷、手机充值卡、银联、支付宝等支付方式，具体以游戏收银台界面显示为准。
+\n\nQ2：充值百钻的方式包括哪些？
+\nA2：包括百度钱包余额、信用卡快捷、借记卡快捷、手机充值卡、游戏点卡、短信话费、银联、支付宝等支付方式，具体以游戏收银台界面显示为准。
+\n\nQ3：我充值了百钻，可以在不同的游戏购买道具吗？
+\nA3：是的，只要使用百度钱包的游戏，都可以使用百钻进行支付，百钻是百度钱包通用的虚拟币。
+\n\nQ4：银行卡没有开通网银，是否可以支付？
+\nA4：您可以选择使用快捷支付进行支付。同时，也可以使用其他支付方式进行支付。（包括手机充值卡、游戏点卡、短信话费）
+\n\nQ5：短信话费是有手续费？
+\nA5：有手续费，按所选面额的50%收取。
+\n\nQ6：是否支持组合支付？
+\nA6：暂时不支持组合支付。
+\n\nQ7：充值卡是否可以分次充值？
+\nA7：需按照充值卡面额正确选择充值面值。如果选择面额错误，可能会导致您的金额损失，请务必选择正确的面额。
+\n\n二、查询：
+\n\nQ8：银行卡支付，怎么查询网银扣费订单号?
+\nA8：请登录您的网上银行，在个人网银交易明细里查询相关的银行扣费订单。
+\n\nQ9：如何查询帐号的充值记录？
+\nA9：您可以登录百度账号查询您的交易明细。
+\n\n三、到账：
+\n\nQ10：支付成功后多久才能收到道具？
+\nA10：支付成功后，购买的商品会立即增加到您的账号内。但有时可能会因为网络传输情况而稍有延迟，建议您耐心等待并刷新页面。
+\n\nQ11：支付成功，道具未到帐？
+\nA11：请您重新登录或刷新页面，查看相应的道具是否到帐，若仍未到帐，请提供订单相关信息联系客服查询。
+\n\n四、其他：
+\n\nQ12：充值是否有优惠？
+\nA12：我们会不定期与游戏合作，开展游戏充值优惠活动，活动期间会有相关公告说明的，欢迎您保持关注。\n\n</string>
+
+</resources>

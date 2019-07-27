@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:id="@+id/dk_layout_suspension_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/dk_suspension_window_bg_right"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/dk_iv_prefecture"
+            android:layout_width="28dp"
+            android:layout_height="28dip"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/dk_suspension_prefecture_selector" />
+
+        <ImageView
+            android:id="@+id/dk_iv_message"
+            android:layout_width="28dp"
+            android:layout_height="28dip"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/dk_suspension_msg_selector" />
+
+        <ImageView
+            android:id="@+id/dk_iv_trade_account"
+            android:layout_width="28dp"
+            android:layout_height="28dip"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:focusable="false"
+            android:src="@drawable/dk_suspension_trade_selector" />
+
+        <ImageView
+            android:id="@+id/dk_iv_zhuanqu"
+            android:layout_width="28dp"
+            android:layout_height="28dip"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:focusable="false"
+            android:src="@drawable/dk_suspension_zhuanqu_selector" />
+
+        <ImageView
+            android:id="@+id/dk_iv_user_account"
+            android:layout_width="28dp"
+            android:layout_height="28dip"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/dk_suspension_user_account_selector" />
+    </LinearLayout>
+
+</RelativeLayout>

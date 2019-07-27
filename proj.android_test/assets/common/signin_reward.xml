@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<SignIn>
+	<Reward id="1">
+		<!-- day是第几天 类型：1代表金币 2代表钻石 3代表装备最低级 品级高逐次加1 count：代表数量 -->
+		<reward day="1" type="1" count="1000" label="第1天：金币1000"></reward>
+		<reward day="2" type="8" count="3" label="第2天：增加道具掉率×3"></reward>
+		<reward day="3" type="1" count="1000" label="第3天：金币1000"></reward>
+		<reward day="4" type="9" count="3" label="第4天：增加血量掉率×3"></reward>
+		<reward day="5" type="1" count="1000" label="第5天：金币1000"></reward>
+		<reward day="6" type="10" count="3" label="第6天：血量增加道具×3"></reward>
+		<reward day="7" type="4" img="1" count="1" label="第7天：绿色装备一件"></reward>
+		<reward day="8" type="1" count="2000" label="第8天：金币2000"></reward>
+		<reward day="9" type="11" count="3" label="第9天：冲刺道具×3"></reward>
+		<reward day="10" type="1" count="2000" label="第10天：金币2000"></reward>
+		<reward day="11" type="12" count="3" label="第11天：复活道具×3"></reward>
+		<reward day="12" type="1" count="2000" label="第12天：金币2000"></reward>
+		<reward day="13" type="13" count="3" label="第13天：三倍金币道具×3"></reward>
+		<reward day="14" type="5" img="1" count="1" label="第14天：蓝色装备一件"></reward>
+		<reward day="15" type="1" count="3000" label="第15天：金币2000"></reward>
+		<reward day="16" type="8" count="3" label="第16天：增加道具掉率×3"></reward>
+		<reward day="17" type="2" count="10" label="第17天：钻石10"></reward>
+		<reward day="18" type="1" count="3000" label="第18天：金币3000"></reward>
+		<reward day="19" type="9" count="3" label="第19天：增加血量掉率×3"></reward>
+		<reward day="20" type="2" count="15" label="第20天：钻石15"></reward>
+		<reward day="21" type="5" img="1" count="1" label="第21天：蓝色装备一件"></reward>
+		<reward day="22" type="1" count="3000" label="第22天：金币3000"></reward>
+		<reward day="23" type="10" count="3" label="第23天：血量增加道具×3"></reward>
+		<reward day="24" type="2" count="20" label="第24天：钻石20"></reward>
+		<reward day="25" type="1" count="3000" label="第25天：金币3000"></reward>
+		<reward day="26" type="11" count="3" label="第26天：冲刺道具×3"></reward>
+		<reward day="27" type="2" count="25" label="第27天：钻石25"></reward>
+		<reward day="28" type="6" img="1" count="1" label="第28天：紫色装备一件"></reward>
+		<reward day="29" type="2" count="30" label="第29天：钻石30"></reward>
+		<reward day="30" type="7" img="1" count="1" label="第30天：橙色装备一件"></reward>
+    </Reward>
+   
+</SignIn>

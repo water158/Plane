@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+    <SkillType id="1" comment="时间之沙" >
+		<Level id="1" prepare_time="2" last_time="3" cd="15" style="主炮技能" description="抬手释放，全体时间减缓，持续一段时间，持续时间3s，冷却时间15s"></Level>
+		<Level id="2" prepare_time="2" last_time="3" cd="20" style="主炮技能" description="抬手释放，全体时间减缓，持续一段时间，持续时间3s，冷却时间20s"></Level>
+		<Level id="3" prepare_time="2" last_time="3" cd="17" style="主炮技能" description="抬手释放，全体时间减缓，持续一段时间，持续时间3s，冷却时间17s"></Level>
+		<Level id="4" prepare_time="2" last_time="3" cd="14" style="主炮技能" description="抬手释放，全体时间减缓，持续一段时间，持续时间3s，冷却时间14s"></Level>
+		<Level id="5" prepare_time="2" last_time="4" cd="14" style="主炮技能" description="抬手释放，全体时间减缓，持续一段时间，持续时间4s，冷却时间14s"></Level>
+	</SkillType>
+	<SkillType id="2" comment="光波炮" >
+		<Level id="1" prepare_time="2.0" attrack_multiple="0.9" cd="16" style="主炮技能" description="抬手释放，蓄力后再次点击，释放强力子弹。蓄力时间2.0s，冷却时间16s"></Level>
+		<Level id="2" prepare_time="3" attrack_multiple="0.6" cd="18" style="主炮技能" description="抬手释放，蓄力后再次点击，释放强力子弹。蓄力时间3s，冷却时间18s"></Level>
+		<Level id="3" prepare_time="2.5" attrack_multiple="0.9" cd="16" style="主炮技能" description="抬手释放，蓄力后再次点击，释放强力子弹。蓄力时间2.5s，冷却时间16s"></Level>
+		<Level id="4" prepare_time="2" attrack_multiple="1.2" cd="16" style="主炮技能" description="抬手释放，蓄力后再次点击，释放强力子弹。蓄力时间2s，冷却时间16s"></Level>
+		<Level id="5" prepare_time="1" attrack_multiple="1.5" cd="16" style="主炮技能" description="抬手释放，蓄力后再次点击，释放强力子弹。蓄力时间1s，冷却时间16s"></Level>
+	</SkillType>
+	<SkillType id="3" comment="聚能炮" auto_release="1">
+		<Level id="1" strengthen_interval="3" cd="8" max_time="2" style="主炮技能" description="抬手释放，三段蓄力，高额伤害，再次点击中断。升级间隔3s，冷却时间8s"></Level>
+		<Level id="2" strengthen_interval="2.5" cd="15" max_time="2" style="主炮技能" description="抬手释放，三段蓄力，高额伤害，再次点击中断。升级间隔2.5s，冷却时间15s"></Level>
+		<Level id="3" strengthen_interval="2" cd="15" max_time="3" style="主炮技能" description="抬手释放，三段蓄力，高额伤害，再次点击中断。升级间隔2s，冷却时间15s"></Level>
+		<Level id="4" strengthen_interval="1.5" cd="15" max_time="4" style="主炮技能" description="抬手释放，三段蓄力，高额伤害，再次点击中断。升级间隔1.5s，冷却时间15s"></Level>
+		<Level id="5" strengthen_interval="1" cd="15" max_time="6" style="主炮技能" description="抬手释放，三段蓄力，高额伤害，再次点击中断。升级间隔1s，冷却时间15s"></Level>
+	</SkillType>
+	<SkillType id="4" comment="影遁" >
+		<Level id="1" prepare_time="2" last_time="2" cd="25" style="主炮技能" description="抬手释放，在原地释放一个虚影吸引火力，屏幕任意位置瞬移。虚影持续时间2s，冷却时间25s"></Level>
+		<Level id="2" prepare_time="2" last_time="2.5" cd="30" style="主炮技能" description="抬手释放，在原地释放一个虚影吸引火力，屏幕任意位置瞬移。虚影持续时间2.5s，冷却时间30s"></Level>
+		<Level id="3" prepare_time="2" last_time="3" cd="25" style="主炮技能" description="抬手释放，在原地释放一个虚影吸引火力，屏幕任意位置瞬移。虚影持续时间3s，冷却时间25s"></Level>
+		<Level id="4" prepare_time="2" last_time="3.5" cd="25" style="主炮技能" description="抬手释放，在原地释放一个虚影吸引火力，屏幕任意位置瞬移。虚影持续时间3.5s，冷却时间25s"></Level>
+		<Level id="5" prepare_time="2" last_time="4" cd="25" style="主炮技能" description="抬手释放，在原地释放一个虚影吸引火力，屏幕任意位置瞬移。虚影持续时间4s，冷却时间25s"></Level>
+	</SkillType>
+	<SkillType id="5" comment="斥力盾" >
+		<Level id="1" prepare_time="2" last_time="3" cd="20" style="主炮技能" description="抬手释放，弹开近身子弹，再次点击中断，持续时间3s，冷却时间20s"></Level>
+		<Level id="2" prepare_time="2" last_time="2.5" cd="20" style="主炮技能" description="抬手释放，弹开近身子弹，再次点击中断，持续时间2.5s，冷却时间20s"></Level>
+		<Level id="3" prepare_time="2" last_time="3" cd="20" style="主炮技能" description="抬手释放，弹开近身子弹，再次点击中断，持续时间3s，冷却时间20s"></Level>
+		<Level id="4" prepare_time="2" last_time="3.5" cd="20" style="主炮技能" description="抬手释放，弹开近身子弹，再次点击中断，持续时间3.5s，冷却时间20s"></Level>
+		<Level id="5" prepare_time="2" last_time="4" cd="20" style="主炮技能" description="抬手释放，弹开近身子弹，再次点击中断，持续时间4s，冷却时间20s"></Level>
+	</SkillType>
+	<SkillType id="6" comment="定位狙击" >
+		<Level id="1" prepare_time="2" last_time="5" cd="15" style="主炮技能" description="抬手释放，所有子弹集中攻击某目标，再次点击中断，持续时间5s，冷却时间15s"></Level>
+		<Level id="2" prepare_time="2" last_time="4" cd="15" style="主炮技能" description="抬手释放，所有子弹集中攻击某目标，再次点击中断，持续时间4s，冷却时间15s"></Level>
+		<Level id="3" prepare_time="2" last_time="5" cd="15" style="主炮技能" description="抬手释放，所有子弹集中攻击某目标，再次点击中断，持续时间5s，冷却时间15s"></Level>
+		<Level id="4" prepare_time="2" last_time="6" cd="15" style="主炮技能" description="抬手释放，所有子弹集中攻击某目标，再次点击中断，持续时间6s，冷却时间15s"></Level>
+		<Level id="5" prepare_time="2" last_time="7" cd="15" style="主炮技能" description="抬手释放，所有子弹集中攻击某目标，再次点击中断，持续时间7s，冷却时间15s"></Level>
+	</SkillType>
+	<SkillType id="7" comment="防御敌弹" >
+		<Level id="1" prepare_time="2" last_time="5" cd="10" style="僚机技能" description="僚机自动帮助主机清除攻击主机的子弹，冷却时间10s"></Level>
+		<Level id="2" prepare_time="2" last_time="5" cd="16" style="僚机技能" description="僚机自动帮助主机清除攻击主机的子弹，冷却时间16s"></Level>
+		<Level id="3" prepare_time="2" last_time="5" cd="14" style="僚机技能" description="僚机自动帮助主机清除攻击主机的子弹，冷却时间14s"></Level>
+		<Level id="4" prepare_time="2" last_time="5" cd="12" style="僚机技能" description="僚机自动帮助主机清除攻击主机的子弹，冷却时间12s"></Level>
+		<Level id="5" prepare_time="2" last_time="5" cd="10" style="僚机技能" description="僚机自动帮助主机清除攻击主机的子弹，冷却时间10s"></Level>
+	</SkillType>
+	<SkillType id="8" comment="道具仓" >
+		<Level id="1" prepare_time="2" carry_num="2" cd="5" style="僚机技能" description="僚机可以帮助主机多储存一个道具，后储存的道具先释放"></Level>
+		<Level id="2" prepare_time="2" carry_num="2" cd="5" style="僚机技能" description="僚机可以帮助主机多储存一个道具，后储存的道具先释放"></Level>
+		<Level id="3" prepare_time="2" carry_num="2" cd="5" style="僚机技能" description="僚机可以帮助主机多储存一个道具，后储存的道具先释放"></Level>
+		<Level id="4" prepare_time="2" carry_num="2" cd="5" style="僚机技能" description="僚机可以帮助主机多储存一个道具，后储存的道具先释放"></Level>
+		<Level id="5" prepare_time="2" carry_num="2" cd="5" style="僚机技能" description="僚机可以帮助主机多储存一个道具，后储存的道具先释放"></Level>
+	</SkillType>
+	<SkillType id="9" comment="血量回复" >
+		<Level id="1" prepare_time="2" percentage="2" cd="20" style="僚机技能" description="僚机每个一段时间会释放血球，回复主机血量，冷却时间20s，回复血量16%"></Level>
+		<Level id="2" prepare_time="2" percentage="2" cd="30" style="僚机技能" description="僚机每个一段时间会释放血球，回复主机血量，冷却时间30s，回复血量16%"></Level>
+		<Level id="3" prepare_time="2" percentage="2" cd="26" style="僚机技能" description="僚机每个一段时间会释放血球，回复主机血量，冷却时间26s，回复血量16%"></Level>
+		<Level id="4" prepare_time="2" percentage="2" cd="23" style="僚机技能" description="僚机每个一段时间会释放血球，回复主机血量，冷却时间23s，回复血量16%"></Level>
+		<Level id="5" prepare_time="2" percentage="2" cd="20" style="僚机技能" description="僚机每个一段时间会释放血球，回复主机血量，冷却时间20s，回复血量16%"></Level>
+	</SkillType>
+</root>

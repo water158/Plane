@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- 装备背包 -->
+<EquipmentInBag version="1.0">
+	<!-- id:位置信息 0是主炮 1是副炮1 2是副炮2 3是僚机 equip_id:装备id -->
+	<EquipItem id="0" equip_id="1"></EquipItem>
+	<EquipItem id="1" equip_id="2"></EquipItem>
+	<EquipItem id="2" equip_id="3"></EquipItem>
+	<EquipItem id="3" equip_id="4"></EquipItem>
+</EquipmentInBag>

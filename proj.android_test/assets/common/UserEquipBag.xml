@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- 装备背包 -->
+<EquipmentInBag version="1.0">
+	<!-- id:装备编号 equip_type:装备类型，1是主炮，2是副炮1，3是副炮2，4是僚机炮 0是背包里的装备 img_id:装备图片的id name:装备名称 attack:攻击 blood:血量 attack_add:攻击加成  blood_add:血量加成 tools_drop_rate:道具掉率 blood_drop_rate:血量掉率 level:当前等级 level_limit:等级上限 quality:品质  skill_id:技能编号 is_using:是否装备在身上 -->
+	<EquipItem id="1" equip_type="1" img_id="0" name="测试飞机1号" attack="30" blood="60" attack_add="0" blood_add="0" tools_drop_rate="0" blood_drop_rate="0" level="1" level_limit="20" quality="1" skill_id="6" is_using="1" ext_att_1="0" ext_att_2="0"></EquipItem>
+	<EquipItem id="2" equip_type="2" img_id="1" name="测试飞机2号" attack="30" blood="60" attack_add="0" blood_add="0" tools_drop_rate="0" blood_drop_rate="0" level="1" level_limit="20" quality="1" skill_id="1" is_using="1" ext_att_1="0" ext_att_2="0"></EquipItem>
+	<EquipItem id="3" equip_type="3" img_id="2" name="测试飞机3号" attack="30" blood="60" attack_add="0" blood_add="0" tools_drop_rate="0" blood_drop_rate="0" level="1" level_limit="20" quality="1" skill_id="2" is_using="1" ext_att_1="0" ext_att_2="0"></EquipItem>
+	<EquipItem id="4" equip_type="4" img_id="9" name="测试飞机4号" attack="30" blood="60" attack_add="0" blood_add="0" tools_drop_rate="0" blood_drop_rate="0" level="1" level_limit="20" quality="1" skill_id="7" is_using="1" ext_att_1="0" ext_att_2="0"></EquipItem>
+</EquipmentInBag>

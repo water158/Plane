@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="aipay_gray">#f2f2f2</color>
+    <color name="aipay_white">#ffffff</color>
+    <color name="aipay_transparent">#00000000</color>
+    <color name="aipay_order_bg">#F3F7FF</color>
+    <color name="aipay_6c">#cccccc</color>
+    <color name="aipay_e4e4e4">#e4e4e4</color>
+    <color name="aipay_text_orange">#ea8b46</color>
+    <color name="aipay_text_black">#333333</color>
+    <color name="aipay_text_gray">#999999</color>
+    <color name="aipay_text_6992d7">#6992d7</color>
+    <color name="aipay_text_555555">#555555</color>
+    <color name="aipay_text_aaaaaa">#aaaaaa</color>
+    <color name="aipay_half_transparent">#80000000</color>
+    <color name="sapi_background_color">#f2f2f2</color>
+    <color name="pay_tips_color">#232323</color>
+    <color name="sapi_btn_text_color">#ffffff</color>
+    <color name="sapi_title_text_color">#2c3329</color>
+    <color name="sapi_edit_text_color">#232323</color>
+    <color name="input_font_color">#A7A7A7</color>
+    <color name="pay_white">#FFFFFF</color>
+    <color name="hint_color">#cccccc</color>
+    <color name="white">#ffffffff</color>
+    <color name="listbg">#FFFFFF</color>
+    <color name="page_header_text">#363533</color>
+    <color name="page_title_select">#fff77a0e</color>
+    <color name="black">#ff333333</color>
+    <color name="Transparent">#00000000</color>
+    <color name="session_text">#655967</color>
+    <color name="feedback_time">#9f9a9a</color>
+
+</resources>

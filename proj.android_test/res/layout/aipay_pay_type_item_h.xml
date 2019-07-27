@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent" 
+    android:layout_height="90dp"
+    android:background="@drawable/aipay_pay_type_item_bg">
+    
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="4dp"
+        android:orientation="vertical">
+
+        <RelativeLayout 
+            android:layout_width="65dp"
+            android:layout_height="58dp"
+            android:layout_marginLeft="4dp"
+            android:layout_gravity="center_horizontal">
+	        <ImageView 
+	            android:id="@+id/img_pay_icon"
+	            android:layout_width="50dp"
+	            android:layout_height="50dp"
+	            android:layout_marginTop="6dp"
+	            android:layout_centerHorizontal="true"/>
+	       	<Button 
+	       	    android:id="@+id/btn_discount"
+			    android:layout_width="wrap_content"
+			    android:layout_height="19dp"
+			    android:background="@drawable/ebpay_discount"
+			    android:paddingLeft="1dp"
+			    android:paddingRight="1dp"
+			    android:textSize="10dp"
+			    android:textColor="#ffffff"
+			    android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+        <TextView 
+            android:id="@+id/tv_pay_type_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textColor="@color/aipay_text_black"
+            android:textSize="12sp"/>
+    </LinearLayout>
+    
+    <View 
+        android:id="@+id/v_v_line"
+	    android:layout_width="2.5dp"
+	    android:layout_height="fill_parent"
+	    android:layout_alignParentLeft="true"
+	    android:background="@drawable/aipay_v_line"/>
+    
+	<TextView 
+		android:id="@+id/tv_balance"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_centerHorizontal="true"
+		android:layout_alignParentBottom="true"
+		android:textColor="@color/aipay_text_aaaaaa"
+		android:textSize="10dp"/>
+</RelativeLayout>

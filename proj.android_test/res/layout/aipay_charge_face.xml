@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@color/aipay_gray">
+	
+    <com.baifubao.pay.mobile.iapppaysecservice.res2jar.layout4portrait.TitleViewBar 
+        android:id="@+id/v_title_bar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"/>
+
+    <ScrollView 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <LinearLayout 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:orientation="vertical">
+            
+	       	<TextView 
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_marginLeft="20dp"
+		        android:layout_marginTop="10dp"
+		        android:textColor="@color/aipay_text_black"
+		        android:text="@string/aipay_select_charge_value"
+		        android:textSize="18sp"/> 
+		        
+	       	<LinearLayout
+	       	    android:id="@+id/v_charge_values" 
+	       	    android:layout_width="fill_parent"
+	       	    android:layout_height="wrap_content"
+	       	    android:orientation="vertical">	       	    	
+	       	   
+	       	</LinearLayout>
+	       	
+	       <RelativeLayout
+	       	    android:layout_width="fill_parent"
+	       	    android:layout_height="45dp"
+	       	    android:layout_marginLeft="18dp"
+	       	    android:layout_marginRight="18dp"
+	       	    android:layout_marginTop="15dp"
+	       	    android:background="@drawable/aipay_edit_text_view_bg"
+	       	    android:orientation="horizontal">
+	       		<TextView 
+	       		    android:id="@+id/tv_lable"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:layout_marginLeft="10dp"
+			        android:layout_centerVertical="true"
+			        android:textColor="@color/aipay_text_555555"
+			        android:text="@string/aipay_other_value"
+			        android:textSize="15sp"/>
+	       		<EditText 
+	       		    android:id="@+id/et_other_value"
+	       		    android:layout_width="fill_parent"
+	       		    android:layout_height="wrap_content"
+	       		    android:layout_toRightOf="@+id/tv_lable"
+	       		    android:hint="@string/aipay_charge_value"
+	       		    android:textSize="15sp"
+	       		    android:background="@color/aipay_transparent"
+	       		    android:textColor="@color/aipay_text_555555"
+	       		    android:maxLength="5"
+	       		    android:inputType="number"
+	       		    android:layout_centerVertical="true"/> 
+	       		<Button 
+	       		    android:id="@+id/btn_clear"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:layout_marginRight="10dp"
+			        android:layout_centerVertical="true"
+			        android:layout_alignParentRight="true"
+			        android:visibility="gone"
+			        android:background="@drawable/aipay_bg_del_selector"/>
+	       	</RelativeLayout>
+            
+           	<TextView
+           	    android:id="@+id/tv_predict_value"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="19dp"
+				android:layout_marginTop="5dp"
+				android:textColor="@color/aipay_text_orange"
+				android:textSize="15sp"
+				android:visibility="gone"/> 
+				
+			<Button 
+			    android:id="@+id/btn_submit"
+			    android:layout_width="fill_parent"
+			    android:layout_height="45dp"
+			    android:background="@drawable/aipay_bg_confrim_selector"
+			    android:textSize="15sp"
+			    android:textColor="@color/aipay_white"
+			    android:layout_marginTop="20dp"
+			    android:layout_marginBottom="10dp"
+			    android:layout_marginLeft="18dp"
+			    android:layout_marginRight="18dp"
+			    android:text="@string/aipay_charge_v" />"
+        </LinearLayout>
+    </ScrollView>
+    
+
+</LinearLayout>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DailyTask>
+	<CurState>
+		<date>0</date>
+		<task_daily>
+			<task id="1">1</task>
+			<task id="2">2</task>
+			<task id="3">3</task>
+			<task id="4">4</task>
+		</task_daily>
+		<task_share>2</task_share>
+	</CurState>
+	<TaskList>
+		<NormalTask>
+			<task id="1">
+				<name>分数——累积达成</name>
+				<describe>本日累积总分数3500000</describe>
+				<reward>钻石10</reward>
+				<rewardType tag="1" type="2" value="10"/>
+				<rewardType tag="2" type="0" value="0"/>
+				<finish>0</finish>
+				<request>3500000</request>
+				<type value="8"></type>
+				<get>0</get>
+				<icon img="1"></icon>
+			</task>
+			
+			<task id="2">
+				<name>分数——一局达成</name>
+				<describe>在一次出击达成750000分数</describe>
+				<reward>金币10000</reward>
+				<rewardType tag="1" type="1" value="10000"/>
+				<rewardType tag="2" type="0" value="0"/>
+				<finish>0</finish>
+				<request>750000</request>
+				<type value="9"></type>
+				<get>0</get>
+				<icon img="2"></icon>
+			</task>
+			
+			<task id="3">
+				<name>波数——累积达成</name>
+				<describe>本日累积突破120波</describe>
+				<reward>钻石10</reward>
+				<rewardType tag="1" type="2" value="10"/>
+				<rewardType tag="2" type="0" value="0"/>
+				<finish>0</finish>
+				<request>120</request>
+				<type value="10"></type>
+				<get>0</get>
+				<icon img="1"></icon>
+			</task>
+			
+			<task id="4">
+				<name>波数——一局达成</name>
+				<describe>一次出击突破20波</describe>
+				<reward>金币10000</reward>
+				<rewardType tag="1" type="1" value="10000"/>
+				<rewardType tag="2" type="0" value="0"/>
+				<finish>0</finish>
+				<request>20</request>
+				<type value="11"></type>
+				<get>0</get>
+				<icon img="2"></icon>
+			</task>
+			
+			<task id="5">
+				<name>强化一件装备</name>
+				<describe>本日强化一件装备3次</describe>
+				<reward>金币10000</reward>
+				<rewardType tag="1" type="1" value="10000"/>
+				<rewardType tag="2" type="0" value="0"/>
+				<finish>0</finish>
+				<request>3</request>
+				<type value="12"></type>
+				<get>0</get>
+				<icon img="2"></icon>
+			</task>
+			
+			<task id="6">
+				<name>累积强化</name>
+				<describe>本日累积强化10次</describe>
+				<reward>钻石10</reward>
+				<rewardType tag="1" type="2" value="10"/>
+				<rewardType tag="2" type="0" value="0"/>
+				<finish>0</finish>
+				<request>10</request>
+				<type value="13"></type>
+				<get>0</get>
+				<icon img="1"></icon>
+			</task>
+			
+			<task id="7">
+				<name>获得装备</name>
+				<describe>本日战斗中获得30件装备</describe>
+				<reward>任意装备一件</reward>
+				<rewardType tag="1" type="0" value="0"/>
+				<rewardType tag="2" type="2" value="1"/>
+				<finish>0</finish>
+				<request>30</request>
+				<type value="14"></type>
+				<get>0</get>
+				<icon img="3"></icon>
+			</task>
+			
+			<task id="8">
+				<name>一局获得金币</name>
+				<describe>单局获得2000金币</describe>
+				<reward>金币10000</reward>
+				<rewardType tag="1" type="1" value="10000"/>
+				<rewardType tag="2" type="0" value="0"/>
+				<finish>0</finish>
+				<request>2000</request>
+				<type value="15"></type>
+				<get>0</get>
+				<icon img="2"></icon>
+			</task>
+			
+			<task id="9">
+				<name>累积获得金币</name>
+				<describe>本日累积获得10000金币</describe>
+				<reward>钻石10</reward>
+				<rewardType tag="1" type="2" value="10"/>
+				<rewardType tag="2" type="0" value="0"/>
+				<finish>0</finish>
+				<request>10000</request>
+				<type value="16"></type>
+				<get>0</get>
+				<icon img="1"></icon>
+			</task>
+			
+			<task id="10">
+				<name>一局击毁敌机</name>
+				<describe>一次出击击毁150驾</describe>
+				<reward>金币10000</reward>
+				<rewardType tag="1" type="1" value="10000"/>
+				<rewardType tag="2" type="0" value="0"/>
+				<finish>0</finish>
+				<request>150</request>
+				<type value="17"></type>
+				<get>0</get>
+				<icon img="2"></icon>
+			</task>
+			
+			<task id="11">
+				<name>累积击毁敌机</name>
+				<describe>本日累积击毁敌机600驾</describe>
+				<reward>钻石10</reward>
+				<rewardType tag="1" type="2" value="10"/>
+				<rewardType tag="2" type="0" value="0"/>
+				<finish>0</finish>
+				<request>600</request>
+				<type value="18"></type>
+				<get>0</get>
+				<icon img="1"></icon>
+			</task>
+			
+			<task id="12">
+				<name>抽奖</name>
+				<describe>任意抽奖一次</describe>
+				<reward>任意装备一个</reward>
+				<rewardType tag="1" type="0" value="0"/>
+				<rewardType tag="2" type="2" value="1"/>
+				<finish>0</finish>
+				<request>1</request>
+				<type value="19"></type>
+				<get>0</get>
+				<icon img="3"></icon>
+			</task>
+			
+			<task id="13">
+				<name>累积出击几次</name>
+				<describe>本日累积出击5次</describe>
+				<reward>钻石10</reward>
+				<rewardType tag="1" type="2" value="10"/>
+				<rewardType tag="2" type="0" value="0"/>
+				<finish>0</finish>
+				<request>5</request>
+				<type value="20"></type>
+				<get>0</get>
+				<icon img="1"></icon>
+			</task>
+			
+			<task id="14">
+				<name>出售装备</name>
+				<describe>本日累积出售20件装备</describe>
+				<reward>任意装备一件</reward>
+				<rewardType tag="1" type="0" value="0"/>
+				<rewardType tag="2" type="2" value="1"/>
+				<finish>0</finish>
+				<request>20</request>
+				<type value="21"></type>
+				<get>0</get>
+				<icon img="3"></icon>
+			</task>
+			
+		</NormalTask>
+	</TaskList>
+</DailyTask>
+

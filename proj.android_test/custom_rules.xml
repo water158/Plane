@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project name="smspay_precom" >
+
+    <!-- this file was created by Fat-Jar Eclipse Plug-in -->
+    <!-- the ANT-Export is in a very early stage, so this -->
+    <!-- is only experimental, ANT 1.6 or above is -->
+    <!-- required, feedback is always welcome: -->
+    <!-- http://sourceforge.net/projects/fjep -->
+    <!-- uncomment the following lines if using ANT outside Eclipse -->
+
+
+    <!-- jar file from where the tasks are loaded -->
+
+
+    <!-- Properties for Fat-Jar Eclipse Plug-in -->
+
+    <target name="-pre-build" >
+    </target>
+
+    <target name="-pre-compile" >
+        <property name="mtl.env.libs.dir" value="${mtl.env}/libs/android"></property>
+        <path id="mtl.env.libs">
+            <path path="${toString:project.all.jars.path}"></path>
+        </path>
+        <path id="project.all.jars.path">
+            <path refid="mtl.env.libs"></path>
+        </path>
+
+        <echo message="project.all.jars.path = ${toString:project.all.jars.path}"></echo>
+    </target>
+
+    <target name="-post-compile" >
+    </target>
+
+    <target name="-post-build" >
+    </target>
+
+</project>

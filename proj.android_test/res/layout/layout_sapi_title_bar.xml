@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    
+	<RelativeLayout
+	    android:id="@+id/welcome_page"
+	    android:layout_width="fill_parent"
+	    android:layout_height="49dp"
+	    android:background="@drawable/aipay_title_bar_bg">	
+	        
+	    <ImageView 
+	        android:layout_width="wrap_content"
+	        android:layout_height="32dip"
+	        android:src="@drawable/logo"
+	        android:layout_centerInParent="true"/>	
+	        
+	    <ImageView
+	 		android:id="@+id/img_v_charge" 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_centerVertical="true"
+	        android:src="@drawable/aipay_v_store"
+	        android:background="@drawable/aipay_v_store_btn_bg"
+	        android:layout_marginRight="8dp"
+	        android:paddingLeft="5dp"
+	        android:paddingRight="5dp"
+	        android:layout_alignParentRight="true"
+	        android:scaleType="center"
+	        android:visibility="gone"/>
+	    	
+	    <LinearLayout
+            android:id="@+id/title_back"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+            <ImageView
+                android:layout_width="9dp"
+                android:layout_height="17dp"
+                android:layout_marginLeft="17dip"
+                android:layout_marginRight="17dip"
+                android:layout_gravity="center"
+                android:background="@drawable/aipay_title_back_selector" />
+            <View
+                android:layout_width="2dp"
+                android:layout_height="fill_parent"
+                android:background="@drawable/aipay_title_v_line" />
+        </LinearLayout>
+	</RelativeLayout>
+</LinearLayout>

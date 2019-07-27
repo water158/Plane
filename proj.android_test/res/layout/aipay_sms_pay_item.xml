@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/v_charge_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="46dp"
+    android:layout_below="@+id/tip_text"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginTop="20dp"
+    android:background="@drawable/ebpay_circular_bg1"
+    android:clickable="true" >
+
+    <TextView
+        android:id="@+id/tv_lable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:text="@string/aipay_sms_value"
+        android:textColor="@color/aipay_text_black"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/tv_charge_value"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="20dp"
+        android:layout_toRightOf="@+id/tv_lable"
+        android:text="@string/ebpay_mode_surplus_assis"
+        android:textColor="@color/aipay_text_black"
+        android:textSize="15sp" />
+
+    <ImageView
+        android:id="@+id/arrow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="20dp"
+        android:contentDescription="@string/ebpay_img"
+        android:src="@drawable/aipay_arrow_expand_order" />
+
+</RelativeLayout>

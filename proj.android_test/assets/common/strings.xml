@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="abouttitle">关于我们</string>
+	<string name="help_1">通过滑动来操作战机的移动</string>
+	<string name="about">感谢您下载我们的游戏，我们将持续更新游戏版本，欢迎吐槽。
+邮箱：
+rongfutiancheng@163.com
+QQ群：245581825
+摩天轮工作室版权所有 Copyright ©2014 MTL All Rights Reserved</string>
+	<string name="getGold">获得金币</string>
+	<string name="getGoldText">恭喜您！获得大量金币，可以用来抽奖，升级装备，来提升战斗力，还可以用来购买道具!</string>
+	<string name="getGem">获得钻石</string>
+	<string name="getGemText">恭喜您！获得大量钻石，可以用来抽奖，重铸装备，可以大大提高战斗力，赶紧尝试吧!</string>
+	<string name="getEquip">获得装备</string>
+	<string name="getEquipText">恭喜您！获得新的装备，战斗力又将大大提高，赶紧装备强力的武器吧！</string>
+	<string name="getTool">获得道具</string>
+	<string name="getToolText">恭喜您！获得了新的道具，可以更轻松的战斗，出击，挑战更高的难度吧！</string>
+	<string name="sellEquip">确定出售</string>
+	<string name="cannotsellEquip">不能出售</string>
+</resources>

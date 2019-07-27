@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="10dp" >
+
+                <TextView
+                    android:id="@+id/baidu_feed_back_contact_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="@string/contact_way"
+                    android:textColor="@color/page_header_text"
+                    android:textSize="18sp" />
+
+                <EditText
+                    android:id="@+id/baidu_feed_back_contact_input"
+                    style="@style/input_font"
+                    android:layout_width="fill_parent"
+                    android:layout_height="45dp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_toRightOf="@+id/baidu_feed_back_contact_label"
+                    android:background="@drawable/ebpay_circular_bg1"
+                    android:hint="@string/input_cantact_way"
+                    android:inputType="number"
+                    android:maxLength="15"
+                    android:paddingLeft="10dp"
+                    android:singleLine="true"
+                    android:textColor="@color/sapi_edit_text_color"
+                    android:textColorHint="@color/hint_color" >
+
+                    <requestFocus />
+                </EditText>
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/baidu_feed_back_issues_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="10dp"
+                android:text="@string/question_des"
+                android:textColor="@color/page_header_text"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/baidu_feed_back_issues_input"
+                style="@style/input_font"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/ebpay_circular_bg1"
+                android:ems="10"
+                android:gravity="center_vertical|top"
+                android:hint="@string/input_question_hint"
+                android:inputType="textMultiLine"
+                android:minHeight="150dip"
+                android:padding="10dp"
+                android:textColor="@color/sapi_edit_text_color"
+                android:textColorHint="@color/hint_color" />
+
+            <Button
+                android:id="@+id/baidu_feed_back_submitBtn"
+                style="@style/button_font"
+                android:layout_width="fill_parent"
+                android:layout_height="45dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/pay_submit_btn_selector"
+                android:text="@string/submit"
+                android:textColor="#ffffff" />
+
+            <TextView
+                android:id="@+id/baidu_feed_back_mobile"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:clickable="true"
+                android:text="@string/service_mail"
+                android:textColor="@color/pay_tips_color"
+                android:textSize="14sp"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/baidu_feed_back_qq"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:text="@string/service_qq"
+                android:textColor="@color/pay_tips_color"
+                android:textSize="14sp"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/baidu_feed_back_service_time"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="5dp"
+                android:text="@string/service_time"
+                android:textColor="@color/pay_tips_color"
+                android:textSize="14sp"
+                android:visibility="gone" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

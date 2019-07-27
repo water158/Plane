@@ -1,0 +1,34 @@
+<Hero>
+	<Shapes>
+<ShapePart id="1" name="body" type="0" is_transform="1" transform_name="fuckingplane_final" transform_path="game/hero/fuckingplane_final.ExportJson" x="0" y="0" z="0" scale_x="0.24" scale_y="0.24" rotation="90" ></ShapePart>
+	</Shapes>
+	<Collisions>
+        <CollisionGroup id="1" ><!-- 自身碰撞框 -->
+            <CollisionRect id="1" x="-7" y="70" w="14" h="15"/>
+        </CollisionGroup>
+		<CollisionGroup id="2" ><!-- 金币 道具 血球碰撞框-->
+			<CollisionRect id="1" x="-30" y="-30" w="60" h="60"/>
+        </CollisionGroup>
+        <CollisionGroup id="3" ><!-- 金币检测框 -->
+			<CollisionRect id="1" x="-150" y="50" w="300" h="150"/>
+        </CollisionGroup>
+        <CollisionGroup id="4" ><!-- 道具检测框 -->
+			<CollisionRect id="1" x="-170" y="-170" w="340" h="340"/>
+        </CollisionGroup>
+        <CollisionGroup id="5" ><!-- 血球检测框 -->
+			<CollisionRect id="1" x="-200" y="-200" w="400" h="400"/>
+        </CollisionGroup>
+    </Collisions>
+    <Weapon>
+		<TargetGunGroup id="1" gungroup_id="120" first_delay="1" x="0" y="0" repeat_delay="0.3" harm="60"/>
+    </Weapon>
+	<BatteryPosition plane_id="001">
+        <Position id="1" x="0" y="17"/>  <!--  -->
+		<Position id="2" x="-20" y="-7"/>
+		<Position id="3" x="20" y="-7"/>
+		<Position id="4" x="58" y="-49"/>
+		<Position id="5" x="-58" y="-49"/>
+    </BatteryPosition>
+    <Misc healdth="100">
+    </Misc>
+</Hero>

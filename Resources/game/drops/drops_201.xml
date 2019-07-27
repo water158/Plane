@@ -1,0 +1,10 @@
+<Drop>
+	<Shapes>
+		<ShapePart id="1" name="body" is_animation="0" delay="0.1" frame_num="1" ani_name="point" plist="game/drops/drops.plist" x="0" y="0" z="3" scale_x="0.4" scale_y="0.4" rotation="90" ></ShapePart>
+	</Shapes>
+    <Collisions>
+        <CollisionGroup id="1" >
+        	<CollisionRect id="1" x="-20" y="-20" w="40" h="40"  />
+        </CollisionGroup>
+    </Collisions>
+</Drop>

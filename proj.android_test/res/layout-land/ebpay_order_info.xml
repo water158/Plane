@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/welcome_page"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/aipay_order_bg">
+    
+    <LinearLayout 
+        android:id="@+id/v_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:orientation="horizontal">
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ebpay_doolor"
+            android:textColor="@color/ebpay_t_orange"
+            android:textSize="24sp"/>
+        <TextView 
+            android:id="@+id/tv_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/ebpay_t_orange"
+            android:textSize="24sp"/>
+    </LinearLayout>
+    
+    <LinearLayout
+        android:id="@+id/v_more_info" 
+        android:layout_below="@+id/v_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="-6dp"
+        android:orientation="vertical">
+     	<TextView 
+            android:id="@+id/tv_product"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/ebpay_black"
+            android:textSize="15sp"/>  
+        <LinearLayout
+            android:id="@+id/v_sub_info" 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:visibility="gone">
+            <LinearLayout 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/ebpay_good_name"
+                    android:textColor="@color/ebpay_black"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/tv_product_sub"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/ebpay_black"
+                    android:textSize="15sp" />
+            </LinearLayout>
+            <LinearLayout 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/ebpay_apps_name"
+                    android:textColor="@color/ebpay_black"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/tv_app_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/ebpay_black"
+                    android:textSize="15sp" />
+            </LinearLayout>
+            <LinearLayout 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/ebpay_sellor_name"
+                    android:textColor="@color/ebpay_black"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/tv_merchant_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/ebpay_black"
+                    android:textSize="15sp" />
+            </LinearLayout>
+            <LinearLayout 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/ebpay_worker_phone"
+                    android:textColor="@color/ebpay_black"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/tv_help_phone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/ebpay_black"
+                    android:textSize="15sp" />
+            </LinearLayout>
+        </LinearLayout>     
+    </LinearLayout>
+    
+    <View 
+        android:id="@+id/splite_line"
+        android:layout_below="@+id/v_more_info"
+        android:layout_width="fill_parent"
+        android:background="@drawable/aipay_order_bottom_line"
+        android:layout_height="2dp"/>
+    
+    <ImageView 
+        android:id="@+id/img_arrow"
+        android:layout_alignParentRight="true"
+        android:layout_above="@+id/splite_line"
+        android:padding="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ebpay_arrow_expand_order"/>
+
+</RelativeLayout>

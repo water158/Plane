@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ToolsData>
+	<TargetPlane id="1" plane_id="301" data_type="2" blood="30" drop_coin_num="0" drop_rate="0.0" level="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+		</Phrase>
+	</TargetPlane> <!-- 无敌护罩 -->
+	<TargetPlane id="2" plane_id="302" data_type="2" blood="30" drop_coin_num="0" drop_rate="0.0" level="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+		</Phrase>
+	</TargetPlane> <!-- 满血恢复 -->
+	<TargetPlane id="3" plane_id="303" data_type="2" blood="30" drop_coin_num="0" drop_rate="0.0" level="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+
+		</Phrase>
+	</TargetPlane> <!-- 子弹变金币 -->
+	<TargetPlane id="4" plane_id="304" data_type="2" blood="30" drop_coin_num="0" drop_rate="0.0" level="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+
+		</Phrase>
+	</TargetPlane> <!-- 强化 -->
+	<TargetPlane id="5" plane_id="305" data_type="2" blood="30" drop_coin_num="0" drop_rate="0.0" level="1">
+		<BatteryInfo>
+			<Battery id="1" type="33" is_rotate="1" recoil="1" scale="1.0"></Battery>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+		</Phrase>
+	</TargetPlane> <!-- 导弹 -->
+	<TargetPlane id="6" plane_id="306" data_type="2" blood="30" drop_coin_num="0" drop_rate="0.0" level="1">
+		<BatteryInfo>
+			<Battery id="1" type="33" is_rotate="1" recoil="1" scale="1.0"></Battery>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+		</Phrase>
+	</TargetPlane> <!-- 子弹群 -->
+	<TargetPlane id="7" plane_id="307" data_type="2" blood="30" drop_coin_num="0" drop_rate="0.0" level="1">
+		<BatteryInfo>
+			<Battery id="1" type="33" is_rotate="1" recoil="1" scale="1.0"></Battery>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+		</Phrase>
+	</TargetPlane> <!-- 单道子弹群 -->
+	<TargetPlane id="8" plane_id="308" data_type="2" blood="30" drop_coin_num="0" drop_rate="0.0" level="1">
+		<BatteryInfo>
+			<Battery id="1" type="33" is_rotate="1" recoil="1" scale="1.0"></Battery>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+		</Phrase>
+	</TargetPlane> <!-- 激光 -->
+	<TargetPlane id="9" plane_id="309" data_type="2" blood="30" drop_coin_num="0" drop_rate="0.0" level="1">
+		<BatteryInfo>
+			<Battery id="1" type="33" is_rotate="1" recoil="1" scale="1.0"></Battery>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+		</Phrase>
+	</TargetPlane> <!-- 闪电 -->
+</ToolsData>

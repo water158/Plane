@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="abouttitle">关于我们</string>
+	<string name="help_1">通过滑动来操作战机的移动</string>
+	<string name="about">感谢您下载我们的游戏，我们将持续更新游戏版本，欢迎吐槽。
+邮箱：
+rongfutiancheng@163.com
+QQ群：245581825
+摩天轮工作室版权所有 Copyright ©2014 MTL All Rights Reserved</string>
+	<string name="first_recharge">首次充值，可获得双倍钻石！</string>
+	<string name="net_unconnect">网络都去哪了？</string>
+	<string name="please_input">请输入</string>
+	<string name="code_error">验证码错误！</string>
+	<string name="attrack">攻击：</string>
+	<string name="blood">血量：</string>
+	<string name="battery_desc">炮管特性：</string>
+	<string name="maingun_desc">主炮特性：</string>
+	<string name="sell">出售</string>
+	<string name="gold">金币</string>
+	<string name="equip">装备</string>
+	<string name="upgrade">升级</string>
+	<string name="buy">购买</string>
+	<string name="diamond">钻石</string>
+</resources>

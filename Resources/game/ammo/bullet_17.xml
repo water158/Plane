@@ -1,0 +1,13 @@
+<Bullet>
+	<Shapes>
+		<ShapePart id="1" is_animation="0" delay="0.1" frame_num="1" ani_name="37" plist="game/ammo/bullet.plist" x="0" y="0" z="0" scale_x="0.7" scale_y="0.7" rotation="90" ></ShapePart>
+	</Shapes>
+	<Collisions>
+        <CollisionGroup id="1" >
+            <CollisionRect id="1" x="0" y="0" w="10" h="10" />
+			<CollisionRect id="2" x="0" y="0" w="10" h="10" />
+        </CollisionGroup>
+    </Collisions>
+        <Misc particle_type="2" hit_type="5" shoot_type="2">
+    </Misc>
+</Bullet>

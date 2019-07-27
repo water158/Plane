@@ -1,0 +1,8 @@
+<resources>
+
+    <dimen name="aipay_dimen_85dp">85dp</dimen>
+    <dimen name="aipay_dimen_20dp">20dp</dimen>
+    <dimen name="aipay_dimen_60dp">60dp</dimen>
+    <dimen name="aipay_white_line_height">46dip</dimen>
+
+</resources>

@@ -1,0 +1,37 @@
+<resources>
+
+    <dimen name="ebpay_line_height">40dp</dimen>
+    <dimen name="ebpay_line_margin_20">20dp</dimen>
+     <dimen name="ebpay_line_margin_18">18dp</dimen>
+    <dimen name="ebpay_line_margin_16">16dp</dimen>
+    <dimen name="ebpay_line_margin_10">10dp</dimen>
+    <dimen name="ebpay_line_margin_15">15dp</dimen>
+<!--     和庆男确认过标题高度统一98像素 -->
+    <dimen name="ebpay_title_heigth">49dp</dimen>
+    <dimen name="ebpay_dimen_1dp">1dp</dimen>
+    <dimen name="ebpay_dimen_10dp">10dp</dimen>
+    <dimen name="ebpay_dimen_20dp">20dp</dimen>
+    <dimen name="ebpay_dimen_30dp">30dp</dimen>
+    <dimen name="ebpay_dimen_60dp">60dp</dimen>
+    <dimen name="ebpay_dimen_85dp">85dp</dimen>
+    
+    <dimen name="ebpay_bt_height">45dip</dimen>
+    <dimen name="ebpay_white_line_height">46dip</dimen>
+    <dimen name="ebpay_white_line_small_height">43dip</dimen>
+    <dimen name="ebpay_dialog_title_heigth">40dip</dimen>
+    <dimen name="ebpay_dialog_width">262dip</dimen>
+    <dimen name="ebpay_order_height">60dip</dimen>
+    
+    
+    
+    <dimen name="ebpay_text_size_25">25sp</dimen>
+    <dimen name="ebpay_text_size_20">20sp</dimen>
+    <dimen name="ebpay_text_size_18">18sp</dimen>
+    <dimen name="ebpay_text_size_16">16sp</dimen>
+    <dimen name="ebpay_text_size_15">15sp</dimen>
+    <dimen name="ebpay_text_size_13">13sp</dimen>
+    
+    <dimen name="ebpay_key_height">50dip</dimen>
+    <dimen name="ebpay_fast_max_width">60dp</dimen>
+	<dimen name="ebpay_histroy_item_height">40dp</dimen>	<dimen name="more_page_layout_tab_text_size">18sp</dimen>
+</resources>

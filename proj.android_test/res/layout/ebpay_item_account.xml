@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="@dimen/ebpay_histroy_item_height"
+    android:background="@color/ebpay_white" >
+
+    <TextView
+        android:id="@+id/user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="15dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="15dp"
+        android:textColor="@color/ebpay_black"
+        android:textSize="15dp" />
+
+    <RelativeLayout
+        android:id="@+id/del_area"
+        android:layout_width="@dimen/ebpay_histroy_item_height"
+        android:layout_height="@dimen/ebpay_histroy_item_height"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="5dp" >
+
+        <ImageView
+            android:id="@+id/del"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_centerInParent="true"
+            android:contentDescription="@string/ebpay_img"
+            android:src="@drawable/ebpay_bg_del_selector" />
+    </RelativeLayout>
+
+</RelativeLayout>

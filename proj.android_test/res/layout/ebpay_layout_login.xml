@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/login_view"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/ebpay_transparent">
+    <RelativeLayout
+        android:layout_width="315dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@color/ebpay_translucent_70">
+        <TextView
+            android:id="@+id/login_lable"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:gravity="center"
+            android:text="@string/sapi_login_title1"
+            android:textColor="#555555"
+            android:textSize="18sp"
+            android:typeface="sans" />
+
+        <RelativeLayout
+            android:id="@+id/login_ic"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="78dp"
+            android:background="@drawable/aipay_bg_fast" >
+
+            <ImageView
+                android:layout_width="192dp"
+                android:layout_height="48dp"
+                android:layout_centerInParent="true"
+                android:layout_marginBottom="8dp"
+                android:layout_marginLeft="56dp"
+                android:layout_marginTop="13dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/aipay_ic_fast" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/other_login"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/login_ic"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="50dp" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:drawablePadding="5dp"
+                android:drawableRight="@drawable/ebpay_item_guide"
+                android:gravity="center"
+                android:paddingBottom="12dp"
+                android:text="@string/other_login_lable"
+                android:textColor="#aaaaaa"
+                android:textSize="15sp" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

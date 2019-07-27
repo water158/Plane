@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ConnonData>
+	<!-- 主机炮 -->
+	<TargetPlane id="0" plane_id="701" data_type="2" blood="30" drop_coin_num="0" drop_rate="0.0" level="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="101" first_delay="1" x="0" y="0" repeat_delay="0.6" harm="10"/>
+		</Phrase>
+		<Phrase id="2" lower="0" upper="100">
+			<TargetGunGroup id="2" gungroup_id="102" first_delay="1" x="0" y="0" repeat_delay="1.4" harm="10"/>
+		</Phrase>
+		<Phrase id="3" lower="0" upper="100">
+			<TargetGunGroup id="2" gungroup_id="103" first_delay="1" x="0" y="0" repeat_delay="0.2" harm="10"/>
+		</Phrase>
+		<Phrase id="4" lower="0" upper="100">
+			<TargetGunGroup id="2" gungroup_id="104" first_delay="1" x="0" y="0" repeat_delay="0.2" harm="10"/>
+		</Phrase>
+		<Phrase id="5" lower="0" upper="100">
+			<TargetGunGroup id="2" gungroup_id="105" first_delay="1" x="0" y="0" repeat_delay="0.2" harm="10"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="1" plane_id="702" data_type="2" blood="30" drop_coin_num="0" drop_rate="0.0" level="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="111" first_delay="1" x="0" y="0" repeat_delay="0.2" harm="10"/>
+		</Phrase>
+		<Phrase id="2" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="112" first_delay="1" x="0" y="0" repeat_delay="0.1" harm="10"/>
+		</Phrase>
+		<Phrase id="3" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="141" first_delay="1" x="0" y="0" repeat_delay="0.4" harm="10"/>
+			<Condition id="1">
+				<TargetGunGroup id="1" gungroup_id="113" first_delay="1" x="0" y="0" repeat_delay="0.4" harm="10"/>
+			</Condition>
+		</Phrase>
+		<Phrase id="4" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="142" first_delay="1" x="0" y="0" repeat_delay="0.2" harm="10"/>
+			<Condition id="1">
+				<TargetGunGroup id="1" gungroup_id="114" first_delay="1" x="0" y="0" repeat_delay="0.2" harm="10"/>
+			</Condition>
+		</Phrase>
+		<Phrase id="5" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="143" first_delay="1" x="0" y="0" repeat_delay="0.1" harm="10"/>
+			<Condition id="1">
+				<TargetGunGroup id="1" gungroup_id="115" first_delay="1" x="0" y="0" repeat_delay="0.1" harm="10"/>
+			</Condition>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="2" plane_id="703" data_type="2" blood="30" drop_coin_num="0" drop_rate="0.0" level="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="116" first_delay="1" x="0" y="0" repeat_delay="0.4" harm="10"/>
+		</Phrase>
+		<Phrase id="2" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="117" first_delay="1" x="0" y="0" repeat_delay="0.2" harm="10"/>
+		</Phrase>
+		<Phrase id="3" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="118" first_delay="1" x="0" y="0" repeat_delay="0.3" harm="10"/>
+		</Phrase>
+		<Phrase id="4" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="119" first_delay="1" x="0" y="0" repeat_delay="0.3" harm="10"/>
+		</Phrase>
+		<Phrase id="5" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="120" first_delay="1" x="0" y="0" repeat_delay="0.3" harm="10"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="3" plane_id="704" data_type="2" blood="30" drop_coin_num="0" drop_rate="0.0" level="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="106" first_delay="1" x="0" y="0" repeat_delay="0.2" harm="10"/>
+		</Phrase>
+		<Phrase id="2" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="107" first_delay="1" x="0" y="0" repeat_delay="0.2" harm="10"/>
+		</Phrase>
+		<Phrase id="3" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="108" first_delay="1" x="0" y="0" repeat_delay="0.2" harm="10"/>
+		</Phrase>
+		<Phrase id="4" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="109" first_delay="1" x="0" y="0" repeat_delay="0.2" harm="10"/>
+		</Phrase>
+		<Phrase id="5" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="110" first_delay="1" x="0" y="0" repeat_delay="0.2" harm="10"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="4" plane_id="705" data_type="2" blood="30" drop_coin_num="0" drop_rate="0.0" level="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="131" first_delay="1" x="0" y="0" repeat_delay="1.0" harm="10"/>
+		</Phrase>
+		<Phrase id="2" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="132" first_delay="1" x="0" y="0" repeat_delay="0.5" harm="10"/>
+		</Phrase>
+		<Phrase id="3" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="133" first_delay="1" x="0" y="0" repeat_delay="3.0" harm="10"/>
+		</Phrase>
+		<Phrase id="4" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="134" first_delay="1" x="0" y="0" repeat_delay="2.0" harm="10"/>
+		</Phrase>
+		<Phrase id="5" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="135" first_delay="1" x="0" y="0" repeat_delay="1.0" harm="10"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="5" plane_id="706" data_type="2" blood="30" drop_coin_num="0" drop_rate="0.0" level="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="120" first_delay="1" x="0" y="0" repeat_delay="0.3" harm="10"/>
+		</Phrase>
+		<Phrase id="2" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="23" first_delay="1" x="0" y="0" repeat_delay="0.3" harm="10"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="6" plane_id="707" data_type="2" blood="30" drop_coin_num="0" drop_rate="0.0" level="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="120" first_delay="1" x="0" y="0" repeat_delay="0.3" harm="10"/>
+		</Phrase>
+		<Phrase id="2" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="23" first_delay="1" x="0" y="0" repeat_delay="0.3" harm="10"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="7" plane_id="708" data_type="2" blood="30" drop_coin_num="0" drop_rate="0.0" level="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="131" first_delay="1" x="0" y="0" repeat_delay="1.0" harm="10"/>
+		</Phrase>
+		<Phrase id="2" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="132" first_delay="1" x="0" y="0" repeat_delay="0.5" harm="10"/>
+		</Phrase>
+		<Phrase id="3" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="133" first_delay="1" x="0" y="0" repeat_delay="3.0" harm="10"/>
+		</Phrase>
+		<Phrase id="4" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="134" first_delay="1" x="0" y="0" repeat_delay="2.0" harm="10"/>
+		</Phrase>
+		<Phrase id="5" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="135" first_delay="1" x="0" y="0" repeat_delay="1.0" harm="10"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="8" plane_id="709" data_type="2" blood="30" drop_coin_num="0" drop_rate="0.0" level="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="126" first_delay="1" x="0" y="0" repeat_delay="2.0" harm="10"/>
+		</Phrase>
+		<Phrase id="2" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="127" first_delay="1" x="0" y="0" repeat_delay="1.0" harm="10"/>
+		</Phrase>
+		<Phrase id="3" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="128" first_delay="1" x="0" y="0" repeat_delay="3.0" harm="10"/>
+		</Phrase>
+		<Phrase id="4" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="129" first_delay="1" x="0" y="0" repeat_delay="2.0" harm="10"/>
+		</Phrase>
+		<Phrase id="5" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="130" first_delay="1" x="0" y="0" repeat_delay="1.0" harm="10"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="9" plane_id="710" data_type="2" blood="30" drop_coin_num="0" drop_rate="0.0" level="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="121" first_delay="1" x="0" y="0" repeat_delay="1.0" harm="10"/>
+		</Phrase>
+		<Phrase id="2" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="122" first_delay="1" x="0" y="0" repeat_delay="1.0" harm="10"/>
+		</Phrase>
+		<Phrase id="3" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="123" first_delay="1" x="0" y="0" repeat_delay="1.0" harm="10"/>
+		</Phrase>
+		<Phrase id="4" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="124" first_delay="1" x="0" y="0" repeat_delay="1.0" harm="10"/>
+		</Phrase>
+		<Phrase id="5" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="125" first_delay="1" x="0" y="0" repeat_delay="1.0" harm="10"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="10" plane_id="711" data_type="2" blood="30" drop_coin_num="0" drop_rate="0.0" level="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="136" first_delay="1" x="0" y="0" repeat_delay="0.4" harm="10"/>
+		</Phrase>
+		<Phrase id="2" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="137" first_delay="1" x="0" y="0" repeat_delay="0.2" harm="10"/>
+		</Phrase>
+		<Phrase id="3" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="138" first_delay="1" x="0" y="0" repeat_delay="0.9" harm="10"/>
+		</Phrase>
+		<Phrase id="4" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="139" first_delay="1" x="0" y="0" repeat_delay="0.6" harm="10"/>
+		</Phrase>
+		<Phrase id="5" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="140" first_delay="1" x="0" y="0" repeat_delay="0.3" harm="10"/>
+		</Phrase>
+	</TargetPlane>
+	
+	
+	
+	
+	<!-- 敌机炮 -->  <!--子弹组重复利用-mid_delay="间隔时间" mid_repeat="重复次数"-->
+	<!-- is_track="1" 这是子弹的跟踪   is_rotate="0"这是炮管的跟随旋转    recoil="1"这是炮管打子弹的抖动-->
+
+
+
+
+	
+
+	<TargetPlane id="11_1" plane_id="101" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="69" first_delay="0" x="0" y="0" repeat_delay="2.1" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="11_2" plane_id="101" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="70" first_delay="0" x="0" y="0" repeat_delay="2.1" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="11_3" plane_id="101" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>	
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="67" first_delay="0" x="0" y="0" repeat_delay="1.6" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="12_1" plane_id="102" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>	
+		<Phrase id="1" lower="0" upper="100">		
+			<TargetGunGroup id="1" gungroup_id="63" first_delay="0" x="0" y="0" repeat_delay="4.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="12_2" plane_id="102" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>	
+		<Phrase id="1" lower="0" upper="100">		
+			<TargetGunGroup id="1" gungroup_id="63" first_delay="0" x="0" y="0" repeat_delay="2.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="12_3" plane_id="102" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>	
+		<Phrase id="1" lower="0" upper="100">		
+			<TargetGunGroup id="1" gungroup_id="68" first_delay="0" x="0" y="0" repeat_delay="2.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="13_1" plane_id="201" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>	
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="27" is_track="1" first_delay="0" x="0" y="0" repeat_delay="1.5" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="13_2" plane_id="201" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>	
+		<Phrase id="1" lower="0" upper="100">		
+			<TargetGunGroup id="1" gungroup_id="27" first_delay="0" x="0" y="0" mid_delay="0.5" mid_repeat="4" repeat_delay="3.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="13_3" plane_id="201" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>	
+		<Phrase id="1" lower="0" upper="100">		
+			<TargetGunGroup id="1" gungroup_id="27" first_delay="0" x="0" y="0" mid_delay="0.3" mid_repeat="2" repeat_delay="1.6" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="14_1" plane_id="202" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>	
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="16" is_track="1" first_delay="0" x="0" y="0" mid_delay="0.1" mid_repeat="7" repeat_delay="2.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="14_2" plane_id="202" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>	
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="17" is_track="1" first_delay="0" x="0" y="0" mid_delay="0.1" mid_repeat="7" repeat_delay="2.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="14_3" plane_id="202" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>	
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="18" is_track="1" first_delay="0" x="0" y="0" mid_delay="0.1" mid_repeat="7" repeat_delay="2.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="15_1" plane_id="202" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>	
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="16" is_track="1" first_delay="0" x="0" y="0" mid_delay="0.1" mid_repeat="7" repeat_delay="2.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="15_2" plane_id="202" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>	
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="38" first_delay="0" x="0" y="0" mid_delay="1.95" mid_repeat="2" repeat_delay="4.5" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="15_3" plane_id="202" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="38" first_delay="0" x="0" y="0" mid_delay="1.95" mid_repeat="5" repeat_delay="11.0" harm="20"/>
+		</Phrase>		
+	</TargetPlane>
+	<TargetPlane id="16_1" plane_id="202" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>	
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="16" is_track="1" first_delay="0" x="0" y="0" mid_delay="0.1" mid_repeat="7" repeat_delay="2.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="16_2" plane_id="202" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>	
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="39" first_delay="0" x="0" y="0" mid_delay="1.95" mid_repeat="2" repeat_delay="4.5" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="16_3" plane_id="202" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>	
+		<Phrase id="1" lower="0" upper="100">		<!-- 60+ -->
+			<TargetGunGroup id="1" gungroup_id="39" first_delay="0" x="0" y="0" mid_delay="1.95" mid_repeat="2" repeat_delay="4.5" harm="20"/>
+			<TargetGunGroup id="2" gungroup_id="38" first_delay="0" x="0" y="0" mid_delay="1.95" mid_repeat="2" repeat_delay="4.5" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="17_1" plane_id="203" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="1" first_delay="0" x="0" y="0" mid_delay="0.6" mid_repeat="3" repeat_delay="3.5" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="17_2" plane_id="203" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="2" first_delay="0" x="0" y="0" repeat_delay="3.5" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="17_3" plane_id="203" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="2" first_delay="0" x="0" y="0" mid_delay="0.74" mid_repeat="2" repeat_delay="4.5" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="18_1" plane_id="203" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="5" first_delay="0" x="0" y="0" repeat_delay="2.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="18_2" plane_id="203" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="5" first_delay="0" x="0" y="0" mid_delay="1.0" mid_repeat="2" repeat_delay="6.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="18_3" plane_id="203" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="5" first_delay="0" x="0" y="0" mid_delay="1.0" mid_repeat="2" repeat_delay="4.5" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="19_1" plane_id="203" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="3" first_delay="0" x="0" y="0" repeat_delay="4.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="19_2" plane_id="203" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="3" first_delay="0" x="0" y="0" mid_delay="1.95" mid_repeat="2" repeat_delay="6.5" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="19_3" plane_id="203" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="3" first_delay="0" x="0" y="0" mid_delay="1.95" mid_repeat="5" repeat_delay="12.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="20_1" plane_id="204" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="15" is_track="1" first_delay="0" x="0" y="0" repeat_delay="2.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="20_2" plane_id="204" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="15" is_track="1" first_delay="0" x="0" y="0" mid_delay="0.4" mid_repeat="2" repeat_delay="2.3" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="20_3" plane_id="204" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="15" first_delay="0" x="0" y="0" mid_delay="0.4" mid_repeat="3" repeat_delay="2.7" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="21_1" plane_id="204" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="15" is_track="1" first_delay="0" x="0" y="0" repeat_delay="2.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="21_2" plane_id="204" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="23" first_delay="0" x="0" y="0" repeat_delay="2.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="21_3" plane_id="204" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="23" first_delay="0" x="0" y="0" mid_delay="0.9" mid_repeat="2" repeat_delay="3.3" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="22_1" plane_id="301" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="25" is_track="1" first_delay="0" x="0" y="0" repeat_delay="1.2" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="22_2" plane_id="301" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="25" is_track="1" first_delay="0" x="0" y="0" mid_delay="0.4" mid_repeat="4" repeat_delay="2.6" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="22_3" plane_id="301" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="25" first_delay="0" x="0" y="0" mid_delay="0.4" mid_repeat="7" repeat_delay="4.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="23_1" plane_id="302" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="6" is_track="1" first_delay="0" x="0" y="0" repeat_delay="2.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="23_2" plane_id="302" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="7" is_track="1" first_delay="0" x="0" y="0" repeat_delay="2.9" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="23_3" plane_id="302" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="8" is_track="1" first_delay="0" x="0" y="0" repeat_delay="3.5" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="24_1" plane_id="303" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="4" is_track="1" first_delay="0" x="0" y="0" repeat_delay="2.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="24_2" plane_id="303" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="4" is_track="1" first_delay="0" x="0" y="0" mid_delay="1.0" mid_repeat="3" repeat_delay="5.5" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="24_3" plane_id="303" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="4" is_track="1" first_delay="0" x="0" y="0" mid_delay="1.0" mid_repeat="6" repeat_delay="8.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="25_1" plane_id="306" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="12" is_track="1" first_delay="0" x="0" y="0" repeat_delay="3.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="25_2" plane_id="306" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="12" is_track="1" first_delay="0" x="0" y="0" mid_delay="0.8" mid_repeat="2" repeat_delay="3.2" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="25_3" plane_id="306" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="12" is_track="1" first_delay="0" x="0" y="0" mid_delay="0.9" mid_repeat="4" repeat_delay="5.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="26_1" plane_id="304" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="9" is_track="1" first_delay="0" x="0" y="0" repeat_delay="1.5" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="26_2" plane_id="304" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="9" first_delay="0" x="0" y="0" mid_delay="0.7" mid_repeat="2" repeat_delay="3.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="26_3" plane_id="304" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="10" first_delay="0" x="0" y="0" mid_delay="0.1" mid_repeat="7" repeat_delay="2.5" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="27_1" plane_id="304" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="11" is_track="1" first_delay="0" x="0" y="0" repeat_delay="2.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="27_2" plane_id="304" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="11" is_track="1" first_delay="0" x="0" y="0" mid_delay="0.8" mid_repeat="2" repeat_delay="3.1" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="27_3" plane_id="304" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="11" is_track="1" first_delay="0" x="0" y="0" mid_delay="0.8" mid_repeat="4" repeat_delay="4.5" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="28_1" plane_id="305" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="36" first_delay="0" x="0" y="0" mid_delay="0.06" mid_repeat="4" repeat_delay="2.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="28_2" plane_id="305" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="35" first_delay="0" x="0" y="0" mid_delay="0.06" mid_repeat="4" repeat_delay="2.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="28_3" plane_id="305" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="34" first_delay="0" x="0" y="0" mid_delay="0.06" mid_repeat="4" repeat_delay="2.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="29_1" plane_id="401" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="42" first_delay="0" x="0" y="0" repeat_delay="1.5" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="29_2" plane_id="401" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="13" first_delay="0" x="0" y="0" mid_delay="0.1" mid_repeat="5" repeat_delay="1.5" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="29_3" plane_id="401" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="13" first_delay="0" x="0" y="0" mid_delay="0.1" mid_repeat="12" repeat_delay="2.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="30_1" plane_id="402" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="50" is_track="1" first_delay="0" x="0" y="0" repeat_delay="1.5" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="30_2" plane_id="402" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="50" is_track="1" first_delay="0" x="0" y="0" mid_delay="0.3" mid_repeat="4" repeat_delay="3.5" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="30_3" plane_id="402" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="50" is_track="1" first_delay="0" x="0" y="0" repeat_delay="0.5" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="31_1" plane_id="402" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="1" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="46" is_track="1" first_delay="0" x="0" y="0" repeat_delay="1.5" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="31_2" plane_id="402" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="47" first_delay="0" x="0" y="0" mid_delay="0.5" mid_repeat="3" repeat_delay="2.5" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="31_3" plane_id="402" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="47" first_delay="0" x="0" y="0" repeat_delay="0.7" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="32_1" plane_id="403" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="43" first_delay="0" x="0" y="0" mid_delay="0.5" mid_repeat="3" repeat_delay="3.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="32_2" plane_id="403" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="45" first_delay="0" x="0" y="0" repeat_delay="3.5" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="32_3" plane_id="403" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="44" first_delay="0" x="0" y="0" mid_delay="2.5" mid_repeat="3" repeat_delay="8.2" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="33_1" plane_id="501" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="31" first_delay="0" x="0" y="0" repeat_delay="4.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="33_2" plane_id="501" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="32" first_delay="0" x="0" y="0" repeat_delay="4.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="33_3" plane_id="501" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="33" first_delay="0" x="0" y="0" repeat_delay="2.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="34_1" plane_id="502" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">		<!-- 10 -->
+			<TargetGunGroup id="1" gungroup_id="28" first_delay="0" x="0" y="0" repeat_delay="6.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="34_2" plane_id="502" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="29" first_delay="0" x="0" y="0" repeat_delay="4.5" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="34_3" plane_id="502" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="29" first_delay="0" x="0" y="0" repeat_delay="3.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="35_1" plane_id="503" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="28" first_delay="0" x="0" y="0" repeat_delay="6.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="35_2" plane_id="503" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="37" first_delay="0" x="0" y="0" repeat_delay="6.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+	<TargetPlane id="35_3" plane_id="503" data_type="2" blood="40" drop_coin_num="0" drop_rate="0.0" level="1" is_rotate="0" recoil="1">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<TargetGunGroup id="1" gungroup_id="30" first_delay="0" x="0" y="0" repeat_delay="5.0" harm="20"/>
+		</Phrase>
+	</TargetPlane>
+
+</ConnonData>

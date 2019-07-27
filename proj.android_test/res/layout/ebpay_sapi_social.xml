@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/ebpay_title_heigth"
+        android:background="@drawable/ebpay_title_bar_bg" >
+        <TextView
+            android:id="@+id/title_bar_right_img"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:textColor="@color/ebpay_white"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+
+    <ViewSwitcher
+        android:id="@+id/sapi_social_start_viewswitcher"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@android:color/white" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <ProgressBar
+                android:id="@+id/sapi_social_start_progressbar"
+                style="@android:style/Widget.ProgressBar.Horizontal"
+                android:layout_width="fill_parent"
+                android:layout_height="5dp"
+                android:indeterminateDrawable="@color/ebpay_edit_text_color"
+                android:max="100" />
+
+            <WebView
+                android:id="@+id/sapi_social_start_wv_show"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/sapi_social_start_refresh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/sapi_social_loading_refresh"
+            android:textColor="@android:color/black"
+            android:textSize="16sp" />
+    </ViewSwitcher>
+
+</RelativeLayout>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:background="@drawable/ebpay_list_selector"
+    android:orientation="horizontal"
+    >
+
+    <!-- <LinearLayout -->
+    <!-- android:layout_width="wrap_content" -->
+    <!-- android:layout_height="@dimen/ebpay_line_height" -->
+    <!-- android:gravity="center_vertical" -->
+    <!-- android:orientation="horizontal" > -->
+
+    <com.baidu.android.pay.view.RemoteImageView
+        android:id="@+id/left_img"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:contentDescription="@string/ebpay_img"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/right_text" 
+        android:layout_width="0dip"
+        android:layout_height="@dimen/ebpay_white_line_height"
+        android:layout_marginLeft="15dp"
+        android:gravity="center_vertical|left"
+        android:layout_weight="1"
+        android:textColor="@color/ebpay_text_333333" />
+    
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/ebpay_img"
+            android:src="@drawable/ebpay_item_guide" />
+    <!-- </LinearLayout> -->
+
+
+    <!-- <View -->
+    <!-- android:id="@+id/split_line" -->
+    <!-- android:layout_width="fill_parent" -->
+    <!-- android:layout_height="1dip" -->
+    <!-- android:background="@drawable/ebpay_broken_line" -->
+    <!-- android:paddingLeft="@dimen/ebpay_line_margin_10" -->
+    <!-- android:paddingRight="@dimen/ebpay_line_margin_10" /> -->
+
+</LinearLayout>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/aipay_gray" >
+
+    <RelativeLayout
+        android:id="@+id/v_pay_main_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <com.baifubao.pay.mobile.iapppaysecservice.res2jar.layout4portrait.TitleViewBar
+            android:id="@+id/v_title_bar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_below="@+id/v_title_bar" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <com.baifubao.pay.mobile.iapppaysecservice.res2jar.layout4portrait.OrderView
+                    android:id="@+id/v_order_info"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" />
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="35dp" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="12dp"
+                        android:text="@string/aipay_select_paytype"
+                        android:textColor="@color/aipay_text_555555"
+                        android:textSize="15sp" />
+                </RelativeLayout>
+
+                <com.baifubao.pay.mobile.iapppaysecservice.res2jar.layout4portrait.PayTypeView
+                    android:id="@+id/v_pay_type_list"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp" />
+
+                <LinearLayout
+                    android:id="@+id/v_notice"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:orientation="horizontal"
+                    android:visibility="gone" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/aipay_notice"
+                        android:textColor="@color/aipay_text_aaaaaa"
+                        android:textSize="12sp" />
+
+                    <com.baifubao.pay.mobile.iapppaysecservice.ui.AlwaysMarqueeTextView
+                        android:id="@+id/tv_notice"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:ellipsize="marquee"
+                        android:marqueeRepeatLimit="marquee_forever"
+                        android:singleLine="true"
+                        android:textColor="@color/aipay_text_aaaaaa"
+                        android:textSize="12sp" />
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="15dp"
+                    android:layout_marginTop="10dp"
+                    android:paddingLeft="12dp" >
+
+                    <TextView
+                        android:id="@+id/tv_help_phone"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="6dp"
+                        android:paddingTop="6dp"
+                        android:text="@string/aipay_help_phone"
+                        android:textColor="@color/aipay_text_aaaaaa"
+                        android:textSize="12sp" />
+
+                    <TextView
+                        android:id="@+id/tv_help_phone_no"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_toRightOf="@+id/tv_help_phone"
+                        android:paddingBottom="6dp"
+                        android:paddingTop="6dp"
+                        android:text="@string/aipay_help_phone_no"
+                        android:textColor="@color/aipay_text_6992d7"
+                        android:textSize="12sp" />
+
+                    <TextView
+                        android:id="@+id/tv_version"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="15dp"
+                        android:layout_toRightOf="@+id/tv_help_phone_no"
+                        android:paddingBottom="6dp"
+                        android:paddingTop="6dp"
+                        android:textColor="@color/aipay_text_aaaaaa"
+                        android:textSize="12sp" />
+
+                    <TextView
+                        android:id="@+id/tv_help_wap"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:paddingLeft="20dp"
+                        android:drawablePadding="10dp"
+                        android:drawableRight="@drawable/ic_aipay_more_down"
+                        android:paddingBottom="6dp"
+                        android:paddingRight="12dp"
+                        android:paddingTop="6dp"
+                        android:text="@string/aipay_more"
+                        android:textColor="@color/aipay_text_aaaaaa"
+                        android:textSize="12sp" />
+                </RelativeLayout>
+            </LinearLayout>
+        </ScrollView>
+    </RelativeLayout>
+
+    <include
+        android:id="@+id/ipay_more_page"
+        layout="@layout/aipay_more_page_layout"
+        android:visibility="gone" />
+
+</FrameLayout>

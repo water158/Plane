@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="ebpay_black_transparent">#8f000000</color>
+    <color name="ebpay_white_half_trans">#30ffffff</color>
+    <color name="ebpay_light_gray">#eaeaea</color>
+    <color name="ebpay_darkorange">#f4a51a</color>
+    <color name="ebpay_bg_error_red">#f43c1c</color>
+    <color name="ebpay_line_gray">#EDEDED</color>
+    <color name="ebpay_white">#ffffff</color>
+    <color name="ebpay_black">#ff000000</color>
+    <color name="ebpay_gray">#f2f2f2</color>
+    <color name="ebpay_red">#ff5652</color>
+    <color name="ebpay_transparent">#00000000</color>
+    <color name="ebpay_translucent_background">#60000000</color>
+    <color name="ebpay_translucent_70">#70000000</color>
+    <color name="ebpay_order_bg">#F3F7FF</color>
+    <color name="ebpay_item_pressed">#eaf2ff</color>
+    <color name="ebpay_6c">#cccccc</color>
+    <color name="ebpay_6a">#aaaaaa</color>
+    <color name="ebpay_list_ffe09f">#ffffe09f</color>
+    
+    <!-- 蓝色色 -->
+    <color name="ebpay_blue">#20a3ff</color>
+    
+    <color name="ebpay_scroll_bar">#bbbbbb</color>
+    <color name="ebpay_color_333333">#333333</color>
+    <color name="ebpay_color_eaeaea">#eaeaea</color>
+    
+    <!-- title_bar彩带颜色 -->
+    <color name="ebpay_t_blue">#7560df</color>
+    <color name="ebpay_t_purple">#df42a8</color>
+    <color name="ebpay_t_orange">#ea8b46</color>
+    <color name="ebpay_t_yellow">#e4ca1a</color>
+    <color name="ebpay_t_green">#52de7f</color>
+    <color name="ebpay_t_cyan">#2aa6e7</color>
+    <color name="ebpay_select_login">#5f88d4</color>
+    <!-- 字体颜色 -->
+    <color name="ebpay_text_333333">#333333</color>
+    <color name="ebpay_text_6992d7">#6992d7</color>
+    <color name="ebpay_text_999999">#999999</color>
+    <color name="ebpay_text_d9d9d9">#d9d9d9</color>
+    <color name="ebpay_text_c7c7c7">#c7c7c7</color>
+    <color name="ebpay_text_ff7800">#ff7800</color>
+    <color name="ebpay_text_5fbbd4">#5fbbd4</color>
+    <color name="ebpay_text_pressed_color">#3289cb</color>
+    <color name="ebpay_edit_text_color">#333333</color>
+
+    <color name="vertical_line_color">#cfcfcf</color>
+    <color name="list_divider_color">#dbdbdb</color>
+</resources>

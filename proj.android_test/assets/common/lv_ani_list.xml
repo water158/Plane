@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+		<AnimationType tip="主机">
+			<HeroID tip="主机1_1">
+				<Animation tag="hero_0_1" framenum="1">game/hero/hero_0_1.plist</Animation>
+			</HeroID>
+		</AnimationType>
+		<!-->僚机的动画<-->
+		<AnimationType tip="僚机">
+			<WingType tip="僚机1">
+			</WingType>	
+		</AnimationType>
+		
+		<!-->不同模式的动画<-->	
+		<AnimationType tip="游戏模式">
+			<ModeType tip="普通">
+			</ModeType>
+			<ModeType tip="爆破">
+			</ModeType>
+			<ModeType tip="追击">
+			</ModeType>
+			<ModeType tip="收集">
+			</ModeType>
+		</AnimationType>
+		<!-->不同道具的动画<-->		
+		<AnimationType tip="道具类型">
+		</AnimationType>
+		<!-->选择界面的全部加载<-->	
+		<AnimationType tip="主机">
+			<AllResource tip="主机1_1">
+				<Animation tag="hero_0_1" framenum="1">game/hero/hero_0_1.plist</Animation>
+			</AllResource>
+		</AnimationType>
+</root>

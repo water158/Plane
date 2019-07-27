@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+    <UserLevel>
+    	<energy>10</energy>
+        <Gold>30000000</Gold>
+		<Crystal>2000000</Crystal>
+		<MainGun>1</MainGun>
+		<SecondaryGun1>2</SecondaryGun1>
+		<SecondaryGun2>3</SecondaryGun2>
+		<Wing>4</Wing>
+		<Tools tool_1="0" tool_2="0" tool_3="0" tool_4="0" tool_5="0" tool_6="0"/>
+    </UserLevel>
+    <Equipment>
+		<EquipItem id="1" plane_id="201" attrack_value="100" blood_value="100" attrack_percentage="50" blood_percentage="30" props_explode_rate="20" blood_explode_rate="20" level_cap="20"  quality="2" gun_type="0" main_gun_type="0" secondary_left_gun_type="1" secondary_right_gun_type="1" wing_type="1" ></EquipItem>
+		<EquipItem id="2" plane_id="101" attrack_value="100" blood_value="100" attrack_percentage="50" blood_percentage="30" props_explode_rate="20" blood_explode_rate="20" level_cap="20"  quality="2" gun_type="0" main_gun_type="2" secondary_left_gun_type="1" secondary_right_gun_type="1" wing_type="1" ></EquipItem>
+		<EquipItem id="3" plane_id="101" attrack_value="100" blood_value="100" attrack_percentage="50" blood_percentage="30" props_explode_rate="20" blood_explode_rate="20" level_cap="20"  quality="2" gun_type="0" main_gun_type="2" secondary_left_gun_type="1" secondary_right_gun_type="1" wing_type="1" ></EquipItem>
+		<EquipItem id="4" plane_id="101" attrack_value="100" blood_value="100" attrack_percentage="50" blood_percentage="30" props_explode_rate="20" blood_explode_rate="20" level_cap="20"  quality="2" gun_type="0" main_gun_type="2" secondary_left_gun_type="1" secondary_right_gun_type="1" wing_type="1" ></EquipItem>
+		<EquipItem id="5" plane_id="101" attrack_value="100" blood_value="100" attrack_percentage="50" blood_percentage="30" props_explode_rate="20" blood_explode_rate="20" level_cap="20"  quality="2" gun_type="0" main_gun_type="2" secondary_left_gun_type="1" secondary_right_gun_type="1" wing_type="1" ></EquipItem>
+		<EquipItem id="6" plane_id="101" attrack_value="100" blood_value="100" attrack_percentage="50" blood_percentage="30" props_explode_rate="20" blood_explode_rate="20" level_cap="20"  quality="2" gun_type="0" main_gun_type="2" secondary_left_gun_type="1" secondary_right_gun_type="1" wing_type="1" ></EquipItem>
+		<EquipItem id="7" plane_id="101" attrack_value="100" blood_value="100" attrack_percentage="50" blood_percentage="30" props_explode_rate="20" blood_explode_rate="20" level_cap="20"  quality="2" gun_type="0" main_gun_type="2" secondary_left_gun_type="1" secondary_right_gun_type="1" wing_type="1" ></EquipItem>
+		<EquipItem id="8" plane_id="101" attrack_value="100" blood_value="100" attrack_percentage="50" blood_percentage="30" props_explode_rate="20" blood_explode_rate="20" level_cap="20"  quality="2" gun_type="0" main_gun_type="2" secondary_left_gun_type="1" secondary_right_gun_type="1" wing_type="1" ></EquipItem>
+    </Equipment>
+    <UserStatus>
+        <First>1</First>
+		<FirstShop>1</FirstShop>
+		<FirstLotteryUseCoin>1</FirstLotteryUseCoin>
+		<FirstLotteryUseTenCrystal>1</FirstLotteryUseTenCrystal>
+		<FirstLotteryUseFourtyCrystal>1</FirstLotteryUseFourtyCrystal>
+		<LastFreeLotteryTimeForCoin>0</LastFreeLotteryTimeForCoin>
+		<LastFreeLotteryTimeForTenCrystal>0</LastFreeLotteryTimeForTenCrystal>
+		<LastFreeLotteryTimeForFourtyCrystal>0</LastFreeLotteryTimeForFourtyCrystal>
+		<FinishComplain>1</FinishComplain>
+		<!-- 时间记录用于恢复体力的记录 -->
+		<TimeRecord>0</TimeRecord>
+		<!-- 时间记录第一次登录 精确到毫秒 -->
+		<FirstTimeRecord>0</FirstTimeRecord>
+		<!-- 上一次登陆游戏的时间精确到年月日  -->
+		<LastLoginTime year="0" mon="0" day="0"></LastLoginTime>
+		<!-- 上一次日常任务刷新的时间精确到年月日  -->
+		<LastLoginTime year="0" mon="0" day="0"></LastLoginTime>
+		<!-- 已签到的天数 -->
+		<HadeSigned>0</HadeSigned>
+		<!-- 当前使用的签到奖励表编号 -->
+		<CurSignRewardSheet>0</CurSignRewardSheet>
+		<!-- 签到奖励的更新记录 -->
+		<SignRewardUpdateRecord>0</SignRewardUpdateRecord>
+    </UserStatus>
+    <UserSetting>
+        <Config tip="Sound">1</Config>
+        <Config tip="Music">1</Config>
+        <Config tip="Vibra">1</Config>
+        <Config tip="Particle">1</Config>
+    </UserSetting>
+	<PurchraseHistory>
+    </PurchraseHistory>
+</root>

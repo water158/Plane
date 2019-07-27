@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/welcome_page"
+    android:layout_width="fill_parent"
+    android:layout_height="49dp"
+    android:background="@drawable/aipay_title_bar_bg" >
+
+    <ImageView
+        android:id="@+id/img_title"
+        android:layout_width="wrap_content"
+        android:layout_height="32dip"
+        android:layout_centerInParent="true"
+        android:contentDescription="@null"
+        android:src="@drawable/aipay_ic_logo" />
+
+    <TextView
+        android:id="@+id/text_title"
+        style="@style/text_title_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/img_v_charge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="8dp"
+        android:background="@drawable/aipay_v_store_btn_bg"
+        android:contentDescription="@null"
+        android:scaleType="center"
+        android:src="@drawable/aipay_v_store"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/title_back"
+        android:layout_width="9dp"
+        android:layout_height="17dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:layout_marginLeft="17dip"
+        android:layout_marginRight="17dip"
+        android:background="@drawable/aipay_title_back_selector"
+        android:contentDescription="@null" />
+
+    <View
+        android:layout_width="2dp"
+        android:layout_height="fill_parent"
+        android:layout_toRightOf="@id/title_back"
+        android:background="@drawable/aipay_title_v_line" />
+
+</RelativeLayout>

@@ -1,0 +1,1231 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<PathGroup id="1" description="straight up 1">
+		<Path id="1" bx="10" by="120" bx1="10" by1="-20" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="2" description="straight up 2">
+		<Path id="1" bx="20" by="120" bx1="20" by1="-20" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="3" description="straight up 3">
+		<Path id="1" bx="30" by="120" bx1="30" by1="-20" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="4" description="straight up 4">
+		<Path id="1" bx="40" by="120" bx1="40" by1="-20" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="5" description="straight up 5">
+		<Path id="1" bx="50" by="120" bx1="50" by1="-20" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="6" description="straight up 6">
+		<Path id="1" bx="60" by="120" bx1="60" by1="-20" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="7" description="straight up 7">
+		<Path id="1" bx="70" by="120" bx1="70" by1="-20" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="8" description="straight up 8">
+		<Path id="1" bx="80" by="120" bx1="80" by1="-20" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="9" description="straight up 9">
+		<Path id="1" bx="90" by="120" bx1="90" by1="-20" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="11" description="straight up 1">
+		<Path id="1" bx="10" by="120" bx1="10" by1="70" time="2" angle=""></Path>
+		<Path id="2" radius="400" time="2" angle="180"></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="12" description="straight up 2">
+		<Path id="1" bx="20" by="120" bx1="20" by1="70" time="2" angle=""></Path>
+		<Path id="2" radius="400" time="2" angle="180"></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="13" description="straight up 3">
+		<Path id="1" bx="30" by="120" bx1="30" by1="70" time="2" angle=""></Path>
+		<Path id="2" radius="400" time="2" angle="180"></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="14" description="straight up 4">
+		<Path id="1" bx="40" by="120" bx1="40" by1="70" time="2" angle=""></Path>
+		<Path id="2" radius="400" time="2" angle="180"></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="15" description="straight up 5">
+		<Path id="1" bx="50" by="120" bx1="50" by1="70" time="2" angle=""></Path>
+		<Path id="2" radius="400" time="2" angle="-180"></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="16" description="straight up 6">
+		<Path id="1" bx="60" by="120" bx1="60" by1="70" time="2" angle=""></Path>
+		<Path id="2" radius="400" time="2" angle="-180"></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="17" description="straight up 7">
+		<Path id="1" bx="70" by="120" bx1="70" by1="70" time="2" angle=""></Path>
+		<Path id="2" radius="400" time="2" angle="-180"></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="18" description="straight up 8">
+		<Path id="1" bx="80" by="120" bx1="80" by1="70" time="2" angle=""></Path>
+		<Path id="2" radius="400" time="2" angle="-180"></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="19" description="straight up 9">
+		<Path id="1" bx="90" by="120" bx1="90" by1="70" time="2" angle=""></Path>
+		<Path id="2" radius="400" time="2" angle="-180"></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="21" description="straight up 1">
+		<Path id="1" bx="5" by="120" bx1="5" by1="-20" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="22" description="straight up 2">
+		<Path id="1" bx="15" by="120" bx1="15" by1="-20" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="23" description="straight up 3">
+		<Path id="1" bx="25" by="120" bx1="25" by1="-20" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="24" description="straight up 4">
+		<Path id="1" bx="35" by="120" bx1="35" by1="-20" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="25" description="straight up 5">
+		<Path id="1" bx="45" by="120" bx1="45" by1="-20" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="26" description="straight up 6">
+		<Path id="1" bx="55" by="120" bx1="55" by1="-20" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="27" description="straight up 7">
+		<Path id="1" bx="65" by="120" bx1="65" by1="-20" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="28" description="straight up 8">
+		<Path id="1" bx="75" by="120" bx1="75" by1="-20" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="29" description="straight up 9">
+		<Path id="1" bx="85" by="120" bx1="85" by1="-20" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="30" description="straight up 9">
+		<Path id="1" bx="95" by="120" bx1="95" by1="-20" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	
+	
+	
+	
+	<PathGroup id="101" description="straight up pause 50percent 1">
+		<Path id="1" bx="10" by="120" bx1="10" by1="50" time="2" angle=""></Path>
+		<Path id="2" bx="10" by="50" bx1="10" by1="49.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="102" description="straight up pause 50percent 2">
+		<Path id="1" bx="20" by="120" bx1="20" by1="50" time="2" angle=""></Path>
+		<Path id="2" bx="20" by="50" bx1="20" by1="49.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="103" description="straight up pause 50percent 3">
+		<Path id="1" bx="30" by="120" bx1="30" by1="50" time="2" angle=""></Path>
+		<Path id="2" bx="30" by="50" bx1="30" by1="49.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="104" description="straight up pause 50percent 4">
+		<Path id="1" bx="40" by="120" bx1="40" by1="50" time="2" angle=""></Path>
+		<Path id="2" bx="40" by="50" bx1="40" by1="49.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="105" description="straight up pause 50percent 5">
+		<Path id="1" bx="50" by="120" bx1="50" by1="50" time="2" angle=""></Path>
+		<Path id="2" bx="50" by="50" bx1="50" by1="49.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="106" description="straight up pause 50percent 6">
+		<Path id="1" bx="60" by="120" bx1="60" by1="50" time="2" angle=""></Path>
+		<Path id="2" bx="60" by="50" bx1="60" by1="49.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="107" description="straight pause up 50percent 7">
+		<Path id="1" bx="70" by="120" bx1="70" by1="50" time="2" angle=""></Path>
+		<Path id="2" bx="70" by="50" bx1="70" by1="49.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="108" description="straight pause up 50percent 8">
+		<Path id="1" bx="80" by="120" bx1="80" by1="50" time="2" angle=""></Path>
+		<Path id="2" bx="80" by="50" bx1="80" by1="49.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="109" description="straight pause up 50percent 9">
+		<Path id="1" bx="90" by="120" bx1="90" by1="50" time="2" angle=""></Path>
+		<Path id="2" bx="90" by="50" bx1="90" by1="49.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="111" description="straight up pause 60percent 1">
+		<Path id="1" bx="10" by="120" bx1="10" by1="60" time="2" angle=""></Path>
+		<Path id="2" bx="10" by="60" bx1="10" by1="59.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="112" description="straight up pause 60percent 2">
+		<Path id="1" bx="20" by="120" bx1="20" by1="60" time="2" angle=""></Path>
+		<Path id="2" bx="20" by="60" bx1="20" by1="59.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="113" description="straight up pause 60percent 3">
+		<Path id="1" bx="30" by="120" bx1="30" by1="60" time="2" angle=""></Path>
+		<Path id="2" bx="30" by="60" bx1="30" by1="59.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="114" description="straight up pause 60percent 4">
+		<Path id="1" bx="40" by="120" bx1="40" by1="60" time="2" angle=""></Path>
+		<Path id="2" bx="40" by="60" bx1="40" by1="59.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="115" description="straight up pause 60percent 5">
+		<Path id="1" bx="50" by="120" bx1="50" by1="60" time="2" angle=""></Path>
+		<Path id="2" bx="50" by="60" bx1="50" by1="59.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="116" description="straight up pause 60percent 6">
+		<Path id="1" bx="60" by="120" bx1="60" by1="60" time="2" angle=""></Path>
+		<Path id="2" bx="60" by="60" bx1="60" by1="59.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="117" description="straight pause up 60percent 7">
+		<Path id="1" bx="70" by="120" bx1="70" by1="60" time="2" angle=""></Path>
+		<Path id="2" bx="70" by="60" bx1="70" by1="59.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="118" description="straight pause up 60percent 8">
+		<Path id="1" bx="80" by="120" bx1="80" by1="60" time="2" angle=""></Path>
+		<Path id="2" bx="80" by="60" bx1="80" by1="59.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="119" description="straight pause up 60percent 9">
+		<Path id="1" bx="90" by="120" bx1="90" by1="60" time="2" angle=""></Path>
+		<Path id="2" bx="90" by="60" bx1="90" by1="59.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="121" description="straight up pause 70percent 1">
+		<Path id="1" bx="10" by="120" bx1="10" by1="70" time="2" angle=""></Path>
+		<Path id="2" bx="10" by="70" bx1="10" by1="69.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="122" description="straight up pause 70percent 2">
+		<Path id="1" bx="20" by="120" bx1="20" by1="70" time="2" angle=""></Path>
+		<Path id="2" bx="20" by="70" bx1="20" by1="69.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="123" description="straight up pause 60percent 3">
+		<Path id="1" bx="30" by="120" bx1="30" by1="70" time="2" angle=""></Path>
+		<Path id="2" bx="30" by="70" bx1="30" by1="69.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="124" description="straight up pause 60percent 4">
+		<Path id="1" bx="40" by="120" bx1="40" by1="70" time="2" angle=""></Path>
+		<Path id="2" bx="40" by="70" bx1="40" by1="69.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="125" description="straight up pause 60percent 5">
+		<Path id="1" bx="50" by="120" bx1="50" by1="70" time="2" angle=""></Path>
+		<Path id="2" bx="50" by="70" bx1="50" by1="69.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="126" description="straight up pause 60percent 6">
+		<Path id="1" bx="60" by="120" bx1="60" by1="70" time="2" angle=""></Path>
+		<Path id="2" bx="60" by="70" bx1="60" by1="69.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="127" description="straight pause up 60percent 7">
+		<Path id="1" bx="70" by="120" bx1="70" by1="70" time="2" angle=""></Path>
+		<Path id="2" bx="70" by="70" bx1="70" by1="69.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="128" description="straight pause up 60percent 8">
+		<Path id="1" bx="80" by="120" bx1="80" by1="70" time="2" angle=""></Path>
+		<Path id="2" bx="80" by="70" bx1="80" by1="69.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="129" description="straight pause up 60percent 9">
+		<Path id="1" bx="90" by="120" bx1="90" by1="70" time="2" angle=""></Path>
+		<Path id="2" bx="90" by="70" bx1="90" by1="69.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="131" description="straight up pause 60percent 1">
+		<Path id="1" bx="10" by="120" bx1="10" by1="80" time="2" angle=""></Path>
+		<Path id="2" bx="10" by="80" bx1="10" by1="79.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="132" description="straight up pause 60percent 2">
+		<Path id="1" bx="20" by="120" bx1="20" by1="80" time="2" angle=""></Path>
+		<Path id="2" bx="20" by="80" bx1="20" by1="79.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="133" description="straight up pause 60percent 3">
+		<Path id="1" bx="30" by="120" bx1="30" by1="80" time="2" angle=""></Path>
+		<Path id="2" bx="30" by="80" bx1="30" by1="79.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="134" description="straight up pause 60percent 4">
+		<Path id="1" bx="40" by="120" bx1="40" by1="80" time="2" angle=""></Path>
+		<Path id="2" bx="40" by="80" bx1="40" by1="79.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="135" description="straight up pause 60percent 5">
+		<Path id="1" bx="50" by="120" bx1="50" by1="80" time="2" angle=""></Path>
+		<Path id="2" bx="50" by="80" bx1="50" by1="79.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="136" description="straight up pause 60percent 6">
+		<Path id="1" bx="60" by="120" bx1="60" by1="80" time="2" angle=""></Path>
+		<Path id="2" bx="60" by="80" bx1="60" by1="79.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="137" description="straight pause up 60percent 7">
+		<Path id="1" bx="70" by="120" bx1="70" by1="80" time="2" angle=""></Path>
+		<Path id="2" bx="70" by="80" bx1="70" by1="79.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="138" description="straight pause up 60percent 8">
+		<Path id="1" bx="80" by="120" bx1="80" by1="80" time="2" angle=""></Path>
+		<Path id="2" bx="80" by="80" bx1="80" by1="79.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="139" description="straight pause up 60percent 9">
+		<Path id="1" bx="90" by="120" bx1="90" by1="80" time="2" angle=""></Path>
+		<Path id="2" bx="90" by="80" bx1="90" by1="79.9" time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="141" description="straight up pause 60percent 1">
+		<Path id="1" bx="10" by="120" bx1="10" by1="90" time="2" angle=""></Path>
+		<Path id="2" bx="10" by="90" bx1="10" by1="89.9"  time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="142" description="straight up pause 60percent 2">
+		<Path id="1" bx="20" by="120" bx1="20" by1="90" time="2" angle=""></Path>
+		<Path id="2" bx="20" by="90" bx1="20" by1="89.9"  time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="143" description="straight up pause 60percent 3">
+		<Path id="1" bx="30" by="120" bx1="30" by1="90" time="2" angle=""></Path>
+		<Path id="2" bx="30" by="90" bx1="30" by1="89.9"  time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="144" description="straight up pause 60percent 4">
+		<Path id="1" bx="40" by="120" bx1="40" by1="90" time="2" angle=""></Path>
+		<Path id="2" bx="40" by="90" bx1="40" by1="89.9"  time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="145" description="straight up pause 60percent 5">
+		<Path id="1" bx="50" by="120" bx1="50" by1="90" time="2" angle=""></Path>
+		<Path id="2" bx="50" by="90" bx1="50" by1="89.9"  time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="146" description="straight up pause 60percent 6">
+		<Path id="1" bx="60" by="120" bx1="60" by1="90" time="2" angle=""></Path>
+		<Path id="2" bx="60" by="90" bx1="60" by1="89.9"  time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="147" description="straight pause up 60percent 7">
+		<Path id="1" bx="70" by="120" bx1="70" by1="90" time="2" angle=""></Path>
+		<Path id="2" bx="70" by="90" bx1="70" by1="89.9"  time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="148" description="straight pause up 60percent 8">
+		<Path id="1" bx="80" by="120" bx1="80" by1="90" time="2" angle=""></Path>
+		<Path id="2" bx="80" by="90" bx1="80" by1="89.9"  time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="149" description="straight pause up 60percent 9">
+		<Path id="1" bx="90" by="120" bx1="90" by1="90" time="2" angle=""></Path>
+		<Path id="2" bx="90" by="90" bx1="90" by1="89.9"  time="12000" angle=""></Path>
+	</PathGroup>
+	<PathGroup id="151" description="straight up pause 60percent 1">
+		<Path id="1" bx="10" by="120" bx1="10" by1="80" time="2" angle=""></Path>
+		<Path id="2" bx="10" by="90" bx1="10" by1="79.9" time="0.5" angle=""></Path>
+		<Path id="3" radius="600" time="5" angle="-90"></Path>
+		<Died id="4" ></Died>
+	</PathGroup>
+	<PathGroup id="152" description="straight up pause 60percent 2">
+		<Path id="1" bx="20" by="120" bx1="20" by1="80" time="2" angle=""></Path>
+		<Path id="2" bx="20" by="90" bx1="20" by1="79.9" time="0.5" angle=""></Path>
+		<Path id="3" radius="700" time="5" angle="-70"></Path>
+		<Died id="4" ></Died>
+	</PathGroup>
+	<PathGroup id="153" description="straight up pause 60percent 3">
+		<Path id="1" bx="30" by="120" bx1="30" by1="80" time="2" angle=""></Path>
+		<Path id="2" bx="30" by="90" bx1="30" by1="79.9" time="0.5" angle=""></Path>
+		<Path id="3" radius="800" time="4" angle="-50"></Path>
+		<Died id="4" ></Died>
+	</PathGroup>
+	<PathGroup id="154" description="straight up pause 60percent 4">
+		<Path id="1" bx="40" by="120" bx1="40" by1="80" time="2" angle=""></Path>
+		<Path id="2" bx="40" by="90" bx1="40" by1="79.9" time="0.5" angle=""></Path>
+		<Path id="3" radius="900" time="4" angle="-30"></Path>
+		<Path id="4" radius="900" time="4" angle="-30"></Path>
+		<Died id="5" ></Died>
+	</PathGroup>
+	<PathGroup id="155" description="straight up pause 60percent 5">
+		<Path id="1" bx="50" by="120" bx1="50" by1="80" time="2" angle=""></Path>
+		<Path id="2" bx="50" by="90" bx1="50" by1="79.9" time="0.5" angle=""></Path>
+		<Path id="3" bx1="50" by1="-20" time="7" angle=""></Path>
+		<Died id="4" ></Died>
+	</PathGroup>
+	<PathGroup id="156" description="straight up pause 60percent 6">
+		<Path id="1" bx="60" by="120" bx1="60" by1="80" time="2" angle=""></Path>
+		<Path id="2" bx="60" by="90" bx1="60" by1="79.9" time="0.5" angle=""></Path>
+		<Path id="3" radius="900" time="4" angle="30"></Path>
+		<Path id="4" radius="900" time="4" angle="30"></Path>
+		<Died id="5" ></Died>
+	</PathGroup>
+	<PathGroup id="157" description="straight pause up 60percent 7">
+		<Path id="1" bx="70" by="120" bx1="70" by1="80" time="2" angle=""></Path>
+		<Path id="2" bx="70" by="90" bx1="70" by1="79.9" time="0.5" angle=""></Path>
+		<Path id="3" radius="800" time="4" angle="50"></Path>
+		<Died id="4" ></Died>
+	</PathGroup>
+	<PathGroup id="158" description="straight pause up 60percent 8">
+		<Path id="1" bx="80" by="120" bx1="80" by1="80" time="2" angle=""></Path>
+		<Path id="2" bx="80" by="90" bx1="80" by1="79.9" time="0.5" angle=""></Path>
+		<Path id="3" radius="700" time="5" angle="70"></Path>
+		<Died id="4" ></Died>
+	</PathGroup>
+	<PathGroup id="159" description="straight pause up 60percent 9">
+		<Path id="1" bx="90" by="120" bx1="90" by1="80" time="2" angle=""></Path>
+		<Path id="2" bx="90" by="90" bx1="90" by1="79.9" time="0.5" angle=""></Path>
+		<Path id="3" radius="600" time="5" angle="90"></Path>
+		<Died id="4" ></Died>
+	</PathGroup>
+
+	
+	
+	
+	
+	<PathGroup id="201" description="straight down 1">
+		<Path id="1" bx="10" by="-20" bx1="10" by1="120" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="202" description="straight down 2">
+		<Path id="1" bx="20" by="-20" bx1="20" by1="120" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="203" description="straight down 3">
+		<Path id="1" bx="30" by="-20" bx1="30" by1="120" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="204" description="straight down 4">
+		<Path id="1" bx="40" by="-20" bx1="40" by1="120" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="205" description="straight down 5">
+		<Path id="1" bx="50" by="-20" bx1="50" by1="120" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="206" description="straight down 6">
+		<Path id="1" bx="60" by="-20" bx1="60" by1="120" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="207" description="straight down 7">
+		<Path id="1" bx="70" by="-20" bx1="70" by1="120" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="208" description="straight down 8">
+		<Path id="1" bx="80" by="-20" bx1="80" by1="120" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="209" description="straight down 9">
+		<Path id="1" bx="90" by="-20" bx1="90" by1="120" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	
+	
+	
+	
+	<PathGroup id="301" description="straight down pause 10percent 1">
+		<Path id="1" bx="10" by="-20" bx1="10" by1="10" time="2" angle=""></Path>
+		<Path id="2" bx="10" by="10" bx1="10" by1="10.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="302" description="straight down pause 30percent 2">
+		<Path id="1" bx="20" by="-20" bx1="20" by1="10" time="2" angle=""></Path>
+		<Path id="2" bx="20" by="10" bx1="20" by1="10.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="303" description="straight down pause 30percent 3">
+		<Path id="1" bx="30" by="-20" bx1="30" by1="10" time="2" angle=""></Path>
+		<Path id="2" bx="30" by="10" bx1="30" by1="10.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="304" description="straight down pause 30percent 4">
+		<Path id="1" bx="40" by="-20" bx1="40" by1="10" time="2" angle=""></Path>
+		<Path id="2" bx="40" by="10" bx1="40" by1="10.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="305" description="straight down pause 30percent 5">
+		<Path id="1" bx="50" by="-20" bx1="50" by1="10" time="2" angle=""></Path>
+		<Path id="2" bx="50" by="10" bx1="50" by1="10.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="306" description="straight down pause 30percent 6">
+		<Path id="1" bx="60" by="-20" bx1="60" by1="10" time="2" angle=""></Path>
+		<Path id="2" bx="60" by="10" bx1="60" by1="10.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="307" description="straight down pause 30percent 7">
+		<Path id="1" bx="70" by="-20" bx1="70" by1="10" time="2" angle=""></Path>
+		<Path id="2" bx="70" by="10" bx1="70" by1="10.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="308" description="straight down pause 30percent 8">
+		<Path id="1" bx="80" by="-20" bx1="80" by1="10" time="2" angle=""></Path>
+		<Path id="2" bx="80" by="10" bx1="80" by1="10.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="309" description="straight down pause 30percent 9">
+		<Path id="1" bx="90" by="-20" bx1="90" by1="10" time="2" angle=""></Path>
+		<Path id="2" bx="90" by="10" bx1="90" by1="10.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="311" description="straight down pause 30percent 1">
+		<Path id="1" bx="10" by="-20" bx1="10" by1="20" time="2" angle=""></Path>
+		<Path id="2" bx="10" by="20" bx1="10" by1="20.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="312" description="straight down pause 30percent 2">
+		<Path id="1" bx="20" by="-20" bx1="20" by1="20" time="2" angle=""></Path>
+		<Path id="2" bx="20" by="20" bx1="20" by1="20.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="313" description="straight down pause 30percent 3">
+		<Path id="1" bx="30" by="-20" bx1="30" by1="20" time="2" angle=""></Path>
+		<Path id="2" bx="30" by="20" bx1="30" by1="20.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="314" description="straight down pause 30percent 4">
+		<Path id="1" bx="40" by="-20" bx1="40" by1="20" time="2" angle=""></Path>
+		<Path id="2" bx="40" by="20" bx1="40" by1="20.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="315" description="straight down pause 30percent 5">
+		<Path id="1" bx="50" by="-20" bx1="50" by1="20" time="2" angle=""></Path>
+		<Path id="2" bx="50" by="20" bx1="50" by1="20.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="316" description="straight down pause 30percent 6">
+		<Path id="1" bx="60" by="-20" bx1="60" by1="20" time="2" angle=""></Path>
+		<Path id="2" bx="60" by="20" bx1="60" by1="20.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="317" description="straight down pause 30percent 7">
+		<Path id="1" bx="70" by="-20" bx1="70" by1="20" time="2" angle=""></Path>
+		<Path id="2" bx="70" by="20" bx1="70" by1="20.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="318" description="straight down pause 30percent 8">
+		<Path id="1" bx="80" by="-20" bx1="80" by1="20" time="2" angle=""></Path>
+		<Path id="2" bx="80" by="20" bx1="80" by1="20.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="319" description="straight down pause 30percent 9">
+		<Path id="1" bx="90" by="-20" bx1="90" by1="20" time="2" angle=""></Path>
+		<Path id="2" bx="90" by="20" bx1="90" by1="20.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="321" description="straight down pause 30percent 1">
+		<Path id="1" bx="10" by="-20" bx1="10" by1="30" time="2" angle=""></Path>
+		<Path id="2" bx="10" by="30" bx1="10" by1="30.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="322" description="straight down pause 30percent 2">
+		<Path id="1" bx="20" by="-20" bx1="20" by1="30" time="2" angle=""></Path>
+		<Path id="2" bx="20" by="30" bx1="20" by1="30.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="323" description="straight down pause 30percent 3">
+		<Path id="1" bx="30" by="-20" bx1="30" by1="30" time="2" angle=""></Path>
+		<Path id="2" bx="30" by="30" bx1="30" by1="30.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="324" description="straight down pause 30percent 4">
+		<Path id="1" bx="40" by="-20" bx1="40" by1="30" time="2" angle=""></Path>
+		<Path id="2" bx="40" by="30" bx1="40" by1="30.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="325" description="straight down pause 30percent 5">
+		<Path id="1" bx="50" by="-20" bx1="50" by1="30" time="2" angle=""></Path>
+		<Path id="2" bx="50" by="10" bx1="50" by1="30.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="326" description="straight down pause 30percent 6">
+		<Path id="1" bx="60" by="-20" bx1="60" by1="30" time="2" angle=""></Path>
+		<Path id="2" bx="60" by="30" bx1="60" by1="30.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="327" description="straight down pause 30percent 7">
+		<Path id="1" bx="70" by="-20" bx1="70" by1="30" time="2" angle=""></Path>
+		<Path id="2" bx="70" by="30" bx1="70" by1="30.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="328" description="straight down pause 30percent 8">
+		<Path id="1" bx="80" by="-20" bx1="80" by1="30" time="2" angle=""></Path>
+		<Path id="2" bx="80" by="30" bx1="80" by1="30.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="329" description="straight down pause 30percent 9">
+		<Path id="1" bx="90" by="-20" bx1="90" by1="30" time="2" angle=""></Path>
+		<Path id="2" bx="90" by="30" bx1="90" by1="30.1" time="12000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="331" description="straight down pause 30percent 1">
+		<Path id="1" bx="10" by="-20" bx1="10" by1="60" time="2" angle=""></Path>
+		<StayAt id="2" time="2"></StayAt>
+		<MoveTo id="3" bx1="10" by1="110" time="2"/>
+		<Died id="4" ></Died>
+	</PathGroup>
+	<PathGroup id="332" description="straight down pause 30percent 2">
+		<Path id="1" bx="20" by="-20" bx1="20" by1="60" time="2" angle=""></Path>
+		<StayAt id="2" time="2"></StayAt>
+		<MoveTo id="3" bx1="20" by1="110" time="2"/>
+		<Died id="4" ></Died>
+	</PathGroup>
+	<PathGroup id="333" description="straight down pause 30percent 3">
+		<Path id="1" bx="30" by="-20" bx1="30" by1="60" time="2" angle=""></Path>
+		<StayAt id="2" time="2"></StayAt>
+		<MoveTo id="3" bx1="30" by1="110" time="2"/>
+		<Died id="4" ></Died>
+	</PathGroup>
+	<PathGroup id="334" description="straight down pause 30percent 4">
+		<Path id="1" bx="40" by="-20" bx1="40" by1="60" time="2" angle=""></Path>
+		<StayAt id="2" time="2"></StayAt>
+		<MoveTo id="3" bx1="40" by1="110" time="2"/>
+		<Died id="4" ></Died>
+	</PathGroup>
+	<PathGroup id="335" description="straight down pause 30percent 5">
+		<Path id="1" bx="50" by="-20" bx1="50" by1="60" time="2" angle=""></Path>
+		<StayAt id="2" time="2"></StayAt>
+		<MoveTo id="3" bx1="50" by1="110" time="2"/>
+		<Died id="4" ></Died>	
+	</PathGroup>
+	<PathGroup id="336" description="straight down pause 30percent 6">
+		<Path id="1" bx="60" by="-20" bx1="60" by1="60" time="2" angle=""></Path>
+		<StayAt id="2" time="2"></StayAt>
+		<MoveTo id="3" bx1="60" by1="110" time="2"/>
+		<Died id="4" ></Died>
+	</PathGroup>
+	<PathGroup id="337" description="straight down pause 30percent 7">
+		<Path id="1" bx="70" by="-20" bx1="70" by1="60" time="2" angle=""></Path>
+		<StayAt id="2" time="2"></StayAt>
+		<MoveTo id="3" bx1="70" by1="110" time="2"/>
+		<Died id="4" ></Died>
+	</PathGroup>
+	<PathGroup id="338" description="straight down pause 30percent 8">
+		<Path id="1" bx="80" by="-20" bx1="80" by1="60" time="2" angle=""></Path>
+		<StayAt id="2" time="2"></StayAt>
+		<MoveTo id="3" bx1="80" by1="110" time="2"/>
+		<Died id="4" ></Died>
+	</PathGroup>
+	<PathGroup id="339" description="straight down pause 30percent 9">
+		<Path id="1" bx="90" by="-20" bx1="90" by1="60" time="2" angle=""></Path>
+		<StayAt id="2" time="2"></StayAt>
+		<MoveTo id="3" bx1="90" by1="110" time="2"/>
+		<Died id="4" ></Died>
+	</PathGroup>
+	
+	
+	
+	<PathGroup id="401" description="straight left up 1">
+		<Path id="1" bx="-20" by="58" bx1="120" by1="2" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="402" description="straight left up 2">
+		<Path id="1" bx="-20" by="66" bx1="120" by1="10" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="403" description="straight left up 3">
+		<Path id="1" bx="-20" by="74" bx1="120" by1="18" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="404" description="straight left up 4">
+		<Path id="1" bx="-20" by="82" bx1="120" by1="26" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="405" description="straight left up 5">
+		<Path id="1" bx="-20" by="90" bx1="120" by1="34" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="406" description="straight left up 6">
+		<Path id="1" bx="-20" by="98" bx1="120" by1="42" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="411" description="straight left up 60pc pause 1">
+		<Path id="1" bx="-20" by="70" bx1="25" by1="60" time="2" angle=""></Path>
+		<Path id="2" bx="25" by="60" bx1="25" by1="59" time="2000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="412" description="straight left up 2">
+		<Path id="1" bx="-20" by="75" bx1="35" by1="60" time="2" angle=""></Path>
+		<Path id="2" bx="35" by="60" bx1="35" by1="59" time="2000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="413" description="straight left up 3">
+		<Path id="1" bx="-20" by="80" bx1="45" by1="60" time="2" angle=""></Path>
+		<Path id="2" bx="45" by="60" bx1="45" by1="59" time="2000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="414" description="straight left up 4">
+		<Path id="1" bx="-20" by="85" bx1="55" by1="60" time="2" angle=""></Path>
+		<Path id="2" bx="55" by="60" bx1="55" by1="59" time="2000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="415" description="straight left up 5">
+		<Path id="1" bx="-20" by="90" bx1="65" by1="60" time="2" angle=""></Path>
+		<Path id="2" bx="65" by="60" bx1="65" by1="59" time="2000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="416" description="straight left up 6">
+		<Path id="1" bx="-20" by="95" bx1="75" by1="60" time="2" angle=""></Path>
+		<Path id="2" bx="75" by="60" bx1="75" by1="59" time="2000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+		
+		
+	<PathGroup id="501" description="straight right up 1">
+		<Path id="1" bx="120" by="58" bx1="-20" by1="2" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="502" description="straight right up 2">
+		<Path id="1" bx="120" by="66" bx1="-20" by1="10" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="503" description="straight right up 3">
+		<Path id="1" bx="120" by="74" bx1="-20" by1="18" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="504" description="straight right up 4">
+		<Path id="1" bx="120" by="82" bx1="-20" by1="26" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="505" description="straight right up 5">
+		<Path id="1" bx="120" by="90" bx1="-20" by1="34" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="506" description="straight right up 6">
+		<Path id="1" bx="120" by="98" bx1="-20" by1="42" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="511" description="straight right up 60pc pause 1">
+		<Path id="1" bx="120" by="70" bx1="75" by1="60" time="2" angle=""></Path>
+		<Path id="2" bx1="75" by1="59" time="2000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="512" description="straight right up 2">
+		<Path id="1" bx="120" by="75" bx1="65" by1="60" time="2" angle=""></Path>
+		<Path id="2" bx1="65" by1="59" time="2000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="513" description="straight right up 3">
+		<Path id="1" bx="120" by="80" bx1="55" by1="60" time="2" angle=""></Path>
+		<Path id="2" bx1="55" by1="59" time="2000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="514" description="straight right up 4">
+		<Path id="1" bx="120" by="85" bx1="45" by1="60" time="2" angle=""></Path>
+		<Path id="2" bx1="45" by1="59" time="2000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="515" description="straight right up 5">
+		<Path id="1" bx="120" by="90" bx1="35" by1="60" time="2" angle=""></Path>
+		<Path id="2" bx1="35" by1="59" time="2000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="516" description="straight right up 6">
+		<Path id="1" bx="120" by="95" bx1="25" by1="60" time="2" angle=""></Path>
+		<Path id="2" bx1="25" by1="59" time="2000" angle=""></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+		
+		
+	<PathGroup id="601" description="straight left down 1">
+		<Path id="1" bx="-20" by="2" bx1="120" by1="58" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="602" description="straight left down 2">
+		<Path id="1" bx="-20" by="10" bx1="120" by1="66" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="603" description="straight left down 3">
+		<Path id="1" bx="-20" by="18" bx1="120" by1="74" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="604" description="straight left down 4">
+		<Path id="1" bx="-20" by="26" bx1="120" by1="82" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="605" description="straight left down 5">
+		<Path id="1" bx="-20" by="34" bx1="120" by1="90" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="606" description="straight left down 6">
+		<Path id="1" bx="-20" by="42" bx1="120" by1="98" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+		
+		
+	<PathGroup id="701" description="straight right down 1">
+		<Path id="1" bx="120" by="2" bx1="-20" by1="58" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="702" description="straight right down 2">
+		<Path id="1" bx="120" by="10" bx1="-20" by1="66" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="703" description="straight right down 3">
+		<Path id="1" bx="120" by="18" bx1="-20" by1="74" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="704" description="straight right down 4">
+		<Path id="1" bx="120" by="26" bx1="-20" by1="82" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="705" description="straight right down 5">
+		<Path id="1" bx="120" by="34" bx1="-20" by1="90" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	<PathGroup id="706" description="straight right down 6">
+		<Path id="1" bx="120" by="42" bx1="-20" by1="98" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+	
+	
+	
+	<PathGroup id="901" description="straight left up 60pc pause 1">
+		<Path id="1" bx="120" by="120" bx1="75" by1="75" time="2" angle=""></Path>
+		<Path id="2" radius="120" time="2" angle="-360"></Path>
+		<Path id="3" bx1="50" by1="50" time="2" angle=""></Path>
+		<Path id="4" radius="120" time="2" angle="360"></Path>
+		<Path id="5" bx1="25" by1="25" time="2" angle=""></Path>
+		<Path id="6" radius="120" time="2" angle="-360"></Path>
+		<Path id="7" bx1="-20" by1="-20" time="2" angle=""></Path>
+		<Died id="8" ></Died>
+	</PathGroup>
+	<PathGroup id="902" description="straight left up 60pc pause 1">
+		<Path id="1" bx="-20" by="120" bx1="25" by1="75" time="2" angle=""></Path>
+		<Path id="2" radius="120" time="2" angle="360"></Path>
+		<Path id="3" bx1="50" by1="50" time="2" angle=""></Path>
+		<Path id="4" radius="120" time="2" angle="-360"></Path>
+		<Path id="5" bx1="75" by1="25" time="2" angle=""></Path>
+		<Path id="6" radius="120" time="2" angle="360"></Path>
+		<Path id="7" bx1="120" by1="-20" time="2" angle=""></Path>
+		<Died id="8" ></Died>
+	</PathGroup>
+	<PathGroup id="903" description="straight left up 60pc pause 1">
+		<Path id="1" bx="-20" by="80" bx1="25" by1="80" time="1" angle=""></Path>
+		<Path id="2" radius="120" time="2" angle="-360"></Path>
+		<Path id="3" bx1="50" by1="80" time="1" angle=""></Path>
+		<Path id="4" radius="120" time="2" angle="-360"></Path>
+		<Path id="5" bx1="75" by1="80" time="1" angle=""></Path>
+		<Path id="6" radius="120" time="2" angle="-360"></Path>
+		<Path id="7" bx1="120" by1="80" time="1" angle=""></Path>
+		<Died id="8" ></Died>
+	</PathGroup>
+	<PathGroup id="904" description="straight left up 60pc pause 1">
+		<Path id="1" bx="120" by="50" bx1="62.5" by1="50" time="1.3" angle=""></Path>
+		<Path id="2" radius="120" time="2" angle="-360"></Path>
+		<Path id="3" bx1="37.5" by1="50" time="1.3" angle=""></Path>
+		<Path id="4" radius="120" time="2" angle="-360"></Path>
+		<Path id="5" bx1="-20" by1="50" time="1.3" angle=""></Path>
+		<Died id="6" ></Died>
+	</PathGroup>
+	<PathGroup id="905" description="straight left up 60pc pause 1">
+		<Path id="1" bx="-20" by="80" bx1="25" by1="80" time="1.3" angle=""></Path>
+		<Path id="2" radius="150" time="2" angle="-270"></Path>
+		<Path id="3" radius="50" time="0.5" angle="-120"></Path>
+		<Path id="4" bx1="70" by1="60" time="1.3" angle=""></Path>
+		<Path id="5" radius="150" time="2" angle="270"></Path>
+		<Path id="6" bx1="50" by1="50" time="1.3" angle=""></Path>
+		<Path id="7" radius="150" time="2" angle="250"></Path>
+		<Path id="8" radius="70" time="0.5" angle="120"></Path>
+		<Path id="9" bx1="40" by1="-20" time="1.3" angle=""></Path>
+		<Died id="10" ></Died>
+	</PathGroup>
+	<PathGroup id="906" description="straight left up 60pc pause 1">
+		<Path id="1" bx="120" by="120" bx1="50" by1="120" time="1.3" angle=""></Path>
+		<Path id="2" radius="80" time="0.5" angle="180"></Path>
+		<Path id="3" radius="80" time="0.5" angle="-180"></Path>
+		<Path id="4" radius="80" time="0.5" angle="180"></Path>
+		<Path id="5" radius="80" time="0.5" angle="-180"></Path>
+		<Path id="6" radius="80" time="0.5" angle="180"></Path>
+		<Path id="7" radius="80" time="0.5" angle="-180"></Path>
+		<Path id="8" radius="80" time="0.5" angle="180"></Path>
+		<Path id="9" radius="80" time="0.5" angle="-180"></Path>
+		<Path id="10" radius="80" time="0.5" angle="180"></Path>
+		<Path id="11" radius="80" time="0.5" angle="-180"></Path>
+		<Path id="12" radius="80" time="0.5" angle="180"></Path>
+		<Died id="13" ></Died>
+	</PathGroup>
+	<PathGroup id="907" description="straight left up 60pc pause 1">
+		<Path id="1" bx="120" by="120" bx1="25" by1="120" time="1.3" angle=""></Path>
+		<Path id="2" radius="80" time="0.5" angle="180"></Path>
+		<Path id="3" radius="80" time="0.5" angle="-180"></Path>
+		<Path id="4" radius="80" time="0.5" angle="180"></Path>
+		<Path id="5" radius="80" time="0.5" angle="-180"></Path>
+		<Path id="6" radius="80" time="0.5" angle="180"></Path>
+		<Path id="7" radius="80" time="0.5" angle="-180"></Path>
+		<Path id="8" radius="80" time="0.5" angle="180"></Path>
+		<Path id="9" radius="80" time="0.5" angle="-180"></Path>
+		<Path id="10" radius="80" time="0.5" angle="180"></Path>
+		<Path id="11" radius="80" time="0.5" angle="-180"></Path>
+		<Path id="12" radius="80" time="0.5" angle="180"></Path>
+		<Died id="13" ></Died>
+	</PathGroup>
+	<PathGroup id="908" description="straight left up 60pc pause 1">
+		<Path id="1" bx="120" by="120" bx1="75" by1="120" time="1.3" angle=""></Path>
+		<Path id="2" radius="80" time="0.5" angle="180"></Path>
+		<Path id="3" radius="80" time="0.5" angle="-180"></Path>
+		<Path id="4" radius="80" time="0.5" angle="180"></Path>
+		<Path id="5" radius="80" time="0.5" angle="-180"></Path>
+		<Path id="6" radius="80" time="0.5" angle="180"></Path>
+		<Path id="7" radius="80" time="0.5" angle="-180"></Path>
+		<Path id="8" radius="80" time="0.5" angle="180"></Path>
+		<Path id="9" radius="80" time="0.5" angle="-180"></Path>
+		<Path id="10" radius="80" time="0.5" angle="180"></Path>
+		<Path id="11" radius="80" time="0.5" angle="-180"></Path>
+		<Path id="12" radius="80" time="0.5" angle="180"></Path>
+		<Died id="13" ></Died>
+	</PathGroup>
+	<PathGroup id="909" description="straight left up 60pc pause 1">
+		<Path id="1" bx="60" by="120" bx1="50" by1="120" time="1.3"></Path>
+		<Path id="2" bx1="30" by1="60" time="1.3" angle=""></Path>
+		<Path id="3" radius="120" time="1" angle="180"></Path>
+		<Path id="4" radius="120" time="1" angle="-180"></Path>
+		<Path id="5" bx1="50" by1="-20" time="1.3" angle=""></Path>
+		<Died id="6" ></Died>
+	</PathGroup>
+	<PathGroup id="910" description="straight left up 60pc pause 1">
+		<Path id="1" bx="40" by="120" bx1="50" by1="120" time="1.3" angle=""></Path>
+		<Path id="2" bx1="70" by1="60" time="1.3" angle=""></Path>
+		<Path id="3" radius="120" time="1" angle="-180"></Path>
+		<Path id="4" radius="120" time="1" angle="180"></Path>
+		<Path id="5" bx1="50" by1="-20" time="1.3" angle=""></Path>
+		<Died id="6" ></Died>
+	</PathGroup>
+	<PathGroup id="911" description="straight left up 60pc pause 1">
+		<Path id="1" bx="120" by="120" bx1="50" by1="120" time="1.3" angle=""></Path>
+		<Path id="2" radius="120" time="1" angle="180"></Path>
+		<Path id="3" radius="120" time="1" angle="-180"></Path>
+		<Path id="4" radius="280" time="2" angle="-360"></Path>
+		<Path id="5" radius="160" time="1" angle="180"></Path>
+		<Path id="6" radius="160" time="1" angle="-180"></Path>
+		<Died id="7" ></Died>
+	</PathGroup>
+	<PathGroup id="912" description="straight left up 60pc pause 1">
+		<Path id="1" bx="50" by="120" bx1="50" by1="80" time="0.5" angle=""></Path>
+		<Path id="2" radius="80" time="1" angle="180"></Path>
+		<Path id="3" radius="80" time="1" angle="-270"></Path>
+		<Path id="4" radius="80" time="1" angle="180"></Path>
+		<Path id="5" radius="80" time="1" angle="-270"></Path>
+		<Path id="6" radius="80" time="1" angle="180"></Path>
+		<Path id="7" radius="120" time="1" angle="-270"></Path>
+		<Path id="8" radius="80" time="1" angle="180"></Path>
+		<Path id="9" radius="120" time="1" angle="-270"></Path>
+		<Path id="10" bx1="50" by1="-20" time="3" angle=""></Path>
+		<Died id="11" ></Died>
+	</PathGroup>
+	<PathGroup id="913" description="straight left up 60pc pause 1">
+		<Path id="1" bx="-20" by="70" bx1="20" by1="70" time="0.5" angle=""></Path>
+		<Path id="2" radius="200" time="1" angle="60"></Path>
+		<Path id="3" radius="160" time="1" angle="-240"></Path>
+		<Path id="4" radius="30" time="1" angle="180"></Path>
+		<Path id="5" radius="160" time="1" angle="-240"></Path>
+		<Path id="6" radius="200" time="1" angle="60"></Path>
+		<Path id="7" bx1="-20" by1="35" time="3" angle=""></Path>
+		<Died id="8" ></Died>
+	</PathGroup>
+	<PathGroup id="914" description="straight left up 60pc pause 1">
+		<Path id="1" bx="40" by="120" bx1="40" by1="40" time="0.5" angle=""></Path>
+		<Path id="2" radius="60" time="1" angle="180"></Path>
+		<Path id="3" bx1="60" by1="120" time="3" angle=""></Path>
+		<Died id="4" ></Died>
+	</PathGroup>
+	<PathGroup id="915" description="straight left up 60pc pause 1" is_repeat="0" repeat_times="0">
+		<Path id="1" bx="-20" by="80" bx1="20" by1="70" time="0.5" angle=""></Path>
+		<Path id="2" radius="700" time="1" angle="60"></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="916" description="straight left up 60pc pause 1">
+		<Path id="1" bx="120" by="60" bx1="80" by1="70" time="0.5" angle=""></Path>
+		<Path id="2" radius="700" time="1" angle="-60"></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="917" description="straight left up 60pc pause 1">
+		<Path id="1" bx="-20" by="70" bx1="20" by1="70" time="0.5" angle=""></Path>
+		<Path id="2" radius="700" time="1" angle="-60"></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="918" description="straight left up 60pc pause 1">
+		<Path id="1" bx="120" by="60" bx1="80" by1="70" time="0.5" angle=""></Path>
+		<Path id="2" radius="700" time="1" angle="60"></Path>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="919" description="straight left up 60pc pause 1">
+		<Path id="1" bx="0" by="90" bx1="60" by1="90" time="10" angle=""></Path>
+		<Path id="2" radius="200" time="1" angle="-180"></Path>
+		<Path id="3" bx1="0" by1="50"></Path>
+		<Died id="4" ></Died>
+	</PathGroup>
+	<PathGroup id="920" description="straight left up 60pc pause 1">
+		<MoveArc id="1"  bx="120" by="70" radius="1" angle="-90"/>
+		<MoveTo id="2"	bx1="100" by1="70" time="1" angle="" auto_rot="0">></MoveTo>
+		<MoveTo id="3" bx1="83.5" by1="90" time="1" angle="" auto_rot="0">></MoveTo>
+		<MoveTo id="4" bx1="66.6" by1="70" time="1" angle="" auto_rot="0">></MoveTo>
+		<MoveTo id="5" bx1="50" by1="90" time="1" angle="" auto_rot="0">></MoveTo>
+		<MoveTo id="6" bx1="33.3" by1="70" time="1" angle="" auto_rot="0">></MoveTo>
+		<MoveTo id="7" bx1="16.7" by1="90" time="1" angle="" auto_rot="0">></MoveTo>
+		<MoveTo id="8" bx1="0" by1="70" time="1" angle="" auto_rot="0">></MoveTo>
+		<MoveTo id="9" bx1="-20" by1="70" time="1" angle="" auto_rot="0">></MoveTo>
+		<Died id="10" ></Died>
+	</PathGroup>
+	<PathGroup id="921" description="straight left up 60pc pause 1">
+		<MoveArc id="1"  bx="-20" by="70" radius="1" angle="-90"/>
+		<MoveTo id="2"	bx1="0" by1="70" time="1" angle="" auto_rot="0">></MoveTo>
+		<MoveTo id="3" bx1="16.7" by1="90" time="1" angle="" auto_rot="0">></MoveTo>
+		<MoveTo id="4" bx1="33.3" by1="70" time="1" angle="" auto_rot="0">></MoveTo>
+		<MoveTo id="5" bx1="50" by1="90" time="1" angle="" auto_rot="0">></MoveTo>
+		<MoveTo id="6" bx1="66.6" by1="70" time="1" angle="" auto_rot="0">></MoveTo>
+		<MoveTo id="7" bx1="83.5" by1="90" time="1" angle="" auto_rot="0">></MoveTo>
+		<MoveTo id="8" bx1="100" by1="70" time="1" angle="" auto_rot="0">></MoveTo>
+		<MoveTo id="9" bx1="120" by1="70" time="1" angle="" auto_rot="0">></MoveTo>
+		<Died id="10" ></Died>
+	</PathGroup>
+	<PathGroup id="922" description="straight left up 60pc pause 1">
+		<MoveArc id="1"  bx="120" by="80" radius="1" angle="-90"/>
+		<MoveTo id="2"	bx1="-20" by1="80" time="1" angle="" auto_rot="0">></MoveTo>
+		<Died id="3" ></Died>
+	</PathGroup>
+	<PathGroup id="923" description="straight left up 60pc pause 1">
+		<MoveArc id="1"  bx="-20" by="80" radius="1" angle="-90"/>
+		<MoveTo id="2"	bx1="120" by1="80" time="1" angle="" auto_rot="0">></MoveTo>
+		<Died id="3" ></Died>
+	</PathGroup>
+	
+	
+	
+	<PathGroup id="1000" description="straight left up 60pc pause 1">
+		<Path id="1" bx="0" by="-20" bx1="-20" by1="-20" time="5" angle=""></Path>
+		<Path id="2" bx1="-20.5" by1="-20" time="5" angle=""></Path>
+		<Path id="3" bx1="0" by1="-20" time="5" angle=""></Path>
+		<Path id="4" bx1="0" by1="-20.5" time="5" angle=""></Path>
+		<Died id="5" ></Died>
+	</PathGroup>
+	<PathGroup id="1001" description="straight left up 60pc pause 1">
+		<Path id="1" bx="0" by="-20" bx1="20" by1="-20" time="5" angle=""></Path>
+		<Path id="2" bx1="20.5" by1="-20" time="5" angle=""></Path>
+		<Path id="3" bx1="0" by1="-20" time="5" angle=""></Path>
+		<Path id="4" bx1="0" by1="-20.5" time="100" angle=""></Path>
+		<Died id="5" ></Died>
+	</PathGroup>
+	
+	
+	
+	<PathGroup id="1002" description="straight left up 60pc pause 1">
+		<MoveBy id="1" bx="30" by="30" bx1="100" by1="100" moveby_x="5" moveby_y="5" time="1"></MoveBy>
+		<StayAt id="2" time="1"></StayAt>
+		<Repeat id="3" b_id="1" e_id="2" repeat_times="2"></Repeat>
+		<StayAt id="4" time="1"></StayAt>
+		<MoveBy id="5" bx1="100" by1="100" moveby_x="5" moveby_y="5" time="1"></MoveBy>
+		<Repeat id="6" b_id="4" e_id="5" repeat_times="2"></Repeat>
+		<StayAt id="7" time="5"></StayAt>
+		<Died id="8" ></Died>
+	</PathGroup>
+	
+	
+	<PathGroup id="1003" description="straight left up 60pc pause 1">
+		<MoveTo id="1"  bx="70" by="120" bx1="70" by1="90" time="1"></MoveTo>
+		<MoveTo id="2"  bx1="70" by1="70" time="1" auto_rot="0"></MoveTo>
+		<MoveTo id="3"  bx1="30" by1="70" time="1" auto_rot="0"></MoveTo>
+		<MoveTo id="4"  bx1="30" by1="90" time="1" auto_rot="0"></MoveTo>
+		<MoveTo id="5"  bx1="70" by1="90" time="1" auto_rot="0"></MoveTo>
+		<Repeat id="6" b_id="2" e_id="5" repeat_times="100" auto_rot="0"></Repeat>
+		<MoveTo id="7"  bx1="-20" by1="90" time="1" auto_rot="0"></MoveTo>
+		<Died id="8" ></Died>
+	</PathGroup>
+	
+	<PathGroup id="1004" description="straight left up 60pc pause 1">
+		<MoveTo id="1"  bx="50" by="120" bx1="50" by1="90" time="1"></MoveTo>
+		<MoveTo id="2"  bx1="50" by1="80" time="1" auto_rot="0"></MoveTo>
+		<MoveTo id="3"  bx1="70" by1="80" time="1" auto_rot="0"></MoveTo>
+		<MoveTo id="4"  bx1="50" by1="65" time="1" auto_rot="0"></MoveTo>
+		<MoveTo id="5"  bx1="30" by1="80" time="1" auto_rot="0"></MoveTo>
+		<Repeat id="6" b_id="2" e_id="5" repeat_times="100" auto_rot="0"></Repeat>
+		<MoveTo id="7"  bx1="-20" by1="90" time="1" auto_rot="0"></MoveTo>
+		<Died id="8" ></Died>
+	</PathGroup>
+	
+	<PathGroup id="1005" description="straight left up 60pc pause 1">
+		<MoveTo id="1"  bx="50" by="120" bx1="50" by1="90" time="1"></MoveTo>
+		<MoveTo id="2"  bx1="50" by1="70" time="1" auto_rot="0"></MoveTo>
+		<MoveTo id="3"  bx1="70" by1="70" time="1" auto_rot="0"></MoveTo>
+		<MoveTo id="4"  bx1="70" by1="80" time="1" auto_rot="0"></MoveTo>
+		<MoveTo id="5"  bx1="30" by1="80" time="1" auto_rot="0"></MoveTo>
+		<MoveTo id="6"  bx1="30" by1="90" time="1" auto_rot="0"></MoveTo>
+		<MoveTo id="7"  bx1="50" by1="90" time="1" auto_rot="0"></MoveTo>
+		<Repeat id="8" b_id="2" e_id="7" repeat_times="100" auto_rot="0"></Repeat>
+		<MoveTo id="9"  bx1="-20" by1="90" time="1" auto_rot="0"></MoveTo>
+		<Died id="10" ></Died>
+	</PathGroup>
+	
+	<PathGroup id="1006" description="straight left up 60pc pause 1">
+		<MoveTo id="1"  bx="50" by="120" bx1="50" by1="80" time="4"></MoveTo>
+		<MoveTo id="2"  bx1="70" by1="80" time="4" auto_rot="0"></MoveTo>
+		<MoveTo id="3"  bx1="30" by1="80" time="4" auto_rot="0"></MoveTo>
+		<Repeat id="4" b_id="2" e_id="3" repeat_times="100" auto_rot="0"></Repeat>
+		<MoveTo id="5"  bx1="-20" by1="90" time="1" auto_rot="0"></MoveTo>
+		<Died id="6" ></Died>
+	</PathGroup>
+	
+	<PathGroup id="1007" description="straight left up 60pc pause 1">
+		<MoveTo id="1"  bx="70" by="120" bx1="70" by1="90" time="4"></MoveTo>
+		<MoveArc id="2" radius="80" angle="90" time="1" auto_rot="0"/>
+		<MoveArc id="3" radius="160" angle="-360" time="1" auto_rot="0"/>
+		<Repeat id="4" b_id="3" e_id="3" repeat_times="100" auto_rot="0"></Repeat>
+		<Died id="5" ></Died>
+	</PathGroup>
+	
+	<PathGroup id="1008" description="straight left up 60pc pause 1">
+		<MoveTo id="1"  bx="5" by="120" bx1="5" by1="85" time="4"></MoveTo>
+		<MoveArc id="2" radius="120" angle="360" time="1" auto_rot="0"/>
+		<Repeat id="3" b_id="2" e_id="2" repeat_times="100" auto_rot="0"></Repeat>
+	</PathGroup>
+	
+	<PathGroup id="1009" description="straight left up 60pc pause 1">
+		<MoveTo id="1"  bx="38" by="120" bx1="38" by1="85" time="4"></MoveTo>
+		<MoveArc id="2" radius="120" angle="360" time="1" auto_rot="0"/>
+		<Repeat id="3" b_id="2" e_id="2" repeat_times="100" auto_rot="0"></Repeat>
+	</PathGroup>
+	
+	<PathGroup id="1010" description="straight left up 60pc pause 1">
+		<MoveTo id="1"  bx="5" by="120" bx1="71" by1="85" time="4"></MoveTo>
+		<MoveArc id="2" radius="120" angle="360" time="1" auto_rot="0"/>
+		<Repeat id="3" b_id="2" e_id="2" repeat_times="100" auto_rot="0"></Repeat>
+	</PathGroup>
+	
+	
+	
+	
+	<PathGroup id="1101" description="straight left up 60pc pause 1">
+		<MoveTo id="1"  bx="40" by="85" bx1="30" by1="85" time="1"></MoveTo>
+		<MoveArc id="2" radius="200" angle="140" time="1"/>
+		<MoveArc id="3" radius="30" angle="-50" time="1"/>
+		<StayAt id="4" time="20" />
+		<MoveTo id="5" bx1="50" by1="-20"/>
+		<Died id="6"/>
+	</PathGroup>
+	<PathGroup id="1102" description="straight left up 60pc pause 1">
+		<MoveTo id="1"  bx="60" by="85" bx1="70" by1="85" time="1"></MoveTo>
+		<MoveArc id="2" radius="200" angle="-140" time="1"/>
+		<MoveArc id="3" radius="30" angle="50" time="1"/>
+		<StayAt id="4" time="20"/>
+		<MoveTo id="5" bx1="50" by1="-20" />
+		<Died id="6"/>
+	</PathGroup>
+	<PathGroup id="1103" description="straight left up 60pc pause 1">
+		<MoveTo id="1"  bx="40" by="85" bx1="30" by1="85" time="1"></MoveTo>
+		<MoveArc id="2" radius="150" angle="170" time="1" />
+		<MoveArc id="3" radius="30" angle="-79" time="1"/>
+		<StayAt id="4" time="20" />
+		<MoveTo id="5" bx1="50" by1="-20"/>
+		<Died id="6"/>
+	</PathGroup>
+	<PathGroup id="1104" description="straight left up 60pc pause 1">
+		<MoveTo id="1"  bx="60" by="85" bx1="70" by1="85" time="1"></MoveTo>
+		<MoveArc id="2" radius="150" angle="-170" time="1"/>
+		<MoveArc id="3" radius="30" angle="79" time="1"/>
+		<StayAt id="4" time="20" />
+		<MoveTo id="5" bx1="50" by1="-20" />
+		<Died id="6"/>
+	</PathGroup>
+	<PathGroup id="1105" description="straight left up 60pc pause 1">
+		<StayAt id="1" bx="-7" by="-3" time="10000000" auto_rot="0"/>
+	</PathGroup>
+	<PathGroup id="1106" description="straight left up 60pc pause 1">
+		<StayAt id="1" bx="7" by="-3" time="10000000" auto_rot="0"/>
+	</PathGroup>
+	<PathGroup id="1107" description="straight left up 60pc pause 1">
+		<MoveTo id="1" bx1="-13" by1="-3" time="3" auto_rot="0"/>
+		<StayAt id="2" time="3" auto_rot="0"/>
+		<MoveTo id="3" bx1="-7" by1="-3" time="3" auto_rot="0"/>
+		<StayAt id="4" time="3" auto_rot="0"/>
+		<Repeat id="5" b_id="1" e_id="4" repeat_times="100"/>
+	</PathGroup>
+	<PathGroup id="1108" description="straight left up 60pc pause 1">
+		<MoveTo id="1" bx1="13" by1="-3" time="3" auto_rot="0"/>
+		<StayAt id="2" time="3" auto_rot="0"/>
+		<MoveTo id="3" bx1="7" by1="-3" time="3" auto_rot="0"/>
+		<StayAt id="4" time="3" auto_rot="0"/>
+		<Repeat id="5" b_id="1" e_id="4" repeat_times="100"/>
+	</PathGroup>
+	<PathGroup id="1109" description="straight left up 60pc pause 1">
+		<MoveTo id="1" bx1="50" by1="80" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="2" time="1"/>
+		<MoveTo id="3" bx1="70" by1="90" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="4" time="1"/>
+		<MoveTo id="5" bx1="90" by1="70" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="6" time="1"/>
+		<MoveTo id="7" bx1="70" by1="50" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="8" time="1"/>
+		<MoveTo id="9" bx1="50" by1="60" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="10" time="1"/>
+		<MoveTo id="11" bx1="30" by1="50" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="12" time="1"/>
+		<MoveTo id="13" bx1="10" by1="70" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="14" time="1"/>
+		<MoveTo id="15" bx1="30" by1="90" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="16" time="1"/>
+		<MoveTo id="17" bx1="50" by1="80" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="18" time="1"/>
+		<MoveTo id="19" bx1="70" by1="70" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="20" time="1"/>
+		<MoveTo id="21" bx1="50" by1="60" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="22" time="1"/>
+		<MoveTo id="23" bx1="30" by1="70" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="24" time="1"/>
+		<MoveTo id="25" bx1="50" by1="80" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="26" time="1"/>
+		<Repeat id="27" b_id="1" e_id="26" repeat_times="100"></Repeat>
+	</PathGroup>
+	<PathGroup id="1110" description="straight left up 60pc pause 1">
+		<MoveTo id="1" bx1="50" by1="90" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="2" time="1"/>
+		<MoveTo id="3" bx1="70" by1="80" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="4" time="1"/>
+		<MoveTo id="5" bx1="90" by1="90" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="6" time="1"/>
+		<MoveTo id="7" bx1="70" by1="70" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="8" time="1"/>
+		<MoveTo id="9" bx1="50" by1="75" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="10" time="1"/>
+		<MoveTo id="11" bx1="30" by1="70" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="12" time="1"/>
+		<MoveTo id="13" bx1="10" by1="75" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="14" time="1"/>
+		<MoveTo id="15" bx1="30" by1="85" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="16" time="1"/>
+		<MoveTo id="17" bx1="50" by1="90" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="18" time="1"/>
+		<MoveTo id="19" bx1="70" by1="90" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="20" time="1"/>
+		<MoveTo id="21" bx1="50" by1="90" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="22" time="1"/>
+		<MoveTo id="23" bx1="30" by1="90" time="1" auto_rot="0"></MoveTo>
+		<StayAt id="24" time="1"/>
+		<Repeat id="25" b_id="1" e_id="24" repeat_times="100"></Repeat>
+	</PathGroup>
+	<PathGroup id="1111" description="straight left up 60pc pause 1">
+		<MoveTo id="1" bx="120" by="75.77" bx1="110" by1="70"  time="2"/>
+		<MoveArc id="2" radius="864" angle="-60" time="2" auto_rot="0"/>
+		<Died id="3"/>
+	</PathGroup>
+	<PathGroup id="1112" description="straight left up 60pc pause 1">
+		<MoveTo id="1" bx="-20" by="75.77" bx1="-10" by1="70"  time="2"/>
+		<MoveArc id="2" radius="864" angle="60" time="2"/>
+		<Died id="3"/>
+	</PathGroup>
+	
+	<PathGroup id="1201" description="straight left up 60pc pause 1">
+		<StayAt id="1" bx="-22" by="-3.4" time="10000000" auto_rot="0"/>
+	</PathGroup>
+	<PathGroup id="1202" description="straight left up 60pc pause 1">
+		<StayAt id="1" bx="22" by="-3.4" time="10000000" auto_rot="0"/>
+	</PathGroup>
+	<PathGroup id="1203" description="straight left up 60pc pause 1">
+		<StayAt id="1" bx="-22" by="-10.4" time="10000000" auto_rot="0"/>
+	</PathGroup>
+	<PathGroup id="1204" description="straight left up 60pc pause 1">
+		<StayAt id="1" bx="22" by="-10.4" time="10000000" auto_rot="0"/>
+	</PathGroup>
+	
+	<PathGroup id="1301" description="straight left up 60pc pause 1">
+		<MoveTo id="1" bx="-20" by="120" bx1="10" by1="120" time="2"/>
+		<MoveTo id="2" bx1="10" by1="-20" time="2" auto_rot="0"/>
+		<Died id="3"/>
+	</PathGroup>
+	<PathGroup id="1302" description="straight left up 60pc pause 1">
+		<MoveTo id="1" bx="120" by="120" bx1="90" by1="120" time="2"/>
+		<MoveTo id="2" bx1="90" by1="-20" time="2" auto_rot="0"/>
+		<Died id="3"/>
+	</PathGroup>
+	
+	
+	
+	<!-- 导弹轨迹示例 -->
+	<PathGroup id="2000" description="straight down ">
+		<Path id="1" bx="50" by="120" bx1="50" by1="-20" time="2" angle=""></Path>
+		<Died id="2" ></Died>
+	</PathGroup>
+
+</root>

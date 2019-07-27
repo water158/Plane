@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Mission id="1_3" start_at="0" enable="1" stage="关卡1" mode="0" tip="0 普通 1 爆破 2 追击 3 收集" bg_id="1" reward_gold="21" reward_crystal="50">
+	<!-- Relation -->
+	<Timeline>
+		<Wave id="1" is_pause="1">
+			<Plane id="1" route="141" type="1" repeat_times="1" repeat_delay="0.0" first_delay="0.0" speed="500"></Plane>
+		</Wave>
+		<Wave id="2" is_pause="1">
+			<Plane id="1" route="133" type="4" repeat_times="1" repeat_delay="0.0" first_delay="0.0" speed="500"></Plane>
+		</Wave>
+		<Wave id="3" is_pause="1">
+			<Plane id="1" route="136" type="1" repeat_times="1" repeat_delay="0.0" first_delay="0.0" speed="500"></Plane>
+			<Plane id="2" route="135" type="1" repeat_times="1" repeat_delay="0.0" first_delay="0.0" speed="500"></Plane>
+		</Wave>
+		<Wave id="4" is_pause="1">
+			<Plane id="1" route="136" type="1" repeat_times="1" repeat_delay="0.0" first_delay="0.0" speed="500"></Plane>
+			<Plane id="2" route="134" type="1" repeat_times="1" repeat_delay="0.0" first_delay="0.0" speed="500"></Plane>
+			<Plane id="3" route="135" type="1" repeat_times="1" repeat_delay="0.0" first_delay="0.0" speed="500"></Plane>
+		</Wave>
+		<Wave id="5" is_pause="1">
+			<Plane id="1" route="136" type="6" repeat_times="1" repeat_delay="0.0" first_delay="0.0" speed="500"></Plane>
+		</Wave>
+		<Wave id="6" is_pause="1">
+			<Plane id="1" route="136" type="4" repeat_times="1" repeat_delay="0.0" first_delay="0.0" speed="500"></Plane>
+			<Plane id="2" route="124" type="4" repeat_times="1" repeat_delay="0.0" first_delay="0.0" speed="500"></Plane>
+		</Wave>
+		<Wave id="7" is_pause="1">
+			<Plane id="1" route="136" type="3" repeat_times="1" repeat_delay="0.0" first_delay="0.0" speed="500"></Plane>
+		</Wave>
+		<Wave id="8" is_pause="1">
+			<Plane id="1" route="136" type="1" repeat_times="1" repeat_delay="0.0" first_delay="0.0" speed="500"></Plane>
+			<Plane id="2" route="126" type="1" repeat_times="1" repeat_delay="0.0" first_delay="0.0" speed="500"></Plane>
+			<Plane id="3" route="146" type="1" repeat_times="1" repeat_delay="0.0" first_delay="0.0" speed="500"></Plane>
+		</Wave>
+		<Wave id="9" is_pause="1">
+			<Plane id="1" route="145" type="5" repeat_times="1" repeat_delay="0.0" first_delay="0.0" speed="500"></Plane>
+		</Wave>
+		<Wave id="10" is_pause="1">
+			<Plane id="1" route="135" type="11" repeat_times="1" repeat_delay="0.0" first_delay="0.0" speed="500"></Plane>
+		</Wave>
+	</Timeline>
+
+	
+    
+</Mission>

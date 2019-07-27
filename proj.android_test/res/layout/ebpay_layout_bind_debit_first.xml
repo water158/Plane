@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:paddingBottom="20dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp" >
+
+        <RelativeLayout
+            android:id="@+id/bank_area"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" 
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/list_title"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="@dimen/ebpay_line_margin_15"
+                android:text="@string/ebpay_choose_bank_pay"
+                android:textColor="@color/ebpay_text_333333"
+                android:textSize="@dimen/ebpay_text_size_18" />
+
+            <RelativeLayout
+                android:id="@+id/list_deposit_area"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:layout_below="@+id/list_title"
+                android:layout_gravity="center_horizontal" >
+
+                <TextView
+                    android:id="@+id/list_deposit_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:paddingTop="10dp"
+                    android:paddingRight="15dp"
+                    android:text="@string/ebpay_support_fast_banks"
+                    android:textColor="#666666"
+                    android:textSize="15sp" />
+
+                <Button
+                    android:id="@+id/btn_discount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="19dp"
+                    android:layout_alignRight="@+id/list_deposit_title"
+                    android:layout_alignTop="@+id/list_deposit_title"
+                    android:background="@drawable/ebpay_discount"
+                    android:paddingLeft="1dp"
+                    android:paddingRight="1dp"
+                    android:text="9.9折"
+                    android:textColor="#ffffff"
+                    android:textSize="10dp"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/list_deposit"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/list_deposit_area"
+                android:background="@drawable/ebpay_circular_bg1"
+                android:orientation="vertical" />
+
+            <TextView
+                android:id="@+id/yinlian_deposit_title"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/list_deposit"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:text="@string/ebpay_support_yinlian_banks"
+                android:textColor="#666666"
+                android:textSize="15sp" />
+
+            <LinearLayout
+                android:id="@+id/yinlian_deposit"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/yinlian_deposit_title"
+                android:background="@drawable/ebpay_circular_bg1"
+                android:orientation="vertical" />
+
+            <TextView
+                android:id="@+id/more_banks"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignRight="@+id/yinlian_deposit"
+                android:layout_below="@+id/yinlian_deposit"
+                android:layout_marginTop="10dp"
+                android:text="@string/ebpay_more_bank"
+                android:textColor="@color/ebpay_blue"
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/empty_view"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginTop="70dp"
+            android:gravity="center" >
+
+            <ProgressBar
+                android:id="@+id/progress_bar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:indeterminateDrawable="@drawable/ebpay_loading" />
+
+            <TextView
+                android:id="@+id/reget"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/ebpay_reget_debits"
+                android:textColor="@color/ebpay_text_999999"
+                android:visibility="gone" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+    <AnimationList num="7">
+		<Animation tag="craft_boom_1" framenum="13">game/animations/craft_boom_1.plist</Animation>
+		<Animation tag="craft_boom_2" framenum="15">game/animations/craft_boom_2.plist</Animation>
+		<Animation tag="craft_boom_3" framenum="6">game/animations/craft_boom_3.plist</Animation>
+        <Animation tag="craft_boom_4" framenum="4">game/animations/craft_boom_4.plist</Animation>
+		<Animation tag="trace_missile_hit" framenum="3">game/animations/trace_missile_hit.plist</Animation>
+		<Animation tag="effect_expand" framenum="1">game/animations/effect_expand.plist</Animation>
+		<Animation tag="effect_hit" framenum="7">game/animations/effect_hit.plist</Animation>
+    </AnimationList>
+</root>

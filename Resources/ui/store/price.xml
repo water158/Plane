@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Store>
+	<price id="1_1" value="1" consume="10" label="购买1点体力"></price>
+	<price id="1_2" value="5" consume="45" label="购买5点体力"></price>
+	<price id="1_3" value="10" consume="90" label="购买10点体力"></price>
+	<price id="2_1" value="10000" consume="10" label="购买10000金币"></price>
+	<price id="2_2" value="20000" consume="20" label="购买20000金币"></price>
+	<price id="2_3" value="50000" consume="45" label="购买50000金币"></price>
+	<price id="2_4" value="100000" consume="85" label="购买100000金币"></price>
+	<price id="2_5" value="200000" consume="160" label="购买200000金币"></price>
+	<price id="3_1" value="20" consume="2" label="购买20钻石"></price>
+	<price id="3_2" value="60" consume="6" label="购买60钻石"></price>
+	<price id="3_3" value="100" consume="10" label="购买100钻石"></price>
+	<price id="3_4" value="300" consume="30" label="购买300钻石"></price>
+</Store>

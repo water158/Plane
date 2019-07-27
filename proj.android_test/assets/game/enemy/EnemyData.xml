@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<EnemyData>
+	<TargetPlane id="1" plane_id="101" blood="30" drop_coin_num="3" drop_rate="0.28">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<!-- 道具prop305 -->
+		    <TargetGunGroup id="1" gungroup_id="303" first_delay="0" x="0" y="0" repeat_times="15" repeat_delay="0.2" harm="10"/>
+		</Phrase>	
+	</TargetPlane>
+	<TargetPlane id="2" plane_id="201" blood="30" drop_coin_num="3" drop_rate="0.28">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<!-- 道具prop306 -->
+			<TargetGunGroup id="1" gungroup_id="302" first_delay="0" x="0" y="0" repeat_times="1" repeat_delay="0.0" harm="10"/>
+		</Phrase>	
+	</TargetPlane>
+	<TargetPlane id="3" plane_id="202" blood="30" drop_coin_num="3" drop_rate="0.28">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<!-- 道具prop307 -->
+			<TargetGunGroup id="1" gungroup_id="304" first_delay="0" x="0" y="0" repeat_times="3" repeat_delay="0.5" harm="10"/>
+		</Phrase>	
+	</TargetPlane>
+	<TargetPlane id="4" plane_id="203" blood="30" drop_coin_num="3" drop_rate="0.28">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100">
+			<!-- 道具prop309 -->
+			<TargetGunGroup id="1" gungroup_id="301" first_delay="0" x="0" y="0" repeat_times="1" repeat_delay="0.0" harm="100"/>
+		</Phrase>	
+	</TargetPlane>
+	<TargetPlane id="5" plane_id="301" blood="30" drop_coin_num="3" drop_rate="0.28">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100"></Phrase>	
+	</TargetPlane>
+	<TargetPlane id="6" plane_id="302" blood="30" drop_coin_num="3" drop_rate="0.28">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100"></Phrase>	
+	</TargetPlane>
+	<TargetPlane id="7" plane_id="401" blood="30" drop_coin_num="3" drop_rate="0.28">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100"></Phrase>	
+	</TargetPlane>
+	<TargetPlane id="8" plane_id="402" blood="30" drop_coin_num="3" drop_rate="0.28">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100"></Phrase>	
+	</TargetPlane>
+	<TargetPlane id="9" plane_id="403" blood="30" drop_coin_num="3" drop_rate="0.28">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100"></Phrase>	
+	</TargetPlane>
+	<TargetPlane id="10" plane_id="501" blood="30" drop_coin_num="3" drop_rate="0.28">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100"></Phrase>	
+	</TargetPlane>
+	<TargetPlane id="11" plane_id="502" blood="30" drop_coin_num="3" drop_rate="0.28">
+		<BatteryInfo>
+		</BatteryInfo>
+		<Phrase id="1" lower="0" upper="100"></Phrase>	
+	</TargetPlane>
+</EnemyData>
